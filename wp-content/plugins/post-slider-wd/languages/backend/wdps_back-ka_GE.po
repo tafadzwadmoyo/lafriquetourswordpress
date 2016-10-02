@@ -1,0 +1,2548 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: post-slider-wd\n"
+"POT-Creation-Date: 2016-08-17 15:38+0500\n"
+"PO-Revision-Date: 2016-08-17 15:39+0500\n"
+"Last-Translator: admin < vahram@gmail.com >\n"
+"Language-Team: \n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=0;\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:61
+#: admin/views/WDPSViewSliders_wdps.php:2613
+msgid "All"
+msgstr "ყველა"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:613
+#: framework/WDW_PS_Library.php:141
+msgid "Changes must be saved."
+msgstr "ცვლილებები უნდა იყოს შენახული."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:624
+msgid "Item Succesfully Duplicated."
+msgstr "საქონელი წარმატებით დუბლირებული."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:642
+msgid "Do you want to duplicate selected items?"
+msgstr "გსურთ დუბლიკატი შერჩეული ნივთები?"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:646
+#: admin/controllers/WDPSControllerSliders_wdps.php:904
+#: admin/controllers/WDPSControllerSliders_wdps.php:946
+#: admin/controllers/WDPSControllerSliders_wdps.php:988
+#: framework/WDW_PS_Library.php:75
+msgid "You must select at least one item."
+msgstr "თქვენ უნდა აირჩიოთ მინიმუმ ერთი ნივთი."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:650
+msgid "Items Succesfully Duplicated."
+msgstr "საკითხი წარმატებით დუბლირებული."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:875
+#: framework/WDW_PS_Library.php:57
+msgid "Item Succesfully Deleted."
+msgstr "საქონელი წარმატებით ამოღებულია."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:878
+#: admin/controllers/WDPSControllerSliders_wdps.php:917
+#: admin/controllers/WDPSControllerSliders_wdps.php:959
+#: framework/WDW_PS_Library.php:51
+msgid "Error. Please install plugin again."
+msgstr "შეცდომა. გთხოვთ დააყენოთ მოდული ერთხელ."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:900
+#: framework/WDW_PS_Library.php:69
+msgid "Items Succesfully Deleted."
+msgstr "საკითხი წარმატებით ამოღებულია."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:914
+#: framework/WDW_PS_Library.php:93
+msgid "Item Succesfully Published."
+msgstr "საქონელი წარმატებით გამოქვეყნებული."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:942
+#: framework/WDW_PS_Library.php:99
+msgid "Items Succesfully Published."
+msgstr "საკითხი წარმატებით გამოქვეყნებული."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:956
+#: framework/WDW_PS_Library.php:105
+msgid "Item Succesfully Unpublished."
+msgstr "საქონელი წარმატებით გამოუქვეყნებელი."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:984
+#: framework/WDW_PS_Library.php:111
+msgid "Items Succesfully Unpublished."
+msgstr "საკითხი წარმატებით გამოუქვეყნებელი."
+
+#: admin/views/WDPSViewSliders_wdps.php:34
+msgid "Post Sliders"
+msgstr "Post Sliders"
+
+#: admin/views/WDPSViewSliders_wdps.php:65
+msgid "This section allows you to create, edit and delete post sliders."
+msgstr ""
+"ეს სექცია გაძლევთ საშუალებას შექმნათ, რედაქტირება და წაშლა პოსტი sliders."
+
+#: admin/views/WDPSViewSliders_wdps.php:66
+#: admin/views/WDPSViewSliders_wdps.php:560
+msgid "Read More in User Manual"
+msgstr "ვრცლად მომხმარებელი სახელმძღვანელო"
+
+#: admin/views/WDPSViewSliders_wdps.php:80
+msgid "Add new"
+msgstr "ახლის დამატება"
+
+#: admin/views/WDPSViewSliders_wdps.php:83
+#: admin/views/WDPSViewSliders_wdps.php:117
+msgid "Name"
+msgstr "სახელი"
+
+#: admin/views/WDPSViewSliders_wdps.php:87
+msgid "Select All"
+msgstr "აირჩიეთ ყველა"
+
+#: admin/views/WDPSViewSliders_wdps.php:89
+msgid "Publish"
+msgstr "გამოქვეყნება"
+
+#: admin/views/WDPSViewSliders_wdps.php:90
+msgid "Unpublish"
+msgstr "გამოქვეყნების"
+
+#: admin/views/WDPSViewSliders_wdps.php:91
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: admin/views/WDPSViewSliders_wdps.php:92
+#: admin/views/WDPSViewSliders_wdps.php:182
+msgid "Do you want to delete selected items?"
+msgstr "გსურთ წაშალოთ შერჩეული ნივთები?"
+
+#: admin/views/WDPSViewSliders_wdps.php:96
+#: admin/views/WDPSViewSliders_wdps.php:182
+#: admin/views/WDPSViewSliders_wdps.php:1997 post-slider-wd.php:402
+msgid "Delete"
+msgstr "წაშლა"
+
+#: admin/views/WDPSViewSliders_wdps.php:111
+msgid "Slider"
+msgstr "Slider"
+
+#: admin/views/WDPSViewSliders_wdps.php:120
+#: admin/views/WDPSViewSliders_wdps.php:617
+#: admin/views/WDPSViewSliders_wdps.php:1864
+#: admin/views/WDPSViewSliders_wdps.php:1893
+msgid "Slides"
+msgstr "სლაიდები"
+
+#: admin/views/WDPSViewSliders_wdps.php:121
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/views/WDPSViewSliders_wdps.php:122
+msgid "PHP function"
+msgstr "PHP ფუნქცია"
+
+#: admin/views/WDPSViewSliders_wdps.php:128
+msgid "Published"
+msgstr "გამოქვეყნებულია"
+
+#: admin/views/WDPSViewSliders_wdps.php:131
+msgid "Action"
+msgstr "აქცია"
+
+#: admin/views/WDPSViewSliders_wdps.php:158
+#: admin/views/WDPSViewSliders_wdps.php:172
+msgid "Edit"
+msgstr "რედაქტირება"
+
+#: admin/views/WDPSViewSliders_wdps.php:215
+msgid "Edit post slider "
+msgstr "რედაქტირება პოსტი სლაიდერი "
+
+#: admin/views/WDPSViewSliders_wdps.php:215
+msgid "Create new post slider"
+msgstr "შექმნა ახალი პოსტი სლაიდერი"
+
+#: admin/views/WDPSViewSliders_wdps.php:238
+msgid "Publishing Date"
+msgstr "გამომცემლობა თარიღი"
+
+#: admin/views/WDPSViewSliders_wdps.php:239
+msgid "Modification Date"
+msgstr "მოდიფიკაცია თარიღი"
+
+#: admin/views/WDPSViewSliders_wdps.php:240
+msgid "Number of Comments"
+msgstr "კომენტარების რაოდენობა"
+
+#: admin/views/WDPSViewSliders_wdps.php:241
+msgid "Post Title"
+msgstr "სათაური"
+
+#: admin/views/WDPSViewSliders_wdps.php:242
+msgid "Menu Order"
+msgstr "მენიუ ორდენი"
+
+#: admin/views/WDPSViewSliders_wdps.php:243
+msgid "Author"
+msgstr "ავტორი"
+
+#: admin/views/WDPSViewSliders_wdps.php:244
+#: admin/views/WDPSViewSliders_wdps.php:359
+msgid "Random"
+msgstr "შემთხვევითი"
+
+#: admin/views/WDPSViewSliders_wdps.php:256
+#: admin/views/WDPSViewWDPSPosts.php:123
+msgid "Select"
+msgstr "აირჩიეთ"
+
+#: admin/views/WDPSViewSliders_wdps.php:257
+msgid "Hour"
+msgstr "საათი"
+
+#: admin/views/WDPSViewSliders_wdps.php:258
+msgid "Day"
+msgstr "დღეს"
+
+#: admin/views/WDPSViewSliders_wdps.php:259
+msgid "Week"
+msgstr "კვირა"
+
+#: admin/views/WDPSViewSliders_wdps.php:260
+msgid "Month"
+msgstr "თვე"
+
+#: admin/views/WDPSViewSliders_wdps.php:263
+#: admin/views/WDPSViewSliders_wdps.php:459
+#: admin/views/WDPSViewSliders_wdps.php:1739 post-slider-wd.php:350
+msgid "Left"
+msgstr "მარცხენა"
+
+#: admin/views/WDPSViewSliders_wdps.php:264
+msgid "Center"
+msgstr "ცენტრი"
+
+#: admin/views/WDPSViewSliders_wdps.php:265
+#: admin/views/WDPSViewSliders_wdps.php:461
+#: admin/views/WDPSViewSliders_wdps.php:1737 post-slider-wd.php:351
+msgid "Right"
+msgstr "მარჯვენა"
+
+#: admin/views/WDPSViewSliders_wdps.php:268
+#: admin/views/WDPSViewSliders_wdps.php:333
+#: admin/views/WDPSViewSliders_wdps.php:364
+#: admin/views/WDPSViewSliders_wdps.php:411 post-slider-wd.php:293
+msgid "None"
+msgstr "არცერთი"
+
+#: admin/views/WDPSViewSliders_wdps.php:269 post-slider-wd.php:335
+msgid "Solid"
+msgstr "მყარი"
+
+#: admin/views/WDPSViewSliders_wdps.php:270 post-slider-wd.php:336
+msgid "Dotted"
+msgstr "წყვეტილი"
+
+#: admin/views/WDPSViewSliders_wdps.php:271 post-slider-wd.php:337
+msgid "Dashed"
+msgstr "დატეხილი"
+
+#: admin/views/WDPSViewSliders_wdps.php:272
+#: admin/views/WDPSViewSliders_wdps.php:281 post-slider-wd.php:338
+msgid "Double"
+msgstr "ორმაგი"
+
+#: admin/views/WDPSViewSliders_wdps.php:273 post-slider-wd.php:339
+msgid "Groove"
+msgstr "Groove"
+
+#: admin/views/WDPSViewSliders_wdps.php:274 post-slider-wd.php:340
+msgid "Ridge"
+msgstr "Ridge"
+
+#: admin/views/WDPSViewSliders_wdps.php:275 post-slider-wd.php:341
+msgid "Inset"
+msgstr "Inset"
+
+#: admin/views/WDPSViewSliders_wdps.php:276 post-slider-wd.php:342
+msgid "Outset"
+msgstr "თავიდანვე"
+
+#: admin/views/WDPSViewSliders_wdps.php:279
+msgid "Chevron"
+msgstr "Chevron"
+
+#: admin/views/WDPSViewSliders_wdps.php:280
+msgid "Angle"
+msgstr "კუთხე"
+
+#: admin/views/WDPSViewSliders_wdps.php:284
+msgid "Circle O"
+msgstr "Circle O"
+
+#: admin/views/WDPSViewSliders_wdps.php:285
+msgid "Circle"
+msgstr "Circle"
+
+#: admin/views/WDPSViewSliders_wdps.php:286
+msgid "Minus"
+msgstr "მინუს"
+
+#: admin/views/WDPSViewSliders_wdps.php:287
+msgid "Square O"
+msgstr "მოედანზე O"
+
+#: admin/views/WDPSViewSliders_wdps.php:288
+msgid "Square"
+msgstr "მოედანზე"
+
+#: admin/views/WDPSViewSliders_wdps.php:320 post-slider-wd.php:332
+msgid "Lighter"
+msgstr "მსუბუქი"
+
+#: admin/views/WDPSViewSliders_wdps.php:321 post-slider-wd.php:333
+msgid "Normal"
+msgstr "ნორმალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:322 post-slider-wd.php:334
+msgid "Bold"
+msgstr "Bold"
+
+#: admin/views/WDPSViewSliders_wdps.php:325 post-slider-wd.php:343
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/views/WDPSViewSliders_wdps.php:326 post-slider-wd.php:344
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/views/WDPSViewSliders_wdps.php:327 post-slider-wd.php:345
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/views/WDPSViewSliders_wdps.php:328 post-slider-wd.php:346
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/views/WDPSViewSliders_wdps.php:329 post-slider-wd.php:347
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: admin/views/WDPSViewSliders_wdps.php:334
+msgid "Fade"
+msgstr "Fade"
+
+#: admin/views/WDPSViewSliders_wdps.php:335
+msgid "Slice Horizontal"
+msgstr "Slice ჰორიზონტალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:336
+msgid "Fan"
+msgstr "Fan"
+
+#: admin/views/WDPSViewSliders_wdps.php:337
+msgid "Scale In"
+msgstr "მასშტაბის"
+
+#: admin/views/WDPSViewSliders_wdps.php:338
+msgid "Zoom Fade"
+msgstr "Zoom Fade"
+
+#: admin/views/WDPSViewSliders_wdps.php:339
+msgid "Parallel Slide Horizontal"
+msgstr "პარალელური Slide ჰორიზონტალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:340
+msgid "Parallel Slide Vertical"
+msgstr "პარალელური Slide ვერტიკალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:341
+msgid "Slice 3D Horizontal"
+msgstr "Slice 3D ჰორიზონტალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:342
+msgid "Slice 3D Vertical"
+msgstr "Slice 3D ვერტიკალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:343
+msgid "Slice 3D Horizontal Random"
+msgstr "Slice 3D ჰორიზონტალური შემთხვევითი"
+
+#: admin/views/WDPSViewSliders_wdps.php:344
+msgid "Slice 3D Vertical Random"
+msgstr "Slice 3D ვერტიკალური შემთხვევითი"
+
+#: admin/views/WDPSViewSliders_wdps.php:345
+msgid "Blind"
+msgstr "Blind"
+
+#: admin/views/WDPSViewSliders_wdps.php:346
+msgid "Tiles"
+msgstr "ფილები"
+
+#: admin/views/WDPSViewSliders_wdps.php:347
+msgid "Block Scale Random"
+msgstr "Block Scale შემთხვევითი"
+
+#: admin/views/WDPSViewSliders_wdps.php:348
+msgid "Cube Horizontal"
+msgstr "Cube ჰორიზონტალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:349
+msgid "Cube Vertical"
+msgstr "Cube ვერტიკალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:350
+msgid "Cube Random"
+msgstr "Cube შემთხვევითი"
+
+#: admin/views/WDPSViewSliders_wdps.php:351
+msgid "Slice Vertical"
+msgstr "Slice ვერტიკალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:352
+msgid "Slide Horizontal"
+msgstr "Slide ჰორიზონტალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:353
+msgid "Slide Vertical"
+msgstr "Slide ვერტიკალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:354
+msgid "Scale Out"
+msgstr "მასშტაბის Out"
+
+#: admin/views/WDPSViewSliders_wdps.php:355
+msgid "Block Scale"
+msgstr "Block Scale"
+
+#: admin/views/WDPSViewSliders_wdps.php:356
+msgid "Kaleidoscope"
+msgstr "კალეიდოსკოპი"
+
+#: admin/views/WDPSViewSliders_wdps.php:357
+msgid "Blind Horizontal"
+msgstr "Blind ჰორიზონტალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:358
+msgid "Blind Vertical"
+msgstr "Blind ვერტიკალური"
+
+#: admin/views/WDPSViewSliders_wdps.php:360
+msgid "3D Random"
+msgstr "3D შემთხვევითი"
+
+#: admin/views/WDPSViewSliders_wdps.php:365
+#: admin/views/WDPSViewSliders_wdps.php:412 post-slider-wd.php:294
+msgid "Bounce"
+msgstr "Bounce"
+
+#: admin/views/WDPSViewSliders_wdps.php:366
+#: admin/views/WDPSViewSliders_wdps.php:413 post-slider-wd.php:300
+msgid "Tada"
+msgstr "Tada"
+
+#: admin/views/WDPSViewSliders_wdps.php:367
+#: admin/views/WDPSViewSliders_wdps.php:414 post-slider-wd.php:306
+msgid "BounceInDown"
+msgstr "BounceInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:368
+#: admin/views/WDPSViewSliders_wdps.php:415 post-slider-wd.php:313
+msgid "FadeInLeft"
+msgstr "FadeInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:369
+#: admin/views/WDPSViewSliders_wdps.php:416 post-slider-wd.php:295
+msgid "Flash"
+msgstr "ფლეშ"
+
+#: admin/views/WDPSViewSliders_wdps.php:370
+#: admin/views/WDPSViewSliders_wdps.php:417 post-slider-wd.php:296
+msgid "Pulse"
+msgstr "Pulse"
+
+#: admin/views/WDPSViewSliders_wdps.php:371
+#: admin/views/WDPSViewSliders_wdps.php:418 post-slider-wd.php:297
+msgid "RubberBand"
+msgstr "რეზინის სამაჯური"
+
+#: admin/views/WDPSViewSliders_wdps.php:372
+#: admin/views/WDPSViewSliders_wdps.php:419 post-slider-wd.php:298
+msgid "Shake"
+msgstr "Shake"
+
+#: admin/views/WDPSViewSliders_wdps.php:373
+#: admin/views/WDPSViewSliders_wdps.php:420 post-slider-wd.php:299
+msgid "Swing"
+msgstr "Swing"
+
+#: admin/views/WDPSViewSliders_wdps.php:374
+#: admin/views/WDPSViewSliders_wdps.php:421 post-slider-wd.php:301
+msgid "Wobble"
+msgstr "Wobble"
+
+#: admin/views/WDPSViewSliders_wdps.php:375
+#: admin/views/WDPSViewSliders_wdps.php:422 post-slider-wd.php:302
+msgid "Hinge"
+msgstr "Hinge"
+
+#: admin/views/WDPSViewSliders_wdps.php:377
+#: admin/views/WDPSViewSliders_wdps.php:424 post-slider-wd.php:303
+msgid "LightSpeedIn"
+msgstr "LightSpeedIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:378
+#: admin/views/WDPSViewSliders_wdps.php:425 post-slider-wd.php:304
+msgid "RollIn"
+msgstr "Rollin"
+
+#: admin/views/WDPSViewSliders_wdps.php:380
+#: admin/views/WDPSViewSliders_wdps.php:427 post-slider-wd.php:305
+msgid "BounceIn"
+msgstr "BounceIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:381
+#: admin/views/WDPSViewSliders_wdps.php:428 post-slider-wd.php:307
+msgid "BounceInLeft"
+msgstr "BounceInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:382
+#: admin/views/WDPSViewSliders_wdps.php:429 post-slider-wd.php:308
+msgid "BounceInRight"
+msgstr "BounceInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:383
+#: admin/views/WDPSViewSliders_wdps.php:430 post-slider-wd.php:309
+msgid "BounceInUp"
+msgstr "BounceInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:385
+#: admin/views/WDPSViewSliders_wdps.php:432 post-slider-wd.php:310
+msgid "FadeIn"
+msgstr "ქრებოდა"
+
+#: admin/views/WDPSViewSliders_wdps.php:386
+#: admin/views/WDPSViewSliders_wdps.php:433 post-slider-wd.php:311
+msgid "FadeInDown"
+msgstr "FadeInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:387
+#: admin/views/WDPSViewSliders_wdps.php:434 post-slider-wd.php:312
+msgid "FadeInDownBig"
+msgstr "FadeInDownBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:388
+#: admin/views/WDPSViewSliders_wdps.php:435 post-slider-wd.php:314
+msgid "FadeInLeftBig"
+msgstr "FadeInLeftBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:389
+#: admin/views/WDPSViewSliders_wdps.php:436 post-slider-wd.php:315
+msgid "FadeInRight"
+msgstr "FadeInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:390
+#: admin/views/WDPSViewSliders_wdps.php:437 post-slider-wd.php:316
+msgid "FadeInRightBig"
+msgstr "FadeInRightBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:391
+#: admin/views/WDPSViewSliders_wdps.php:438 post-slider-wd.php:317
+msgid "FadeInUp"
+msgstr "FadeInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:392
+#: admin/views/WDPSViewSliders_wdps.php:439 post-slider-wd.php:318
+msgid "FadeInUpBig"
+msgstr "FadeInUpBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:394
+#: admin/views/WDPSViewSliders_wdps.php:441 post-slider-wd.php:319
+msgid "Flip"
+msgstr "დაფის"
+
+#: admin/views/WDPSViewSliders_wdps.php:395
+#: admin/views/WDPSViewSliders_wdps.php:442 post-slider-wd.php:320
+msgid "FlipInX"
+msgstr "FlipInX"
+
+#: admin/views/WDPSViewSliders_wdps.php:396
+#: admin/views/WDPSViewSliders_wdps.php:443 post-slider-wd.php:321
+msgid "FlipInY"
+msgstr "FlipInY"
+
+#: admin/views/WDPSViewSliders_wdps.php:398
+#: admin/views/WDPSViewSliders_wdps.php:445 post-slider-wd.php:322
+msgid "RotateIn"
+msgstr "RotateIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:399
+#: admin/views/WDPSViewSliders_wdps.php:446 post-slider-wd.php:323
+msgid "RotateInDownLeft"
+msgstr "RotateInDownLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:400
+#: admin/views/WDPSViewSliders_wdps.php:447 post-slider-wd.php:324
+msgid "RotateInDownRight"
+msgstr "RotateInDownRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:401
+#: admin/views/WDPSViewSliders_wdps.php:448 post-slider-wd.php:325
+msgid "RotateInUpLeft"
+msgstr "RotateInUpLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:402
+#: admin/views/WDPSViewSliders_wdps.php:449 post-slider-wd.php:326
+msgid "RotateInUpRight"
+msgstr "RotateInUpRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:404
+#: admin/views/WDPSViewSliders_wdps.php:451 post-slider-wd.php:327
+msgid "ZoomIn"
+msgstr "გადიდება"
+
+#: admin/views/WDPSViewSliders_wdps.php:405
+#: admin/views/WDPSViewSliders_wdps.php:452 post-slider-wd.php:328
+msgid "ZoomInDown"
+msgstr "ZoomInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:406
+#: admin/views/WDPSViewSliders_wdps.php:453 post-slider-wd.php:329
+msgid "ZoomInLeft"
+msgstr "ZoomInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:407
+#: admin/views/WDPSViewSliders_wdps.php:454 post-slider-wd.php:330
+msgid "ZoomInRight"
+msgstr "ZoomInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:408
+#: admin/views/WDPSViewSliders_wdps.php:455 post-slider-wd.php:331
+msgid "ZoomInUp"
+msgstr "ZoomInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:458
+#: admin/views/WDPSViewSliders_wdps.php:1482
+#: admin/views/WDPSViewSliders_wdps.php:1736 post-slider-wd.php:348
+msgid "Top"
+msgstr "ყველაზე"
+
+#: admin/views/WDPSViewSliders_wdps.php:460
+#: admin/views/WDPSViewSliders_wdps.php:1483
+#: admin/views/WDPSViewSliders_wdps.php:1738 post-slider-wd.php:349
+msgid "Bottom"
+msgstr "Bottom"
+
+#: admin/views/WDPSViewSliders_wdps.php:467
+msgid "Some options are disabled in free version."
+msgstr "რამოდენიმე ვარიანტი გათიშულია უფასო ვერსია."
+
+#: admin/views/WDPSViewSliders_wdps.php:468
+msgid "This option is disabled in free version."
+msgstr "ეს ვარიანტი გამორთულია უფასო ვერსია."
+
+#: admin/views/WDPSViewSliders_wdps.php:559
+msgid "This section allows you to add/edit slider."
+msgstr "ეს სექცია საშუალებას გაძლევთ დამატება / რედაქტირების სლაიდერი."
+
+#: admin/views/WDPSViewSliders_wdps.php:574
+msgid "Slider Title:"
+msgstr "Slider სათაური:"
+
+#: admin/views/WDPSViewSliders_wdps.php:581
+msgid "Save"
+msgstr "Save"
+
+#: admin/views/WDPSViewSliders_wdps.php:586
+msgid "Apply"
+msgstr "მიმართვა"
+
+#: admin/views/WDPSViewSliders_wdps.php:591
+msgid "Cancel"
+msgstr "გაუქმება"
+
+#: admin/views/WDPSViewSliders_wdps.php:600
+msgid "Reset Settings"
+msgstr "აღდგენა პარამეტრები"
+
+#: admin/views/WDPSViewSliders_wdps.php:612
+#: admin/views/WDPSViewSliders_wdps.php:1859
+msgid "Settings"
+msgstr "პარამეტრები"
+
+#: admin/views/WDPSViewSliders_wdps.php:630
+msgid "Global"
+msgstr "Global"
+
+#: admin/views/WDPSViewSliders_wdps.php:633
+msgid "Carousel"
+msgstr "კარუსელი"
+
+#: admin/views/WDPSViewSliders_wdps.php:636
+msgid "Navigation"
+msgstr "ნავიგაცია"
+
+#: admin/views/WDPSViewSliders_wdps.php:639
+msgid "Bullets"
+msgstr "Bullets"
+
+#: admin/views/WDPSViewSliders_wdps.php:642
+msgid "Filmstrip"
+msgstr "Filmstrip"
+
+#: admin/views/WDPSViewSliders_wdps.php:645
+msgid "Timer bar"
+msgstr "ტაიმერი ბარი"
+
+#: admin/views/WDPSViewSliders_wdps.php:649
+msgid "CSS"
+msgstr "CSS"
+
+#: admin/views/WDPSViewSliders_wdps.php:658
+#: admin/views/WDPSViewSliders_wdps.php:2188
+#: admin/views/WDPSViewSliders_wdps.php:2877 post-slider-wd.php:359
+msgid "Dimensions:"
+msgstr "ზომები:"
+
+#: admin/views/WDPSViewSliders_wdps.php:662
+msgid "Maximum width and height for slider."
+msgstr "მაქსიმალური სიგანე და სიმაღლე სლაიდერი."
+
+#: admin/views/WDPSViewSliders_wdps.php:666
+msgid "Full width:"
+msgstr "სრული სიგანის:"
+
+#: admin/views/WDPSViewSliders_wdps.php:668
+#: admin/views/WDPSViewSliders_wdps.php:685
+#: admin/views/WDPSViewSliders_wdps.php:721
+#: admin/views/WDPSViewSliders_wdps.php:768
+#: admin/views/WDPSViewSliders_wdps.php:776
+#: admin/views/WDPSViewSliders_wdps.php:791
+#: admin/views/WDPSViewSliders_wdps.php:799
+#: admin/views/WDPSViewSliders_wdps.php:814
+#: admin/views/WDPSViewSliders_wdps.php:832
+#: admin/views/WDPSViewSliders_wdps.php:888
+#: admin/views/WDPSViewSliders_wdps.php:898
+#: admin/views/WDPSViewSliders_wdps.php:924
+#: admin/views/WDPSViewSliders_wdps.php:943
+#: admin/views/WDPSViewSliders_wdps.php:966
+#: admin/views/WDPSViewSliders_wdps.php:1010
+#: admin/views/WDPSViewSliders_wdps.php:1234
+#: admin/views/WDPSViewSliders_wdps.php:1473
+#: admin/views/WDPSViewSliders_wdps.php:1727
+#: admin/views/WDPSViewSliders_wdps.php:1799
+#: admin/views/WDPSViewSliders_wdps.php:2072
+#: admin/views/WDPSViewSliders_wdps.php:2277
+#: admin/views/WDPSViewSliders_wdps.php:2958
+#: admin/views/WDPSViewUninstall_wdps.php:64 post-slider-wd.php:370
+msgid "Yes"
+msgstr "დიახ"
+
+#: admin/views/WDPSViewSliders_wdps.php:669
+#: admin/views/WDPSViewSliders_wdps.php:686
+#: admin/views/WDPSViewSliders_wdps.php:722
+#: admin/views/WDPSViewSliders_wdps.php:769
+#: admin/views/WDPSViewSliders_wdps.php:777
+#: admin/views/WDPSViewSliders_wdps.php:792
+#: admin/views/WDPSViewSliders_wdps.php:800
+#: admin/views/WDPSViewSliders_wdps.php:815
+#: admin/views/WDPSViewSliders_wdps.php:833
+#: admin/views/WDPSViewSliders_wdps.php:889
+#: admin/views/WDPSViewSliders_wdps.php:899
+#: admin/views/WDPSViewSliders_wdps.php:925
+#: admin/views/WDPSViewSliders_wdps.php:944
+#: admin/views/WDPSViewSliders_wdps.php:967
+#: admin/views/WDPSViewSliders_wdps.php:1011
+#: admin/views/WDPSViewSliders_wdps.php:1235
+#: admin/views/WDPSViewSliders_wdps.php:1474
+#: admin/views/WDPSViewSliders_wdps.php:1728
+#: admin/views/WDPSViewSliders_wdps.php:1800
+#: admin/views/WDPSViewSliders_wdps.php:2073
+#: admin/views/WDPSViewSliders_wdps.php:2279
+#: admin/views/WDPSViewSliders_wdps.php:2960 post-slider-wd.php:371
+msgid "No"
+msgstr "არარის"
+
+#: admin/views/WDPSViewSliders_wdps.php:670
+msgid "Ratio"
+msgstr "თანაფარდობა"
+
+#: admin/views/WDPSViewSliders_wdps.php:671
+msgid ""
+"The image will stretch to the page width, taking the height based on "
+"dimensions ratio."
+msgstr ""
+"სურათი მონაკვეთი გვერდზე სიგანის, აღების სიმაღლე საფუძველზე ზომები რაციონი."
+
+#: admin/views/WDPSViewSliders_wdps.php:675
+msgid "Background fit:"
+msgstr "Background fit:"
+
+#: admin/views/WDPSViewSliders_wdps.php:677
+msgid "Cover"
+msgstr "Cover"
+
+#: admin/views/WDPSViewSliders_wdps.php:678
+msgid "Fill"
+msgstr "შეავსეთ"
+
+#: admin/views/WDPSViewSliders_wdps.php:679
+msgid "Contain"
+msgstr "შეიცავს"
+
+#: admin/views/WDPSViewSliders_wdps.php:683
+msgid "Smart Crop:"
+msgstr "Smart Crop:"
+
+#: admin/views/WDPSViewSliders_wdps.php:692
+msgid "Crop Image Position:"
+msgstr "Crop Image თანამდებობა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:727
+msgid "Align:"
+msgstr "გასწორება:"
+
+#: admin/views/WDPSViewSliders_wdps.php:738
+msgid "Set the alignment of the slider."
+msgstr "უცნობია განვიხილეთ სლაიდერი."
+
+#: admin/views/WDPSViewSliders_wdps.php:743
+msgid "Effect:"
+msgstr "ეფექტი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:755
+#: admin/views/WDPSViewSliders_wdps.php:2310
+#: admin/views/WDPSViewSliders_wdps.php:2338
+#: admin/views/WDPSViewSliders_wdps.php:2991
+#: admin/views/WDPSViewSliders_wdps.php:3005
+#: admin/views/WDPSViewSliders_wdps.php:3020 post-slider-wd.php:392
+msgid "Some effects are disabled in free version."
+msgstr "ზოგიერთი ეფექტი გამორთულია უფასო ვერსია."
+
+#: admin/views/WDPSViewSliders_wdps.php:759
+msgid "Effect duration:"
+msgstr "ეფექტი ხანგრძლივობა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:762
+msgid "Define the time for the effect."
+msgstr "განსაზღვრეთ დრო ეფექტი."
+
+#: admin/views/WDPSViewSliders_wdps.php:766
+msgid "Parallax Effect:"
+msgstr "Parallax ეფექტები:"
+
+#: admin/views/WDPSViewSliders_wdps.php:770
+msgid ""
+"The direction of the movement, as well as the layer moving pace depend on "
+"the z-index value."
+msgstr ""
+"მიმართულებით მოძრაობა, ისევე, როგორც ფენის მოძრავი ტემპი დამოკიდებული z-"
+"ინდექსის მნიშვნელობა."
+
+#: admin/views/WDPSViewSliders_wdps.php:774
+msgid "Autoplay:"
+msgstr "ავტომატური ჩართვა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:778
+msgid "Choose whether to autoplay the sliders or not."
+msgstr "არჩევა თუ არა autoplay სლაიდერები თუ არა."
+
+#: admin/views/WDPSViewSliders_wdps.php:782
+msgid "Time Interval:"
+msgstr "დროის ინტერვალი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:784
+msgid "sec."
+msgstr "წ."
+
+#: admin/views/WDPSViewSliders_wdps.php:785
+msgid ""
+"Set the time interval for the change of the sliders when autoplay is on."
+msgstr "მითითებული დროის ინტერვალი შეცვლის sliders როდესაც autoplay არის."
+
+#: admin/views/WDPSViewSliders_wdps.php:789
+msgid "Stop on hover:"
+msgstr "გაჩერება hover:"
+
+#: admin/views/WDPSViewSliders_wdps.php:793
+msgid "The option works when autoplay is on."
+msgstr "ვარიანტი მუშაობს, როდესაც autoplay არის."
+
+#: admin/views/WDPSViewSliders_wdps.php:797
+msgid "Shuffle:"
+msgstr "Shuffle:"
+
+#: admin/views/WDPSViewSliders_wdps.php:801
+msgid ""
+"Choose whether to have the slides change in a random manner or to keep the "
+"original sequence."
+msgstr ""
+"არჩევა, თუ არა აქვს სლაიდები შეიცვლება შემთხვევითი წესით ან შენარჩუნება "
+"თავდაპირველი თანმიმდევრობით."
+
+#: admin/views/WDPSViewSliders_wdps.php:805
+msgid "Start with slide:"
+msgstr "დაწყება slide:"
+
+#: admin/views/WDPSViewSliders_wdps.php:808
+msgid ""
+"The slider will start with the specified slide. You can use the value 0 for "
+"random."
+msgstr ""
+"სლაიდერი დაიწყება მითითებულ slide. თქვენ შეგიძლიათ გამოიყენოთ ღირებულების 0 "
+"შემთხვევითი."
+
+#: admin/views/WDPSViewSliders_wdps.php:812
+msgid "Music:"
+msgstr "მუსიკა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:816
+msgid ""
+"Choose whether to have music/audio track playback with the slider or not."
+msgstr "არჩევა, თუ არა აქვს მუსიკა / აუდიო სიმღერა აღწარმოება სლაიდერი თუ არა."
+
+#: admin/views/WDPSViewSliders_wdps.php:821
+msgid "Music url:"
+msgstr "მუსიკა url:"
+
+#: admin/views/WDPSViewSliders_wdps.php:826
+msgid "Only .aac,.m4a,.f4a,.mp3,.ogg,.oga formats are supported."
+msgstr "მხოლოდ .AAC, .m4a, .f4a, .mp3, .ogg, .oga ფორმატების მხარდაჭერა."
+
+#: admin/views/WDPSViewSliders_wdps.php:830
+msgid "Smart Load:"
+msgstr "Smart დატვირთვა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:834
+msgid ""
+"Choose to have faster load for the first few images and process the rest "
+"meanwhile."
+msgstr ""
+"არჩევა უფრო სწრაფად დატვირთვის პირველი რამდენიმე სურათები და დავამუშავოთ "
+"დანარჩენი ამასობაში."
+
+#: admin/views/WDPSViewSliders_wdps.php:838
+#: admin/views/WDPSViewSliders_wdps.php:1457
+#: admin/views/WDPSViewSliders_wdps.php:1693
+#: admin/views/WDPSViewSliders_wdps.php:1753
+msgid "Background color:"
+msgstr "ფონის ფერი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:842
+#: admin/views/WDPSViewSliders_wdps.php:1461
+#: admin/views/WDPSViewSliders_wdps.php:1830
+msgid "Transparency value must be between 0 to 100."
+msgstr "გამჭვირვალობა მნიშვნელობა უნდა იყოს 0-დან 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:846
+#: admin/views/WDPSViewSliders_wdps.php:1433
+#: admin/views/WDPSViewSliders_wdps.php:2370
+#: admin/views/WDPSViewSliders_wdps.php:3052 post-slider-wd.php:403
+msgid "Border:"
+msgstr "სასაზღვრო:"
+
+#: admin/views/WDPSViewSliders_wdps.php:859
+msgid "Set the border width, type and the color."
+msgstr "უცნობია საზღვრის სიგანე, ტიპის და ფერის."
+
+#: admin/views/WDPSViewSliders_wdps.php:863
+#: admin/views/WDPSViewSliders_wdps.php:1450
+#: admin/views/WDPSViewSliders_wdps.php:1700
+msgid "Border radius:"
+msgstr "საზღვრის რადიუსი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:866
+#: admin/views/WDPSViewSliders_wdps.php:1453
+#: admin/views/WDPSViewSliders_wdps.php:1703
+#: admin/views/WDPSViewSliders_wdps.php:2342
+#: admin/views/WDPSViewSliders_wdps.php:2347
+#: admin/views/WDPSViewSliders_wdps.php:2388
+#: admin/views/WDPSViewSliders_wdps.php:2393
+#: admin/views/WDPSViewSliders_wdps.php:3024
+#: admin/views/WDPSViewSliders_wdps.php:3029
+#: admin/views/WDPSViewSliders_wdps.php:3070
+#: admin/views/WDPSViewSliders_wdps.php:3075 post-slider-wd.php:377
+msgid "Use CSS type values."
+msgstr "გამოყენება CSS ტიპის ღირებულებებს."
+
+#: admin/views/WDPSViewSliders_wdps.php:870
+#: admin/views/WDPSViewSliders_wdps.php:1707
+msgid "Margin:"
+msgstr "Margin:"
+
+#: admin/views/WDPSViewSliders_wdps.php:873
+msgid "Set a margin for the slider."
+msgstr "უცნობია ზღვარი სლაიდერი."
+
+#: admin/views/WDPSViewSliders_wdps.php:877
+#: admin/views/WDPSViewSliders_wdps.php:2398
+#: admin/views/WDPSViewSliders_wdps.php:3080 post-slider-wd.php:383
+msgid "Shadow:"
+msgstr "ჩრდილი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:880
+#: admin/views/WDPSViewSliders_wdps.php:2397
+#: admin/views/WDPSViewSliders_wdps.php:2402
+#: admin/views/WDPSViewSliders_wdps.php:3079
+#: admin/views/WDPSViewSliders_wdps.php:3084
+msgid "Use CSS type values (e.g. 10px 10px 5px #888888)."
+msgstr "გამოყენება CSS ტიპი ღირებულებები (მაგ 10px 10px 5px # 888888)."
+
+#: admin/views/WDPSViewSliders_wdps.php:885
+msgid "Right click protection:"
+msgstr "მარჯვენა ღილაკის დაცვა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:890
+msgid "Disable image right click possibility."
+msgstr ""
+"შეზღუდული შესაძლებლობების მქონე გამოსახულების მარჯვენა დააჭირეთ შესაძლებლობა."
+
+#: admin/views/WDPSViewSliders_wdps.php:895
+msgid "Layer out on next:"
+msgstr "Layer გარეთ შემდეგი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:900
+msgid ""
+"Choose whether to have the layer effect out regardless of the timing between "
+"the hit to the next slider or skip the effect out and get to the next image."
+msgstr ""
+"არჩევა თუ არა აქვს ფენა ეფექტი out მიუხედავად დრო შორის მოხვდა მომდევნო "
+"სლაიდერი ან გამოტოვოთ ეფექტი და მიიღეთ მომდევნო სურათი."
+
+#: admin/views/WDPSViewSliders_wdps.php:904
+#: admin/views/WDPSViewSliders_wdps.php:2407
+#: admin/views/WDPSViewSliders_wdps.php:3089 post-slider-wd.php:384
+msgid "Text layer character limit:"
+msgstr "ტექსტური ფენის ხასიათი ლიმიტი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:907
+#: admin/views/WDPSViewSliders_wdps.php:2406
+#: admin/views/WDPSViewSliders_wdps.php:2411
+#: admin/views/WDPSViewSliders_wdps.php:3088
+#: admin/views/WDPSViewSliders_wdps.php:3093 post-slider-wd.php:378
+msgid ""
+"This will limit the number of characters for post content displayed as a "
+"text layer."
+msgstr ""
+"ეს ლიმიტი რაოდენობის სიმბოლოების პოსტი შინაარსი ნაჩვენები, როგორც ტექსტური "
+"ფენის დამატებით."
+
+#: admin/views/WDPSViewSliders_wdps.php:911
+msgid "Add font-family:"
+msgstr "რჩეულებში font-family:"
+
+#: admin/views/WDPSViewSliders_wdps.php:916
+msgid "Add to Google fonts"
+msgstr "სანიშნეს Google ფონტები"
+
+#: admin/views/WDPSViewSliders_wdps.php:917
+msgid "Add font-family"
+msgstr "რჩეულებში font-family"
+
+#: admin/views/WDPSViewSliders_wdps.php:918
+msgid "The added font family will appear in the drop-down list of fonts."
+msgstr "დამატებული შრიფტის ოჯახი გამოჩნდება ჩამოშლადი სია შრიფტები."
+
+#: admin/views/WDPSViewSliders_wdps.php:922
+#: admin/views/WDPSViewSliders_wdps.php:2070
+#: admin/views/WDPSViewSliders_wdps.php:2273
+#: admin/views/WDPSViewSliders_wdps.php:2954 post-slider-wd.php:288
+#: post-slider-wd.php:369
+msgid "Published:"
+msgstr "გამოქვეყნებულია:"
+
+#: admin/views/WDPSViewSliders_wdps.php:926
+msgid "Choose whether to publish the mentioned slider or not."
+msgstr "აირჩიონ გამოქვეყნება აღნიშნული სლაიდერი თუ არა."
+
+#: admin/views/WDPSViewSliders_wdps.php:937
+msgid "Carousel is disabled in free version."
+msgstr "Carousel გამორთულია უფასო ვერსია."
+
+#: admin/views/WDPSViewSliders_wdps.php:941
+msgid "Carousel:"
+msgstr "კარუსელი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:945
+msgid ""
+"If you activate this feature the effects you had chosen in Global settings "
+"for your slider will not play."
+msgstr ""
+"თუ თქვენ გააქტიურება ამ ფუნქციის ეფექტი თქვენ აირჩია გლობალური პარამეტრების "
+"თქვენი სლაიდერი არ ითამაშოს."
+
+#: admin/views/WDPSViewSliders_wdps.php:950
+msgid "Number of images for carousel:"
+msgstr "პუნქტების სურათები კარუსელის:"
+
+#: admin/views/WDPSViewSliders_wdps.php:957
+msgid "Carousel image ratio:"
+msgstr "კარუსელი სურათი კოეფიციენტი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:960
+msgid "The value must be between 0 and 1."
+msgstr "მნიშვნელობა უნდა იყოს 0 და 1."
+
+#: admin/views/WDPSViewSliders_wdps.php:964
+msgid "Container fit:"
+msgstr "კონტეინერი ჯდება:"
+
+#: admin/views/WDPSViewSliders_wdps.php:972
+msgid "Fixed width:"
+msgstr "ფიქსირებული სიგანე:"
+
+#: admin/views/WDPSViewSliders_wdps.php:979
+msgid "Background image angle:"
+msgstr "ფონის სურათის კუთხე:"
+
+#: admin/views/WDPSViewSliders_wdps.php:986
+msgid "Background image grayscale:"
+msgstr "ფონის გამოსახულება ტონური:"
+
+#: admin/views/WDPSViewSliders_wdps.php:989
+msgid ""
+"You can change the color scheme for background images to grayscale. Values "
+"must be between 0 to 100."
+msgstr ""
+"თქვენ შეგიძლიათ შეცვალოთ ფერადი სქემა ფონზე სურათები ტონური. ღირებულებები "
+"უნდა იყოს 0 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:993
+msgid "Background image transparency:"
+msgstr "ფონის სურათის გამჭვირვალობა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:996
+msgid ""
+"You can set transparency level for background images. Values should be "
+"between 0 to 100."
+msgstr ""
+"შეგიძლიათ დააყენოთ გამჭვირვალობის დონის ფონზე images. ღირებულებები უნდა იყოს "
+"0-დან 100-მდე."
+
+#: admin/views/WDPSViewSliders_wdps.php:1007
+msgid "Next / Previous buttons:"
+msgstr "შემდეგი / წინა ღილაკები:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1012
+msgid "Choose whether to display Previous and Next buttons or not."
+msgstr "არჩევა, თუ რამდენად არიან წინა და შემდეგი ღილაკები თუ არა."
+
+#: admin/views/WDPSViewSliders_wdps.php:1017
+msgid "Show Navigation buttons:"
+msgstr "ჩვენება ნავიგაციის ღილაკები:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1020
+msgid "On hover"
+msgstr "On hover"
+
+#: admin/views/WDPSViewSliders_wdps.php:1021
+msgid "Always"
+msgstr "ყოველთვის"
+
+#: admin/views/WDPSViewSliders_wdps.php:1022
+msgid ""
+"Select between the option of always displaying the navigation buttons or "
+"only when hovered."
+msgstr ""
+"აირჩიეთ შორის ვარიანტი ყოველთვის ჩვენებისას ნავიგაციის ღილაკები და მხოლოდ "
+"მაშინ, როცა hovered."
+
+#: admin/views/WDPSViewSliders_wdps.php:1027
+msgid "Image for Next / Previous buttons:"
+msgstr "გამოსახულება შემდეგი / წინა ღილაკები:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1030
+#: admin/views/WDPSViewSliders_wdps.php:1246
+#: admin/views/WDPSViewSliders_wdps.php:1493
+#: admin/views/WDPSViewSliders_wdps.php:2241
+#: admin/views/WDPSViewSliders_wdps.php:2930 post-slider-wd.php:406
+msgid "Default"
+msgstr "Default"
+
+#: admin/views/WDPSViewSliders_wdps.php:1031
+#: admin/views/WDPSViewSliders_wdps.php:1191
+#: admin/views/WDPSViewSliders_wdps.php:1247
+#: admin/views/WDPSViewSliders_wdps.php:1381
+#: admin/views/WDPSViewSliders_wdps.php:1494
+#: admin/views/WDPSViewSliders_wdps.php:1636
+msgid "Custom"
+msgstr "საბაჟო"
+
+#: admin/views/WDPSViewSliders_wdps.php:1032
+#: admin/views/WDPSViewSliders_wdps.php:1248
+#: admin/views/WDPSViewSliders_wdps.php:1495
+msgid "Styled"
+msgstr "ე.წ."
+
+#: admin/views/WDPSViewSliders_wdps.php:1037
+msgid ""
+"Choose whether to use default navigation buttons or to upload custom ones."
+msgstr ""
+"აირჩიეთ როდის გამოიყენოთ ძირითადად ნავიგაციის ღილაკები ან ატვირთეთ საბაჟო "
+"პირობა."
+
+#: admin/views/WDPSViewSliders_wdps.php:1044
+msgid "Next / Previous buttons style:"
+msgstr "შემდეგი / წინა ღილაკები სტილი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1063
+msgid ""
+"Choose the style of the button you prefer to have as navigation buttons."
+msgstr "არჩევა სტილი ღილაკს გირჩევნიათ აქვს როგორც ნავიგაციის ღილაკები."
+
+#: admin/views/WDPSViewSliders_wdps.php:1068
+#: admin/views/WDPSViewSliders_wdps.php:1269
+#: admin/views/WDPSViewSliders_wdps.php:1586
+msgid "Upload buttons images:"
+msgstr "ატვირთვა ღილაკები გამოსახულებები:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1089
+#: admin/views/WDPSViewSliders_wdps.php:1216
+#: admin/views/WDPSViewSliders_wdps.php:1288
+#: admin/views/WDPSViewSliders_wdps.php:1405
+#: admin/views/WDPSViewSliders_wdps.php:1601
+#: admin/views/WDPSViewSliders_wdps.php:1658
+msgid "Reverse"
+msgstr "Reverse"
+
+#: admin/views/WDPSViewSliders_wdps.php:1152
+#: admin/views/WDPSViewSliders_wdps.php:1343
+#: admin/views/WDPSViewSliders_wdps.php:1578
+msgid " is not a directory."
+msgstr "არ არის დირექტორია."
+
+#: admin/views/WDPSViewSliders_wdps.php:1161
+#: admin/views/WDPSViewSliders_wdps.php:1351
+msgid "Choose buttons:"
+msgstr "არჩევა ღილაკები:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1168
+#: admin/views/WDPSViewSliders_wdps.php:1358
+#: admin/views/WDPSViewSliders_wdps.php:1615
+msgid "Choose group"
+msgstr "არჩევა ჯგუფი"
+
+#: admin/views/WDPSViewSliders_wdps.php:1201
+#: admin/views/WDPSViewSliders_wdps.php:1646
+msgid "Choose color"
+msgstr "არჩევა ფერი"
+
+#: admin/views/WDPSViewSliders_wdps.php:1219
+#: admin/views/WDPSViewSliders_wdps.php:1408
+msgid ""
+"Choose the type and color for navigation button images. The option is "
+"designed for limited preview (colors not included) purposes and can't be "
+"saved."
+msgstr ""
+"არჩევა ტიპის და ფერის სანავიგაციო ღილაკი images. ვარიანტი განკუთვნილია მოკლე "
+"მიმოხილვა (ფერები არ შედის) მიზნებისათვის და ვერ მოხერხდა."
+
+#: admin/views/WDPSViewSliders_wdps.php:1223
+msgid "Next / Previous buttons size:"
+msgstr "შემდეგი / წინა ღილაკები ზომა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1226
+msgid "Set the size for the next / previous buttons."
+msgstr "უცნობია ზომის მომდევნო / წინა ღილაკებზე."
+
+#: admin/views/WDPSViewSliders_wdps.php:1231
+msgid "Play / Pause button:"
+msgstr "თამაში / პაუზა ღილაკს:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1236
+msgid "Choose whether to display Play and Pause buttons or not."
+msgstr "არჩევა, თუ რამდენად არიან ითამაშეთ და პაუზა ღილაკი თუ არა."
+
+#: admin/views/WDPSViewSliders_wdps.php:1243
+msgid "Image for Play / Pause buttons:"
+msgstr "გამოსახულება Play / Pause ღილაკები:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1253
+msgid ""
+"Choose whether to use default play/pause buttons or to upload custom ones."
+msgstr ""
+"აირჩიეთ როდის გამოიყენოთ ძირითადად პიესა / პაუზის ღილაკების ან ატვირთოთ "
+"საბაჟო პირობა."
+
+#: admin/views/WDPSViewSliders_wdps.php:1259
+msgid "Play / Pause buttons style:"
+msgstr "თამაში / პაუზა ღილაკები სტილი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1412
+msgid "Play / Pause button size:"
+msgstr "თამაში / პაუზა ღილაკს ზომა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1415
+msgid "Set the size for the play / pause buttons."
+msgstr "უცნობია ზომა პიესა / პაუზის ღილაკებით."
+
+#: admin/views/WDPSViewSliders_wdps.php:1419
+msgid "Buttons color:"
+msgstr "ღილაკები ფერი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1422
+msgid "Select a color for the navigation buttons."
+msgstr "აირჩიეთ ფერი ნავიგაციის ღილაკები."
+
+#: admin/views/WDPSViewSliders_wdps.php:1426 post-slider-wd.php:405
+msgid "Hover color:"
+msgstr "Hover ფერი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1429
+msgid "Select a hover color for the navigation buttons."
+msgstr "აირჩიეთ hover ფერი ნავიგაციის ღილაკები."
+
+#: admin/views/WDPSViewSliders_wdps.php:1446
+msgid ""
+"Select the type, size and the color of border for the navigation buttons."
+msgstr "აირჩიეთ ტიპის, ზომის და ფერის საზღვრის ნავიგაციის ღილაკები."
+
+#: admin/views/WDPSViewSliders_wdps.php:1471
+msgid "Enable bullets:"
+msgstr "ჩართვა ტყვია:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1475
+msgid "Choose whether to have navigation bullets or not."
+msgstr "არჩევა, თუ არა აქვს ნავიგაცია ტყვიები თუ არა."
+
+#: admin/views/WDPSViewSliders_wdps.php:1479
+#: admin/views/WDPSViewSliders_wdps.php:1733
+#: admin/views/WDPSViewSliders_wdps.php:2198
+#: admin/views/WDPSViewSliders_wdps.php:2887 post-slider-wd.php:367
+msgid "Position:"
+msgstr "თანამდებობა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1485
+msgid "Select the position for the navigation bullets."
+msgstr "აირჩიეთ თანამდებობაზე ნავიგაცია ტყვიები."
+
+#: admin/views/WDPSViewSliders_wdps.php:1490
+msgid "Image for bullets:"
+msgstr "სურათი ტყვიები:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1496
+msgid "Text"
+msgstr "ტექსტი"
+
+#: admin/views/WDPSViewSliders_wdps.php:1499
+msgid "Choose whether to use default or styled bullets."
+msgstr "აირჩიეთ როდის გამოიყენოთ default ან ე.წ. ტყვიები."
+
+#: admin/views/WDPSViewSliders_wdps.php:1506
+msgid "Bullet style:"
+msgstr "Bullet სტილი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1525
+msgid "Choose the style for the bullets."
+msgstr "არჩევა სტილი ტყვიები."
+
+#: admin/views/WDPSViewSliders_wdps.php:1608
+msgid "Chooes buttons:"
+msgstr "Chooes ღილაკები:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1661
+msgid ""
+"Choose the type and color for the bullets. The option is designed for "
+"limited preview (colors not included) purposes and can't be saved."
+msgstr ""
+"არჩევა ტიპის და ფერის ტყვიები. ვარიანტი განკუთვნილია მოკლე მიმოხილვა (ფერები "
+"არ შედის) მიზნებისათვის და ვერ მოხერხდა."
+
+#: admin/views/WDPSViewSliders_wdps.php:1665
+#: admin/views/WDPSViewSliders_wdps.php:1819
+#: admin/views/WDPSViewSliders_wdps.php:2207
+#: admin/views/WDPSViewSliders_wdps.php:2896 post-slider-wd.php:373
+msgid "Size:"
+msgstr "ზომა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1668
+msgid "Define the size of the navigation bullets."
+msgstr "განსაზღვრეთ ზომა ნავიგაცია ტყვიები."
+
+#: admin/views/WDPSViewSliders_wdps.php:1672
+#: admin/views/WDPSViewSliders_wdps.php:1826
+#: admin/views/WDPSViewSliders_wdps.php:2216
+#: admin/views/WDPSViewSliders_wdps.php:2905 post-slider-wd.php:372
+msgid "Color:"
+msgstr "ფერი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1675
+msgid "Select the color for the navigation bullets."
+msgstr "აირჩიეთ ფერი ნავიგაცია ტყვიები."
+
+#: admin/views/WDPSViewSliders_wdps.php:1679
+msgid "Active color:"
+msgstr "აქტიურია ფერი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1682
+msgid ""
+"Select the color for the bullet, which is currently displaying a "
+"corresponding image."
+msgstr "აირჩიეთ ფერი ტყვია, რომელიც ამჟამად ჩვენებისას შესაბამისი იმიჯი."
+
+#: admin/views/WDPSViewSliders_wdps.php:1686
+msgid "Active Background color:"
+msgstr "აქტიური ფონის ფერი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1689
+msgid ""
+"Select the background color for the bullet, which is currently displaying a "
+"corresponding image."
+msgstr "აირჩიეთ ფონის ფერი ტყვია, რომელიც ამჟამად ჩვენებისას შესაბამისი იმიჯი."
+
+#: admin/views/WDPSViewSliders_wdps.php:1696
+msgid "Select the background color for the bullet."
+msgstr "აირჩიეთ ფონის ფერი ტყვია."
+
+#: admin/views/WDPSViewSliders_wdps.php:1710
+msgid "Set the margin for the navigation bullets in pixels."
+msgstr "უცნობია ზღვარი ნავიგაცია ტყვია პიქსელი."
+
+#: admin/views/WDPSViewSliders_wdps.php:1721
+msgid "Filmstrip is disabled in free version."
+msgstr "ფირიანი გამორთულია უფასო ვერსია."
+
+#: admin/views/WDPSViewSliders_wdps.php:1725
+msgid "Enable filmstrip:"
+msgstr "ჩართვა ფირიანი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1729
+msgid ""
+"Choose whether to have thumbnails of the slides displayed as a filmstrip or "
+"not."
+msgstr ""
+"არჩევა, თუ არა აქვს გამოსახულება სლაიდები ნაჩვენები როგორც ფირიანი თუ არა."
+
+#: admin/views/WDPSViewSliders_wdps.php:1741
+msgid "Set the position of the filmstrip."
+msgstr "უცნობია პოზიცია ფირიანი."
+
+#: admin/views/WDPSViewSliders_wdps.php:1745
+msgid "Thumbnail dimensions:"
+msgstr "მინიატურა ზომები:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1749
+msgid "Define the maximum width and heigth of the filmstrip thumbnails."
+msgstr ""
+"განსაზღვრეთ მაქსიმალური სიგანე და heigth საქართველოს ფირიანი დაბრუნება."
+
+#: admin/views/WDPSViewSliders_wdps.php:1756
+msgid "Select the background color for the filmstrip."
+msgstr "აირჩიეთ ფონის ფერი ფირიანი."
+
+#: admin/views/WDPSViewSliders_wdps.php:1760
+msgid "Thumbnail separator:"
+msgstr "მინიატურა გამყოფი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1763
+msgid "Set the separator for the thumbnails."
+msgstr "უცნობია გამყოფი დაბრუნება."
+
+#: admin/views/WDPSViewSliders_wdps.php:1767
+msgid "Active border:"
+msgstr "აქტიური საზღვრის:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1780
+msgid ""
+"The thumbnail for the currently displayed image will have a border. You can "
+"set its size, type and color."
+msgstr ""
+"მინიატურების, რომ გაკეთებული ნაჩვენები გამოსახულება აქვს საზღვარი. შეგიძლიათ "
+"დააყენოთ მისი ზომა, ტიპის და ფერის."
+
+#: admin/views/WDPSViewSliders_wdps.php:1784
+msgid "Deactive transparency:"
+msgstr "Deactive გამჭვირვალობა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1787
+msgid ""
+"You can set a transparency level for the inactive filmstrip items which must "
+"be between 0 to 100.."
+msgstr ""
+"შეგიძლიათ დააყენოთ გამჭვირვალობის დონე არააქტიური ფირიანი საკითხი, რომელიც "
+"უნდა იყოს 0-დან 100 .."
+
+#: admin/views/WDPSViewSliders_wdps.php:1797
+msgid "Enable timer bar:"
+msgstr "ჩართვა ტაიმერი ბარი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1801
+msgid ""
+"You can add a bar displaying the timing left to switching to the next slide "
+"on autoplay."
+msgstr ""
+"თქვენ შეგიძლიათ დაამატოთ ბარი ჩვენებისას დრო დარჩა გადასვლის მომდევნო slide "
+"on autoplay."
+
+#: admin/views/WDPSViewSliders_wdps.php:1805
+msgid "Type:"
+msgstr "ტიპი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1808
+msgid "Line top"
+msgstr "Line დაბრუნება"
+
+#: admin/views/WDPSViewSliders_wdps.php:1809
+msgid "Line Bottom"
+msgstr "Line Bottom"
+
+#: admin/views/WDPSViewSliders_wdps.php:1810
+msgid "Circle top left"
+msgstr "Circle ზედა მარცხენა"
+
+#: admin/views/WDPSViewSliders_wdps.php:1811
+msgid "Circle top right"
+msgstr "Circle ზედა მარჯვენა"
+
+#: admin/views/WDPSViewSliders_wdps.php:1812
+msgid "Circle bottom left"
+msgstr "Circle ქვედა მარცხენა"
+
+#: admin/views/WDPSViewSliders_wdps.php:1813
+msgid "Circle bottom right"
+msgstr "Circle ქვედა მარჯვენა"
+
+#: admin/views/WDPSViewSliders_wdps.php:1815
+msgid "Choose the type of the timer bar to be used within the slider."
+msgstr "არჩევა ტიპის ტაიმერი ბარი იქნეს გამოყენებული სლაიდერი."
+
+#: admin/views/WDPSViewSliders_wdps.php:1822
+msgid "Define the height of the timer bar."
+msgstr "განსაზღვრეთ სიმაღლე ტაიმერი ბარი."
+
+#: admin/views/WDPSViewSliders_wdps.php:1840
+msgid "Css:"
+msgstr "Css:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1844
+msgid "Add custom CSS to apply custom changes to the slider."
+msgstr "დამატება საბაჟო CSS მიმართოს საბაჟო ცვლილებები სლაიდერი."
+
+#: admin/views/WDPSViewSliders_wdps.php:1875
+msgid "Post slider type:"
+msgstr "Post სლაიდერი ტიპი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1876
+msgid "Static posts slides"
+msgstr "სტატიკური შეტყობინება სლაიდები"
+
+#: admin/views/WDPSViewSliders_wdps.php:1877
+msgid "Dynamic posts slides"
+msgstr "დინამიური შეტყობინება სლაიდები"
+
+#: admin/views/WDPSViewSliders_wdps.php:1918
+#: admin/views/WDPSViewSliders_wdps.php:2137
+#: admin/views/WDPSViewSliders_wdps.php:2654
+#: admin/views/WDPSViewSliders_wdps.php:2826 post-slider-wd.php:352
+msgid "Drag to re-order"
+msgstr "Drag ხელახლა მიზნით"
+
+#: admin/views/WDPSViewSliders_wdps.php:1928
+msgid "Edit Slide"
+msgstr "რედაქტირება Slide"
+
+#: admin/views/WDPSViewSliders_wdps.php:1928 post-slider-wd.php:361
+msgid "Edit Image"
+msgstr "რედაქტირება ფოტო"
+
+#: admin/views/WDPSViewSliders_wdps.php:1930 post-slider-wd.php:290
+msgid "Edit Post"
+msgstr "Edit Post"
+
+#: admin/views/WDPSViewSliders_wdps.php:1934 post-slider-wd.php:400
+msgid "Duplicate slide"
+msgstr "Duplicate slide"
+
+#: admin/views/WDPSViewSliders_wdps.php:1935
+msgid "Remove Slide"
+msgstr "ამოღება Slide"
+
+#: admin/views/WDPSViewSliders_wdps.php:1935 post-slider-wd.php:401
+msgid "Delete slide"
+msgstr "წაშალე slide"
+
+#: admin/views/WDPSViewSliders_wdps.php:1949
+#: admin/views/WDPSViewSliders_wdps.php:1950
+msgid "Add Posts"
+msgstr "რჩეულებში პოსტები"
+
+#: admin/views/WDPSViewSliders_wdps.php:1982
+msgid "Edit Slides"
+msgstr "Edit სლაიდები"
+
+#: admin/views/WDPSViewSliders_wdps.php:1991
+msgid "Add/Edit Post"
+msgstr "დამატება / რედაქტირება Post"
+
+#: admin/views/WDPSViewSliders_wdps.php:1993 post-slider-wd.php:289
+msgid "Add Post"
+msgstr "რჩეულებში Post"
+
+#: admin/views/WDPSViewSliders_wdps.php:2080
+msgid ""
+"You can set a redirection link, so that the user will get to the mentioned "
+"location upon hitting the slide.Use http:// and https:// for external links."
+msgstr ""
+"შეგიძლიათ დააყენოთ გადამისამართება ბმული, ისე, რომ მომხმარებელს მიიღებს "
+"აღნიშნულ ადგილამდე საფუძველზე დარტყმის slide.Use http: // და https: // გარე "
+"კავშირები."
+
+#: admin/views/WDPSViewSliders_wdps.php:2081 post-slider-wd.php:287
+msgid "Link the slide to:"
+msgstr "ბმული სლაიდ to:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2085
+#: admin/views/WDPSViewSliders_wdps.php:2268 post-slider-wd.php:365
+msgid "Open in a new window"
+msgstr "Open in a new window"
+
+#: admin/views/WDPSViewSliders_wdps.php:2106
+#: admin/views/WDPSViewSliders_wdps.php:2795
+msgid "Layers"
+msgstr "იურისტთა"
+
+#: admin/views/WDPSViewSliders_wdps.php:2109
+#: admin/views/WDPSViewSliders_wdps.php:2798 post-slider-wd.php:285
+msgid "Add Text Layer"
+msgstr "რჩეულებში ტექსტი Layer"
+
+#: admin/views/WDPSViewSliders_wdps.php:2112
+#: admin/views/WDPSViewSliders_wdps.php:2801 post-slider-wd.php:399
+msgid "Add Image Layer"
+msgstr "დამატება სურათი Layer"
+
+#: admin/views/WDPSViewSliders_wdps.php:2115
+#: admin/views/WDPSViewSliders_wdps.php:2804
+msgid "Social Button Layer"
+msgstr "სოციალური Button Layer"
+
+#: admin/views/WDPSViewSliders_wdps.php:2118
+#: admin/views/WDPSViewSliders_wdps.php:2807 post-slider-wd.php:291
+msgid "Add Hotspot Layer"
+msgstr "რჩეულებში Hotspot Layer"
+
+#: admin/views/WDPSViewSliders_wdps.php:2138
+#: admin/views/WDPSViewSliders_wdps.php:2827 post-slider-wd.php:353
+msgid "Layer title"
+msgstr "Layer სათაური"
+
+#: admin/views/WDPSViewSliders_wdps.php:2141
+#: admin/views/WDPSViewSliders_wdps.php:2830
+msgid "Delete layer"
+msgstr "წაშლა ფენის"
+
+#: admin/views/WDPSViewSliders_wdps.php:2142
+#: admin/views/WDPSViewSliders_wdps.php:2831 post-slider-wd.php:355
+msgid "Duplicate layer"
+msgstr "Duplicate ფენის"
+
+#: admin/views/WDPSViewSliders_wdps.php:2160
+#: admin/views/WDPSViewSliders_wdps.php:2849 post-slider-wd.php:357
+msgid "Text:"
+msgstr "ტექსტი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2187
+#: admin/views/WDPSViewSliders_wdps.php:2876 post-slider-wd.php:360
+msgid "Leave blank to keep the initial width and height."
+msgstr "დატოვეთ ცარიელი შენარჩუნება საწყის სიგანე და სიმაღლე."
+
+#: admin/views/WDPSViewSliders_wdps.php:2193
+#: admin/views/WDPSViewSliders_wdps.php:2882
+msgid "Break-word"
+msgstr "დაარღვიე სიტყვა"
+
+#: admin/views/WDPSViewSliders_wdps.php:2197
+#: admin/views/WDPSViewSliders_wdps.php:2886 post-slider-wd.php:368
+msgid "In addition you can drag and drop the layer to a desired position."
+msgstr "გარდა ამისა, თქვენ შეგიძლიათ გადააადგილება ფენის სასურველი პოზიცია."
+
+#: admin/views/WDPSViewSliders_wdps.php:2225
+#: admin/views/WDPSViewSliders_wdps.php:2914 post-slider-wd.php:374
+msgid "Font family:"
+msgstr "ფონტის ოჯახი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2239
+#: admin/views/WDPSViewSliders_wdps.php:2928 post-slider-wd.php:407
+msgid "Google fonts"
+msgstr "Google შრიფტები"
+
+#: admin/views/WDPSViewSliders_wdps.php:2247
+#: admin/views/WDPSViewSliders_wdps.php:2936 post-slider-wd.php:375
+msgid "Font weight:"
+msgstr "ფონტის წონა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2263 post-slider-wd.php:366
+msgid "Use http:// and https:// for external links."
+msgstr "გამოიყენეთ http: // და https: // გარე კავშირები."
+
+#: admin/views/WDPSViewSliders_wdps.php:2264 post-slider-wd.php:364
+msgid "Link:"
+msgstr "ბმული:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2287
+#: admin/views/WDPSViewSliders_wdps.php:2968
+msgid "Effect In:"
+msgstr "ეფექტი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2292
+#: admin/views/WDPSViewSliders_wdps.php:2320
+#: admin/views/WDPSViewSliders_wdps.php:2973
+#: admin/views/WDPSViewSliders_wdps.php:3001 post-slider-wd.php:389
+msgid "Start"
+msgstr "დაწყება"
+
+#: admin/views/WDPSViewSliders_wdps.php:2304
+#: admin/views/WDPSViewSliders_wdps.php:2332
+#: admin/views/WDPSViewSliders_wdps.php:2985
+#: admin/views/WDPSViewSliders_wdps.php:3014 post-slider-wd.php:390
+msgid "Effect"
+msgstr "ეფექტი"
+
+#: admin/views/WDPSViewSliders_wdps.php:2308
+#: admin/views/WDPSViewSliders_wdps.php:2336
+#: admin/views/WDPSViewSliders_wdps.php:2989
+#: admin/views/WDPSViewSliders_wdps.php:3018 post-slider-wd.php:391
+msgid "Duration"
+msgstr "ხანგრძლივობა"
+
+#: admin/views/WDPSViewSliders_wdps.php:2315
+#: admin/views/WDPSViewSliders_wdps.php:2996
+msgid "Effect Out:"
+msgstr "Effect Out:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2343
+#: admin/views/WDPSViewSliders_wdps.php:3025 post-slider-wd.php:376
+msgid "Padding:"
+msgstr "Padding:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2352
+#: admin/views/WDPSViewSliders_wdps.php:3034 post-slider-wd.php:379
+msgid "Background Color:"
+msgstr "ფონის ფერი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2360
+#: admin/views/WDPSViewSliders_wdps.php:2365
+#: admin/views/WDPSViewSliders_wdps.php:3042
+#: admin/views/WDPSViewSliders_wdps.php:3047 post-slider-wd.php:381
+msgid "Value must be between 0 to 100."
+msgstr "მნიშვნელობა უნდა იყოს 0-დან 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:2361
+#: admin/views/WDPSViewSliders_wdps.php:3043 post-slider-wd.php:380
+msgid "Transparent:"
+msgstr "გამჭვირვალე:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2389
+#: admin/views/WDPSViewSliders_wdps.php:3071 post-slider-wd.php:382
+msgid "Radius:"
+msgstr "რადიუსი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2482
+msgid "Period of posts to display:"
+msgstr "პერიოდი პოსტები:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2496
+msgid ""
+"Set the time for the posts, e.g. if set it to 24 hours it will display the "
+"posts added within the last 24 hours."
+msgstr ""
+"უცნობია დრო ფორუმზე, მაგ თუ მითითებული, რომ 24 საათის განმავლობაში ეს იქნება "
+"ფორუმზე დასძინა, ბოლო 24 საათის განმავლობაში."
+
+#: admin/views/WDPSViewSliders_wdps.php:2500
+msgid "Number of posts:"
+msgstr "პუნქტების ფორუმზე:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2503
+msgid ""
+"Set the number of posts which will be displayed as slides. If set to 0 or "
+"left empty it will display all posts."
+msgstr ""
+"უცნობია პოსტების რაოდენობა, რომელიც იქნება ნაჩვენები როგორც სლაიდები. თუ "
+"მითითებული 0 ან მარცხენა ცარიელი ეს იქნება ყველა წერილის."
+
+#: admin/views/WDPSViewSliders_wdps.php:2508
+msgid "Choose post type:"
+msgstr "არჩევა პოსტი ტიპი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2525
+msgid ""
+"Select the type for the dynamic posts, e.g. standard or custom post types."
+msgstr ""
+"აირჩიეთ ტიპის დინამიური შეტყობინება, მაგ სტანდარტული ან საბაჟო პოსტი ტიპის."
+
+#: admin/views/WDPSViewSliders_wdps.php:2535
+msgid "Author:"
+msgstr "ავტორი:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2554
+msgid "Select the author whose posts will be displayed within the slider."
+msgstr "აირჩიეთ ავტორი, რომლის ფორუმზე იქნება ნაჩვენები ფარგლებში სლაიდერი."
+
+#: admin/views/WDPSViewSliders_wdps.php:2559
+msgid "Sort posts by:"
+msgstr "დალაგება წერილის მოძებნა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2573
+msgid ""
+"Select the option which will be used as a sorting basis while displaying "
+"posts."
+msgstr ""
+"აირჩიეთ ვარიანტი, რომელიც გამოყენებული იქნება, როგორც დახარისხება საფუძველზე "
+"ხოლო ჩვენებისას შეტყობინება."
+
+#: admin/views/WDPSViewSliders_wdps.php:2577
+msgid "Order posts by:"
+msgstr "მიწერე წერილის მოძებნა:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2579
+msgid "Ascending"
+msgstr "ზრდადობით"
+
+#: admin/views/WDPSViewSliders_wdps.php:2580
+msgid "Descending"
+msgstr "კლებადი"
+
+#: admin/views/WDPSViewSliders_wdps.php:2581
+msgid "Set the ordering sequence for the posts- ascending or descending."
+msgstr "უცნობია შეკვეთით თანმიმდევრობა ამისთვის posts- აღმავალი ან დაღმავალი."
+
+#: admin/views/WDPSViewSliders_wdps.php:2593
+msgid "Post taxonomies:"
+msgstr "Post taxonomies:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2644
+msgid "Slide"
+msgstr "Slide"
+
+#: admin/views/WDPSViewSliders_wdps.php:2719
+msgid ""
+"The post content will not be displayed on back end. You will see a sample "
+"background, where you can add standard and dynamic-post layers, which will "
+"be displayed over the posts on front end."
+msgstr ""
+"პოსტი შინაარსი არ იქნება ნაჩვენები უკან ბოლოს. თქვენ ნახავთ ნიმუში ფონზე, "
+"სადაც თქვენ შეგიძლიათ დაამატოთ სტანდარტული და დინამიური პოსტი ფენა, რომელიც "
+"იქნება ნაჩვენები მეტი პოსტი წინა ბოლომდე."
+
+#: admin/views/WDPSViewSliders_wdps.php:2807
+msgid "This functionality is disabled in free version."
+msgstr "ეს ფუნქცია გამორთულია უფასო ვერსია."
+
+#: admin/views/WDPSViewSliders_wdps.php:3196
+msgid "Enter absolute url of the image."
+msgstr "შეიყვანეთ აბსოლუტური url იმიჯი."
+
+#: admin/views/WDPSViewUninstall_wdps.php:33
+#: admin/views/WDPSViewUninstall_wdps.php:108
+msgid "Uninstall Post Slider WD"
+msgstr "ninstall Post Slider WD"
+
+#: admin/views/WDPSViewUninstall_wdps.php:35
+msgid ""
+"Deactivating Post Slider WD plugin does not remove any data that may have "
+"been created. To completely remove this plugin, you can uninstall it here."
+msgstr ""
+"ვუშველი Post Slider WD მოდული არ ამოიღონ ნებისმიერი მონაცემები, რომელიც "
+"შეიძლება შეიქმნა. მთლიანად ამოიღონ ამ მოდულის, თქვენ შეგიძლიათ წაშალოთ აქ."
+
+#: admin/views/WDPSViewUninstall_wdps.php:38
+msgid "WARNING:"
+msgstr "გაფრთხილება:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:39
+msgid ""
+"Once uninstalled, this can't be undone. You should use a Database Backup "
+"plugin of WordPress to back up all the data first."
+msgstr ""
+"მას შემდეგ, რაც წაშლა, ეს არ შეიძლება შეუქცევადია. თქვენ უნდა გამოიყენოთ "
+"მონაცემთა ბაზის სარეზერვო მოდული WordPress, რომლითაც ყველა მონაცემები."
+
+#: admin/views/WDPSViewUninstall_wdps.php:42
+msgid "The following Database Tables will be deleted:"
+msgstr "შემდეგი მონაცემთა ბაზის ცხრილები წაიშლება:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:47
+msgid "Database Tables"
+msgstr "მონაცემთა ბაზის ცხრილები"
+
+#: admin/views/WDPSViewUninstall_wdps.php:61
+msgid "Do you really want to uninstall Post Slider WD plugin?"
+msgstr "ნამდვილად გსურთ წაშალოთ შეტყობინება Slider WD მოდული?"
+
+#: admin/views/WDPSViewUninstall_wdps.php:67
+msgid "UNINSTALL"
+msgstr "UNINSTALL"
+
+#: admin/views/WDPSViewUninstall_wdps.php:68
+msgid ""
+"You are About to Uninstall Post Slider WD plugin from WordPress.This Action "
+"Is Not Reversible."
+msgstr ""
+"თქვენ ხართ მომხმარებლის წაშალოთ შეტყობინება Slider WD მოდული WordPress.This "
+"აქცია არ არის შექცევადი."
+
+#: admin/views/WDPSViewUninstall_wdps.php:93
+msgid "The following Database Tables successfully deleted:"
+msgstr "შემდეგი მონაცემთა ბაზის ცხრილები წარმატებით წაიშალა:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:102
+msgid "The folder was successfully deleted."
+msgstr "დაიბეჭდა წარმატებით წაიშალა."
+
+#: admin/views/WDPSViewUninstall_wdps.php:102
+msgid "An error occurred when deleting the folder."
+msgstr "მოხდა შეცდომა, როდესაც წაშლის საქაღალდეში."
+
+#: admin/views/WDPSViewUninstall_wdps.php:109
+msgid "Click Here"
+msgstr "დააწკაპუნეთ აქ"
+
+#: admin/views/WDPSViewUninstall_wdps.php:109
+msgid ""
+"To Finish the Uninstallation and Post Slider WD will be Deactivated "
+"Automatically."
+msgstr "დასრულება Uninstallation და პოსტ Slider WD გაუქმდება ავტომატურად."
+
+#: admin/views/WDPSViewWDPSPosts.php:59
+msgid "Posts"
+msgstr "პოსტები"
+
+#: admin/views/WDPSViewWDPSPosts.php:81
+msgid ""
+"You can include only published posts with featured image. If you want to "
+"include posts without featured image into the list, disable Featured image "
+"option in Settings->Global Options."
+msgstr ""
+"თქვენ შეიძლება შეიცავდეს მხოლოდ გამოქვეყნდა პოსტი გამორჩეული იმიჯი. თუ გსურთ "
+"მოიცავს შეტყობინება გარეშე გამორჩეული იმიჯი სიაში, გაუქმდება Featured სურათი "
+"ვარიანტი პარამეტრები-> გლობალური პარამეტრები."
+
+#: admin/views/WDPSViewWDPSPosts.php:120
+msgid "-all-"
+msgstr "-ყველა-"
+
+#: admin/views/WDPSViewWDPSPosts.php:146
+msgid "Title"
+msgstr "სტატუსი:"
+
+#: admin/views/WDPSViewWDPSShortcode.php:34
+msgid "Post Slider WD"
+msgstr "Post Slider WD"
+
+#: admin/views/WDPSViewWDPSShortcode.php:43
+msgid "Select a Slider"
+msgstr "აირჩიეთ Slider"
+
+#: admin/views/WDPSViewWDPSShortcode.php:46
+msgid "- Select a Slider -"
+msgstr "- აირჩიეთ Slider -"
+
+#: admin/views/WDPSViewWidgetSlideshow.php:60
+msgid "Title:"
+msgstr "სათაური:"
+
+#: admin/views/WDPSViewWidgetSlideshow.php:65
+msgid "Select Slider"
+msgstr "აირჩიეთ Slider"
+
+#: framework/WDW_PS_Library.php:45
+msgid "Item Succesfully Saved."
+msgstr "საქონელი წარმატებით შეინახება."
+
+#: framework/WDW_PS_Library.php:63
+msgid "You can't delete default theme"
+msgstr "თქვენ არ შეგიძლიათ წაშალოთ ნაგულისხმები თემა"
+
+#: framework/WDW_PS_Library.php:81
+msgid "The item is successfully set as default."
+msgstr "საქონელი წარმატებით უცნობია, როგორც ნაგულისხმები."
+
+#: framework/WDW_PS_Library.php:87
+msgid "Options Succesfully Saved."
+msgstr "პარამეტრები წარმატებით შეინახება."
+
+#: framework/WDW_PS_Library.php:117
+msgid "Ordering Succesfully Saved."
+msgstr "შეკვეთა წარმატებით შეინახება."
+
+#: framework/WDW_PS_Library.php:123
+msgid "A term with the name provided already exists."
+msgstr "ტერმინი სახელით გათვალისწინებული უკვე არსებობს."
+
+#: framework/WDW_PS_Library.php:129
+msgid "Name field is required."
+msgstr "სახელი სფეროში აუცილებელია."
+
+#: framework/WDW_PS_Library.php:135
+msgid "The slug must be unique."
+msgstr "Slug უნდა იყოს უნიკალური."
+
+#: framework/WDW_PS_Library.php:147
+msgid "You must set watermark type."
+msgstr "თქვენ უნდა მითითებული watermark ტიპის."
+
+#: framework/WDW_PS_Library.php:154
+msgid "Settings Succesfully Reset."
+msgstr "პარამეტრები წარმატებით აღდგენა."
+
+#: framework/WDW_PS_Library.php:209
+msgid "Search"
+msgstr "ძებნა"
+
+#: framework/WDW_PS_Library.php:210
+msgid "Reset"
+msgstr "ხელახლა"
+
+#: framework/WDW_PS_Library.php:443
+msgid "item"
+msgstr "საქონელი"
+
+#: framework/WDW_PS_Library.php:542
+#, php-format
+msgid "No %s found."
+msgstr "არარის %s ი."
+
+#: frontend/views/WDPSViewSlider.php:30
+msgid "There is no slider selected or the slider was deleted."
+msgstr "არ არის სლაიდერი ავტორმა ან სლაიდერი წაშლილი იყო."
+
+#: frontend/views/WDPSViewSlider.php:47
+msgid "There are no posts  in this slider."
+msgstr "პოსტები არ არის ამ სლაიდერი."
+
+#: frontend/views/WDPSViewSlider.php:1829
+#: frontend/views/WDPSViewSlider.php:1894
+msgid "Pause"
+msgstr "პაუზა"
+
+#: frontend/views/WDPSViewSlider.php:1862
+msgid "Play"
+msgstr "თამაში"
+
+#: post-slider-wd.php:23
+msgid "Sliders"
+msgstr "Sliders"
+
+#: post-slider-wd.php:27
+msgid "Get Pro"
+msgstr "მიიღეთ Pro"
+
+#: post-slider-wd.php:28
+msgid "Featured Plugins"
+msgstr "მთავარი Plugins"
+
+#: post-slider-wd.php:29
+msgid "Featured Themes"
+msgstr "მთავარი თემები"
+
+#: post-slider-wd.php:30
+msgid "Uninstall"
+msgstr "Uninstall"
+
+#: post-slider-wd.php:280
+msgid "Items Succesfully Saved."
+msgstr "საკითხი წარმატებით შეინახება."
+
+#: post-slider-wd.php:281
+msgid "Changes made in this table should be saved."
+msgstr "ცვლილებები ამ მაგიდასთან უნდა იყოს შენახული."
+
+#: post-slider-wd.php:282
+msgid "Show order column"
+msgstr "შოუ რათა სვეტი"
+
+#: post-slider-wd.php:283
+msgid "You must select an image file."
+msgstr "თქვენ უნდა აირჩიოთ ფაილი."
+
+#: post-slider-wd.php:284
+msgid "You must select an audio file."
+msgstr "თქვენ უნდა აირჩიოთ აუდიო ფაილი."
+
+#: post-slider-wd.php:286
+msgid ""
+"You can set a redirection link, so that the user will get to the mentioned "
+"location upon hitting the slide.<br />Use http:// and https:// for external "
+"links."
+msgstr ""
+"შეგიძლიათ დააყენოთ გადამისამართება ბმული, ისე, რომ მომხმარებელს მიიღებს "
+"აღნიშნულ ადგილამდე საფუძველზე დარტყმის slide. <br /> გამოიყენეთ http: // და "
+"https: // გარე კავშირები."
+
+#: post-slider-wd.php:292
+msgid "Add Social Button Layer"
+msgstr "რჩეულებში სოციალური ღილაკი Layer"
+
+#: post-slider-wd.php:354
+msgid "Are you sure you want to delete this layer ?"
+msgstr "დარწმუნებული ხართ, რომ გსურთ წაშალოთ ეს ფენა?"
+
+#: post-slider-wd.php:356
+msgid "z-index"
+msgstr "z-index"
+
+#: post-slider-wd.php:358
+msgid "Sample text"
+msgstr "ტექსტის ნიმუში"
+
+#: post-slider-wd.php:362
+msgid "Alt:"
+msgstr "Alt:"
+
+#: post-slider-wd.php:363
+msgid "Set the HTML attribute specified in the IMG tag."
+msgstr "უცნობია HTML ატრიბუტი მითითებული IMG აქვს."
+
+#: post-slider-wd.php:385
+msgid "Scale:"
+msgstr "სასწორი:"
+
+#: post-slider-wd.php:386
+msgid "Set width and height of the image."
+msgstr "Set სიგანე და სიმაღლე იმიჯი."
+
+#: post-slider-wd.php:387
+msgid "Social button:"
+msgstr "სოციალური ღილაკს:"
+
+#: post-slider-wd.php:388
+msgid "Effect in:"
+msgstr "ეფექტი:"
+
+#: post-slider-wd.php:393
+msgid "Effect out:"
+msgstr "Effect out:"
+
+#: post-slider-wd.php:394
+msgid "Hotspot text position:"
+msgstr "Hotspot ტექსტი პოზიცია:"
+
+#: post-slider-wd.php:395
+msgid "Hotspot Width:"
+msgstr "Hotspot სიგანე:"
+
+#: post-slider-wd.php:396
+msgid "Hotspot Background Color:"
+msgstr "Hotspot ფონის ფერი:"
+
+#: post-slider-wd.php:397
+msgid "Hotspot Border:"
+msgstr "Hotspot სასაზღვრო:"
+
+#: post-slider-wd.php:398
+msgid "Hotspot Radius:"
+msgstr "Hotspot რადიუსი:"
+
+#: post-slider-wd.php:404
+msgid "Break-word:"
+msgstr "დაარღვიე სიტყვა:"
+
+#: sliders-notices.php:188
+msgid "Leave A Review?"
+msgstr "~ Eavu ~ e Oh კლასში ~ ანუ ღ?"
+
+#: sliders-notices.php:189
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"Weblog იმედი, ასე რო დახმარება Ye დ cored g არიან RDP Re ~ თსუ s% s! "
+"გამოსახეთ R cormorants უახლოეს ბატონი for ld ~ Ea Vin ზ cormorant s Oh "
+"კლასში ~ ანუ w ხმა და RDP Re ~ თსუ s. საკონტაქტო rg?"
+
+#: sliders-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "Attrition! არ მინდა ~ Ovu ~ ე და!"
+
+#: sliders-notices.php:191
+msgid "I've already left a review"
+msgstr "არსებობს 've Oh ლ იშვიათი dy tut ft Oh კლასში ~ ანუ w"
+
+#: sliders-notices.php:192
+msgid "Maybe Later"
+msgstr "ან y ბაზის § რომ r"
+
+#: sliders-notices.php:193 sliders-notices.php:203
+msgid "Never show again"
+msgstr "Nevu ~ e r ლერწმის w Again"
+
+#: sliders-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "იმისათვის, რომ y! Ho w აქვს t pentatonic გ?"
+
+#: sliders-notices.php:200
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"გმადლობთ, რომ სარგებლობთ WordPress %s! ჩვენ ვიმედოვნებთ, რომ თქვენ ი "
+"ყველაფერი თქვენ უნდა, მაგრამ თუ თქვენ გაქვთ რაიმე შეკითხვები:"
+
+#: sliders-notices.php:201
+msgid "Check out User Guide"
+msgstr "Choi ck მეფე t Ousset r Kuide"
+
+#: sliders-notices.php:202
+msgid "Get Some Help"
+msgstr "Lp ქვემოთ t შეღებილი"
+
+#~ msgid "Slider successfully imported."
+#~ msgstr "Slider წარმატებით."
+
+#~ msgid "Unexpected error occurred."
+#~ msgstr "მოულოდნელი შეცდომა."
+
+#~ msgid "LightSpeedOut"
+#~ msgstr "LightSpeedOut"
+
+#~ msgid "RollOut"
+#~ msgstr "დაგეგმარების"
+
+#~ msgid "BounceOut"
+#~ msgstr "BounceOut"
+
+#~ msgid "BounceOutDown"
+#~ msgstr "BounceOutDown"
+
+#~ msgid "BounceOutLeft"
+#~ msgstr "BounceOutLeft"
+
+#~ msgid "BounceOutRight"
+#~ msgstr "BounceOutRight"
+
+#~ msgid "BounceOutUp"
+#~ msgstr "BounceOutUp"
+
+#~ msgid "FadeOut"
+#~ msgstr "Fadeout"
+
+#~ msgid "FadeOutDown"
+#~ msgstr "FadeOutDown"
+
+#~ msgid "FadeOutDownBig"
+#~ msgstr "FadeOutDownBig"
+
+#~ msgid "FadeOutLeft"
+#~ msgstr "FadeOutLeft"
+
+#~ msgid "FadeOutLeftBig"
+#~ msgstr "FadeOutLeftBig"
+
+#~ msgid "FadeOutRight"
+#~ msgstr "FadeOutRight"
+
+#~ msgid "FadeOutRightBig"
+#~ msgstr "FadeOutRightBig"
+
+#~ msgid "FadeOutUp"
+#~ msgstr "FadeOutUp"
+
+#~ msgid "FadeOutUpBig"
+#~ msgstr "FadeOutUpBig"
+
+#~ msgid "FlipOutX"
+#~ msgstr "FlipOutX"
+
+#~ msgid "FlipOutY"
+#~ msgstr "FlipOutY"
+
+#~ msgid "RotateOut"
+#~ msgstr "RotateOut"
+
+#~ msgid "RotateOutDownLeft"
+#~ msgstr "RotateOutDownLeft"
+
+#~ msgid "RotateOutDownRight"
+#~ msgstr "RotateOutDownRight"
+
+#~ msgid "RotateOutUpLeft"
+#~ msgstr "RotateOutUpLeft"
+
+#~ msgid "RotateOutUpRight"
+#~ msgstr "RotateOutUpRight"
+
+#~ msgid "ZoomOut"
+#~ msgstr "ZoomOut"
+
+#~ msgid "ZoomOutDown"
+#~ msgstr "ZoomOutDown"
+
+#~ msgid "ZoomOutLeft"
+#~ msgstr "ZoomOutLeft"
+
+#~ msgid "ZoomOutRight"
+#~ msgstr "ZoomOutRight"
+
+#~ msgid "ZoomOutUp"
+#~ msgstr "ZoomOutUp"
+
+#~ msgid "This section allows you to add/edit post slider."
+#~ msgstr ""
+#~ "ეს სექცია საშუალებას გაძლევთ დამატება / რედაქტირების პოსტი სლაიდერი."
+
+#~ msgid "Save as Copy"
+#~ msgstr "შენახვა როგორც ასლი"
+
+#~ msgid ""
+#~ "Select the effect which will be applied when shifting from one slider to "
+#~ "another."
+#~ msgstr ""
+#~ "აირჩიეთ ეფექტი, რომელიც გამოყენებული იქნება, როდესაც გადასვლის ერთი "
+#~ "სლაიდერი სხვა."
+
+#~ msgid "Previous Button"
+#~ msgstr "წინა ღილაკი"
+
+#~ msgid "Previous Button Hover"
+#~ msgstr "წინა ღილაკი Hover"
+
+#~ msgid "Next Button"
+#~ msgstr "შემდეგი ღილაკი"
+
+#~ msgid "Next Button Hover"
+#~ msgstr "შემდეგი ღილაკი Hover"
+
+#~ msgid "Choose the type and color for navigation button images."
+#~ msgstr "არჩევა ტიპის და ფერის სანავიგაციო ღილაკი images."
+
+#~ msgid "Play Button"
+#~ msgstr "ითამაშეთ ღილაკი"
+
+#~ msgid "Play Button Hover"
+#~ msgstr "თამაში ღილაკი Hover"
+
+#~ msgid "Pause Button"
+#~ msgstr "პაუზა ღილაკი"
+
+#~ msgid "Pause Button Hover"
+#~ msgstr "პაუზა ღილაკი Hover"
+
+#~ msgid "Active Button"
+#~ msgstr "აქტიური Button"
+
+#~ msgid "Deactive Button"
+#~ msgstr "Deactive ღილაკი"
+
+#~ msgid "Choose the type and color for the bullets."
+#~ msgstr "არჩევა ტიპის და ფერის ტყვიები."
+
+#~ msgid "Select the background color for the bullet..."
+#~ msgstr "აირჩიეთ ფონის ფერი ტყვია ..."
+
+#~ msgid "Thumbnail margin:"
+#~ msgstr "მინიატურა ზღვარი:"
+
+#~ msgid "Set the margin for the thumbnails."
+#~ msgstr "უცნობია ზღვარი დაბრუნება."
+
+#~ msgid "Scale"
+#~ msgstr "სასწორი"
+
+#~ msgid "Hover Color:"
+#~ msgstr "Hover ფერი:"
+
+#~ msgid "Add to slider"
+#~ msgstr "რჩეულებში სლაიდერი"
+
+#~ msgid "Post type:"
+#~ msgstr "Post ტიპი:"
+
+#~ msgid "All public posts are included in the list."
+#~ msgstr "ყველა საჯარო შეტყობინება შედის ამ სიაში."
+
+#~ msgid "Featured image"
+#~ msgstr "მთავარი სურათი"
+
+#~ msgid "Type"
+#~ msgstr "ტიპი"
+
+#~ msgid "Date created"
+#~ msgstr "შექმნის თარიღი"
+
+#~ msgid "Date modified"
+#~ msgstr "თარიღი შეცვლილია"
+
+#~ msgid "There are no posts in this slider."
+#~ msgstr "გსურთ რეპო ნებისმიერი sts წელს Thi s s ~ Ide r."
+
+#~ msgid "Share on Facebook"
+#~ msgstr "გააზიარე ფეისბუქზე"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Share on Twitter"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Share on Google+"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Share on Pinterest"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Share on Tumblr"
+
+#~ msgid ""
+#~ "Post Slider WD is a responsive plugin, which allows adding sliders to "
+#~ "your posts/pages and to custom location."
+#~ msgstr ""
+#~ "ბარგისა და ქ S ~ Ide r WD აქვს s Oh რე s pop, რომ მე p ~ Ugin, Wie ch A ~ "
+#~ "თსუ ~ o ws Ajjin g s ~ Ide rs ქვაკუთხედი r po sts / Pa-ge s ენ დ და "
+#~ "დებულებები და მ პროცენტი მოხსნისათვის ."
+
+#~ msgid "Updates"
+#~ msgstr "Re p s თარიღი"
+
+#~ msgid ""
+#~ "You can download the latest version of your plugins from your %s "
+#~ "account.\n"
+#~ "            After deactivate and delete the current version.\n"
+#~ "            Install the downloaded latest version of the plugin."
+#~ msgstr ""
+#~ "შეგიძლიათ ჩამოტვირთოთ უახლესი ვერსია თქვენს plugins თქვენი% s ანგარიშზე.\n"
+#~ "             მას შემდეგ, რაც გამორთვა და წაშლა მიმდინარე ვერსია.\n"
+#~ "             დააინსტალირეთ გადმოწერილი უახლესი ვერსია მოდული."
+
+#~ msgid "Current version %s"
+#~ msgstr "Kurren t ve r Shion %s"
+
+#~ msgid "There is a new %s version"
+#~ msgstr "ხოლო სიონი უნდა ჰქონდეს s Oh ne w % s ve r"
+
+#~ msgid "%s is up to date."
+#~ msgstr "%s დღემდე."
+
+#~ msgid "Dynamic post"
+#~ msgstr "დინამიური პოსტი"
+
+#~ msgid "Smart Crop"
+#~ msgstr "S ან rt C ფილტრაცია p"
+
+#~ msgid "Crop Image Position"
+#~ msgstr "C ფილტრაცია p Image Poshi ნიადაგის ტემპერატურა"
+
+#~ msgid "You can include only published posts with featured image."
+#~ msgstr "თქვენ შეიძლება შეიცავდეს მხოლოდ გამოქვეყნდა პოსტი გამორჩეული იმიჯი."
+
+#~ msgid "There are no postes in this slider."
+#~ msgstr "არ არის შეტყობინება ამ სლაიდერი."
+
+#~ msgid "There are no slides in this slider."
+#~ msgstr "არ არსებობს სლაიდები ამ სლაიდერი."
+
+#~ msgid "Slider post type:"
+#~ msgstr "Slider პოსტი ტიპი:"
+
+#~ msgid "Dynamic post slides"
+#~ msgstr "დინამიური პოსტი სლაიდები"
+
+#~ msgid "Static post slides"
+#~ msgstr "სტატიკური პოსტი სლაიდები"
+
+#~ msgid "Uninstall Post Slider WordPress"
+#~ msgstr "Uninstall Post Slider WordPress"
+
+#~ msgid ""
+#~ "Deactivating Post Slider WordPress plugin does not remove any data that "
+#~ "may have been created. To completely remove this plugin, you can "
+#~ "uninstall it here."
+#~ msgstr ""
+#~ "ვუშველი Post Slider WordPress მოდული არ ამოიღონ ნებისმიერი მონაცემები, "
+#~ "რომელიც შეიძლება შეიქმნა. მთლიანად ამოიღონ ამ მოდულის, თქვენ შეგიძლიათ "
+#~ "წაშალოთ აქ."
+
+#~ msgid "Do you really want to uninstall Post Slider WordPress plugin?"
+#~ msgstr "ნამდვილად გსურთ წაშალოთ შეტყობინება Slider WordPress მოდული?"
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "This Action Is Not Reversible."
+#~ msgstr ""
+#~ "თქვენ ხართ მომხმარებლის წაშალოთ Post Slider WordPress მოდული ეხლა "
+#~ "WordPress.This აქცია არ არის შექცევადი."
+
+#~ msgid ""
+#~ "To Finish the Uninstallation and Post Slider WordPress will be "
+#~ "Deactivated Automatically."
+#~ msgstr ""
+#~ "დასრულება Uninstallation და პოსტ Slider WordPress გაუქმდება ავტომატურად."
+
+#~ msgid "Post Slider WordPress"
+#~ msgstr "Post Slider WordPress"
+
+#~ msgid "Enable Dynamic Posts:"
+#~ msgstr "ჩართვა დინამიური პოსტები:"
+
+#~ msgid ""
+#~ "Enable this option if you want to display standard posts as slides with "
+#~ "their featured images."
+#~ msgstr ""
+#~ "მონიშნეთ ეს პარამეტრი, თუ გსურთ არიან სტანდარტული პოსტი სლაიდები მათი "
+#~ "რჩეული images."
+
+#~ msgid "Added Post Autoupdate Interval:"
+#~ msgstr "დამატებულია Post AutoUpdate ვადა:"
+
+#~ msgid "Set the number of posts which will be displayed as slides."
+#~ msgstr ""
+#~ "უცნობია პოსტების რაოდენობა, რომელიც იქნება ნაჩვენები როგორც სლაიდები."
+
+#~ msgid "Layer Word Count:"
+#~ msgstr "Layer სიტყვების რაოდენობა:"
+
+#~ msgid ""
+#~ "This will limit the number of words for post content displayed as a layer."
+#~ msgstr ""
+#~ "ეს შეზღუდოს რაოდენობა სიტყვები ჩანაწერის შინაარსის არის ნაჩვენები, როგორც "
+#~ "ფენა."
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "\\nThis Action Is Not Reversible."
+#~ msgstr ""
+#~ "თქვენ ხართ მომხმარებლის წაშალოთ შეტყობინება Slider WordPress მოდული "
+#~ "WordPress. \\\\\\\\ N ეს აქცია არ არის შექცევადი."
+
+#~ msgid "You can include only posts with featured image."
+#~ msgstr "თქვენ შეიძლება შეიცავდეს მხოლოდ ფორუმზე გამორჩეული იმიჯი."
+
+#~ msgid "Remove"
+#~ msgstr "წაშლა"
+
+#~ msgid "Choose file (use .zip format)."
+#~ msgstr "აირჩიეთ ფაილი (გამოყენების zip ფორმატში)."
+
+#~ msgid "Еffect duration:"
+#~ msgstr "Еffect ხანგრძლივობა:"
+
+#~ msgid "Select the author who’s posts will be displayed within the slider."
+#~ msgstr ""
+#~ "აირჩიეთ ავტორი, რომელიც პოსტები იქნება ნაჩვენები ფარგლებში სლაიდერი."
+
+#~ msgid "Slider name:"
+#~ msgstr "Slider სახელი:"
+
+#~ msgid "Add slide"
+#~ msgstr "რჩეულებში slide"
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the "
+#~ "mentioned location upon hitting the slide."
+#~ msgstr ""
+#~ "შეგიძლიათ დააყენოთ გადამისამართება ბმული, ისე, რომ მომხმარებელს მიიღებს "
+#~ "აღნიშნულ ადგილამდე საფუძველზე დარტყმის slide."
+
+#~ msgid "Rob"
+#~ msgstr "Rob"

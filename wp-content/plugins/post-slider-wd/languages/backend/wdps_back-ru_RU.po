@@ -1,0 +1,2564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: post-slider-wd\n"
+"POT-Creation-Date: 2016-08-17 15:43+0500\n"
+"PO-Revision-Date: 2016-08-17 15:44+0500\n"
+"Last-Translator: admin < vahram@gmail.com >\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n"
+"%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:61
+#: admin/views/WDPSViewSliders_wdps.php:2613
+msgid "All"
+msgstr "Все"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:613
+#: framework/WDW_PS_Library.php:141
+msgid "Changes must be saved."
+msgstr "Изменения должны быть сохранены."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:624
+msgid "Item Succesfully Duplicated."
+msgstr "Пункт Успешно дубликаты."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:642
+msgid "Do you want to duplicate selected items?"
+msgstr "Вы хотите, чтобы дублировать выбранные элементы?"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:646
+#: admin/controllers/WDPSControllerSliders_wdps.php:904
+#: admin/controllers/WDPSControllerSliders_wdps.php:946
+#: admin/controllers/WDPSControllerSliders_wdps.php:988
+#: framework/WDW_PS_Library.php:75
+msgid "You must select at least one item."
+msgstr "Вы должны выбрать по крайней мере один элемент."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:650
+msgid "Items Succesfully Duplicated."
+msgstr "Товары Успешно дублируются."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:875
+#: framework/WDW_PS_Library.php:57
+msgid "Item Succesfully Deleted."
+msgstr "Пункт Успешно удалены."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:878
+#: admin/controllers/WDPSControllerSliders_wdps.php:917
+#: admin/controllers/WDPSControllerSliders_wdps.php:959
+#: framework/WDW_PS_Library.php:51
+msgid "Error. Please install plugin again."
+msgstr "Ошибка. Пожалуйста, установите плагин снова."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:900
+#: framework/WDW_PS_Library.php:69
+msgid "Items Succesfully Deleted."
+msgstr "Товары Успешно удалены."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:914
+#: framework/WDW_PS_Library.php:93
+msgid "Item Succesfully Published."
+msgstr "Пункт Успешно Опубликовано."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:942
+#: framework/WDW_PS_Library.php:99
+msgid "Items Succesfully Published."
+msgstr "Товары Успешно Опубликовано."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:956
+#: framework/WDW_PS_Library.php:105
+msgid "Item Succesfully Unpublished."
+msgstr "Пункт Успешно опубликовано."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:984
+#: framework/WDW_PS_Library.php:111
+msgid "Items Succesfully Unpublished."
+msgstr "Товары Успешно опубликовано."
+
+#: admin/views/WDPSViewSliders_wdps.php:34
+msgid "Post Sliders"
+msgstr "Запис Ползунки"
+
+#: admin/views/WDPSViewSliders_wdps.php:65
+msgid "This section allows you to create, edit and delete post sliders."
+msgstr ""
+"В этом разделе можно создавать, редактировать и удалять почтовые ползунки."
+
+#: admin/views/WDPSViewSliders_wdps.php:66
+#: admin/views/WDPSViewSliders_wdps.php:560
+msgid "Read More in User Manual"
+msgstr "Подробнее в руководстве пользователя"
+
+#: admin/views/WDPSViewSliders_wdps.php:80
+msgid "Add new"
+msgstr "Добавить новое"
+
+#: admin/views/WDPSViewSliders_wdps.php:83
+#: admin/views/WDPSViewSliders_wdps.php:117
+msgid "Name"
+msgstr "имя"
+
+#: admin/views/WDPSViewSliders_wdps.php:87
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: admin/views/WDPSViewSliders_wdps.php:89
+msgid "Publish"
+msgstr "Публиковать"
+
+#: admin/views/WDPSViewSliders_wdps.php:90
+msgid "Unpublish"
+msgstr "Отменить публикацию"
+
+#: admin/views/WDPSViewSliders_wdps.php:91
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: admin/views/WDPSViewSliders_wdps.php:92
+#: admin/views/WDPSViewSliders_wdps.php:182
+msgid "Do you want to delete selected items?"
+msgstr "Вы хотите, чтобы удалить выбранные элементы?"
+
+#: admin/views/WDPSViewSliders_wdps.php:96
+#: admin/views/WDPSViewSliders_wdps.php:182
+#: admin/views/WDPSViewSliders_wdps.php:1997 post-slider-wd.php:402
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/views/WDPSViewSliders_wdps.php:111
+msgid "Slider"
+msgstr "Ползунок"
+
+#: admin/views/WDPSViewSliders_wdps.php:120
+#: admin/views/WDPSViewSliders_wdps.php:617
+#: admin/views/WDPSViewSliders_wdps.php:1864
+#: admin/views/WDPSViewSliders_wdps.php:1893
+msgid "Slides"
+msgstr "Слайды"
+
+#: admin/views/WDPSViewSliders_wdps.php:121
+msgid "Shortcode"
+msgstr "Короткий код"
+
+#: admin/views/WDPSViewSliders_wdps.php:122
+msgid "PHP function"
+msgstr "Функция PHP"
+
+#: admin/views/WDPSViewSliders_wdps.php:128
+msgid "Published"
+msgstr "Опубликованный"
+
+#: admin/views/WDPSViewSliders_wdps.php:131
+msgid "Action"
+msgstr "Действие"
+
+#: admin/views/WDPSViewSliders_wdps.php:158
+#: admin/views/WDPSViewSliders_wdps.php:172
+msgid "Edit"
+msgstr "редактировать"
+
+#: admin/views/WDPSViewSliders_wdps.php:215
+msgid "Edit post slider "
+msgstr "Редактировать запис слайдер  "
+
+#: admin/views/WDPSViewSliders_wdps.php:215
+msgid "Create new post slider"
+msgstr "Создать новый пост ползунок"
+
+#: admin/views/WDPSViewSliders_wdps.php:238
+msgid "Publishing Date"
+msgstr "Дата публикации"
+
+#: admin/views/WDPSViewSliders_wdps.php:239
+msgid "Modification Date"
+msgstr "Дата изменения"
+
+#: admin/views/WDPSViewSliders_wdps.php:240
+msgid "Number of Comments"
+msgstr "Количество комментариев"
+
+#: admin/views/WDPSViewSliders_wdps.php:241
+msgid "Post Title"
+msgstr "Заголовок поста"
+
+#: admin/views/WDPSViewSliders_wdps.php:242
+msgid "Menu Order"
+msgstr "Меню Заказать"
+
+#: admin/views/WDPSViewSliders_wdps.php:243
+msgid "Author"
+msgstr "Автор"
+
+#: admin/views/WDPSViewSliders_wdps.php:244
+#: admin/views/WDPSViewSliders_wdps.php:359
+msgid "Random"
+msgstr "Случайный"
+
+#: admin/views/WDPSViewSliders_wdps.php:256
+#: admin/views/WDPSViewWDPSPosts.php:123
+msgid "Select"
+msgstr "Выбрать"
+
+#: admin/views/WDPSViewSliders_wdps.php:257
+msgid "Hour"
+msgstr "Час"
+
+#: admin/views/WDPSViewSliders_wdps.php:258
+msgid "Day"
+msgstr "День"
+
+#: admin/views/WDPSViewSliders_wdps.php:259
+msgid "Week"
+msgstr "Неделю"
+
+#: admin/views/WDPSViewSliders_wdps.php:260
+msgid "Month"
+msgstr "Месяц"
+
+#: admin/views/WDPSViewSliders_wdps.php:263
+#: admin/views/WDPSViewSliders_wdps.php:459
+#: admin/views/WDPSViewSliders_wdps.php:1739 post-slider-wd.php:350
+msgid "Left"
+msgstr "Оставил"
+
+#: admin/views/WDPSViewSliders_wdps.php:264
+msgid "Center"
+msgstr "Центр"
+
+#: admin/views/WDPSViewSliders_wdps.php:265
+#: admin/views/WDPSViewSliders_wdps.php:461
+#: admin/views/WDPSViewSliders_wdps.php:1737 post-slider-wd.php:351
+msgid "Right"
+msgstr "Правильно"
+
+#: admin/views/WDPSViewSliders_wdps.php:268
+#: admin/views/WDPSViewSliders_wdps.php:333
+#: admin/views/WDPSViewSliders_wdps.php:364
+#: admin/views/WDPSViewSliders_wdps.php:411 post-slider-wd.php:293
+msgid "None"
+msgstr "Ни одной"
+
+#: admin/views/WDPSViewSliders_wdps.php:269 post-slider-wd.php:335
+msgid "Solid"
+msgstr "Твердый"
+
+#: admin/views/WDPSViewSliders_wdps.php:270 post-slider-wd.php:336
+msgid "Dotted"
+msgstr "Пунктирный"
+
+#: admin/views/WDPSViewSliders_wdps.php:271 post-slider-wd.php:337
+msgid "Dashed"
+msgstr "Пунктирная"
+
+#: admin/views/WDPSViewSliders_wdps.php:272
+#: admin/views/WDPSViewSliders_wdps.php:281 post-slider-wd.php:338
+msgid "Double"
+msgstr "Двойной"
+
+#: admin/views/WDPSViewSliders_wdps.php:273 post-slider-wd.php:339
+msgid "Groove"
+msgstr "Паз"
+
+#: admin/views/WDPSViewSliders_wdps.php:274 post-slider-wd.php:340
+msgid "Ridge"
+msgstr "Хребет"
+
+#: admin/views/WDPSViewSliders_wdps.php:275 post-slider-wd.php:341
+msgid "Inset"
+msgstr "Вставка"
+
+#: admin/views/WDPSViewSliders_wdps.php:276 post-slider-wd.php:342
+msgid "Outset"
+msgstr "Боковик"
+
+#: admin/views/WDPSViewSliders_wdps.php:279
+msgid "Chevron"
+msgstr "Шеврон"
+
+#: admin/views/WDPSViewSliders_wdps.php:280
+msgid "Angle"
+msgstr "Угол"
+
+#: admin/views/WDPSViewSliders_wdps.php:284
+msgid "Circle O"
+msgstr "Круг О"
+
+#: admin/views/WDPSViewSliders_wdps.php:285
+msgid "Circle"
+msgstr "Круг"
+
+#: admin/views/WDPSViewSliders_wdps.php:286
+msgid "Minus"
+msgstr "Минус"
+
+#: admin/views/WDPSViewSliders_wdps.php:287
+msgid "Square O"
+msgstr "Площадь вывода"
+
+#: admin/views/WDPSViewSliders_wdps.php:288
+msgid "Square"
+msgstr "Квадрат"
+
+#: admin/views/WDPSViewSliders_wdps.php:320 post-slider-wd.php:332
+msgid "Lighter"
+msgstr "Более легкий"
+
+#: admin/views/WDPSViewSliders_wdps.php:321 post-slider-wd.php:333
+msgid "Normal"
+msgstr "Нормальный"
+
+#: admin/views/WDPSViewSliders_wdps.php:322 post-slider-wd.php:334
+msgid "Bold"
+msgstr "Жирный"
+
+#: admin/views/WDPSViewSliders_wdps.php:325 post-slider-wd.php:343
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/views/WDPSViewSliders_wdps.php:326 post-slider-wd.php:344
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/views/WDPSViewSliders_wdps.php:327 post-slider-wd.php:345
+msgid "Twitter"
+msgstr "Щебет"
+
+#: admin/views/WDPSViewSliders_wdps.php:328 post-slider-wd.php:346
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/views/WDPSViewSliders_wdps.php:329 post-slider-wd.php:347
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: admin/views/WDPSViewSliders_wdps.php:334
+msgid "Fade"
+msgstr "Увядать"
+
+#: admin/views/WDPSViewSliders_wdps.php:335
+msgid "Slice Horizontal"
+msgstr "Фрагмент по горизонтали"
+
+#: admin/views/WDPSViewSliders_wdps.php:336
+msgid "Fan"
+msgstr "Поклонник"
+
+#: admin/views/WDPSViewSliders_wdps.php:337
+msgid "Scale In"
+msgstr "Шкала в"
+
+#: admin/views/WDPSViewSliders_wdps.php:338
+msgid "Zoom Fade"
+msgstr "Увеличить Fade"
+
+#: admin/views/WDPSViewSliders_wdps.php:339
+msgid "Parallel Slide Horizontal"
+msgstr "Параллельно Презентация по горизонтали"
+
+#: admin/views/WDPSViewSliders_wdps.php:340
+msgid "Parallel Slide Vertical"
+msgstr "Параллельно Презентация Вертикальный"
+
+#: admin/views/WDPSViewSliders_wdps.php:341
+msgid "Slice 3D Horizontal"
+msgstr "Кусочек 3D Горизонтальная"
+
+#: admin/views/WDPSViewSliders_wdps.php:342
+msgid "Slice 3D Vertical"
+msgstr "Кусочек 3D Вертикальная"
+
+#: admin/views/WDPSViewSliders_wdps.php:343
+msgid "Slice 3D Horizontal Random"
+msgstr "Кусочек 3D Горизонтальная Случайные"
+
+#: admin/views/WDPSViewSliders_wdps.php:344
+msgid "Slice 3D Vertical Random"
+msgstr "Кусочек 3D Вертикальная Случайные"
+
+#: admin/views/WDPSViewSliders_wdps.php:345
+msgid "Blind"
+msgstr "Слепой"
+
+#: admin/views/WDPSViewSliders_wdps.php:346
+msgid "Tiles"
+msgstr "Плитка"
+
+#: admin/views/WDPSViewSliders_wdps.php:347
+msgid "Block Scale Random"
+msgstr "Блок Масштаб Случайные"
+
+#: admin/views/WDPSViewSliders_wdps.php:348
+msgid "Cube Horizontal"
+msgstr "Куб Горизонтальная"
+
+#: admin/views/WDPSViewSliders_wdps.php:349
+msgid "Cube Vertical"
+msgstr "Куб Вертикальный"
+
+#: admin/views/WDPSViewSliders_wdps.php:350
+msgid "Cube Random"
+msgstr "Куб Случайные"
+
+#: admin/views/WDPSViewSliders_wdps.php:351
+msgid "Slice Vertical"
+msgstr "Фрагмент по вертикали"
+
+#: admin/views/WDPSViewSliders_wdps.php:352
+msgid "Slide Horizontal"
+msgstr "Слайд Horizontal"
+
+#: admin/views/WDPSViewSliders_wdps.php:353
+msgid "Slide Vertical"
+msgstr "Слайд Vertical"
+
+#: admin/views/WDPSViewSliders_wdps.php:354
+msgid "Scale Out"
+msgstr "Масштабирование"
+
+#: admin/views/WDPSViewSliders_wdps.php:355
+msgid "Block Scale"
+msgstr "Блок Масштаб"
+
+#: admin/views/WDPSViewSliders_wdps.php:356
+msgid "Kaleidoscope"
+msgstr "Калейдоскоп"
+
+#: admin/views/WDPSViewSliders_wdps.php:357
+msgid "Blind Horizontal"
+msgstr "Жалюзи горизонтальные"
+
+#: admin/views/WDPSViewSliders_wdps.php:358
+msgid "Blind Vertical"
+msgstr "Жалюзи вертикальные"
+
+#: admin/views/WDPSViewSliders_wdps.php:360
+msgid "3D Random"
+msgstr "3D Случайные"
+
+#: admin/views/WDPSViewSliders_wdps.php:365
+#: admin/views/WDPSViewSliders_wdps.php:412 post-slider-wd.php:294
+msgid "Bounce"
+msgstr "Отскок"
+
+#: admin/views/WDPSViewSliders_wdps.php:366
+#: admin/views/WDPSViewSliders_wdps.php:413 post-slider-wd.php:300
+msgid "Tada"
+msgstr "Тада"
+
+#: admin/views/WDPSViewSliders_wdps.php:367
+#: admin/views/WDPSViewSliders_wdps.php:414 post-slider-wd.php:306
+msgid "BounceInDown"
+msgstr "BounceInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:368
+#: admin/views/WDPSViewSliders_wdps.php:415 post-slider-wd.php:313
+msgid "FadeInLeft"
+msgstr "FadeInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:369
+#: admin/views/WDPSViewSliders_wdps.php:416 post-slider-wd.php:295
+msgid "Flash"
+msgstr "вспышка"
+
+#: admin/views/WDPSViewSliders_wdps.php:370
+#: admin/views/WDPSViewSliders_wdps.php:417 post-slider-wd.php:296
+msgid "Pulse"
+msgstr "Пульс"
+
+#: admin/views/WDPSViewSliders_wdps.php:371
+#: admin/views/WDPSViewSliders_wdps.php:418 post-slider-wd.php:297
+msgid "RubberBand"
+msgstr "Резинка"
+
+#: admin/views/WDPSViewSliders_wdps.php:372
+#: admin/views/WDPSViewSliders_wdps.php:419 post-slider-wd.php:298
+msgid "Shake"
+msgstr "Встряска"
+
+#: admin/views/WDPSViewSliders_wdps.php:373
+#: admin/views/WDPSViewSliders_wdps.php:420 post-slider-wd.php:299
+msgid "Swing"
+msgstr "Качели"
+
+#: admin/views/WDPSViewSliders_wdps.php:374
+#: admin/views/WDPSViewSliders_wdps.php:421 post-slider-wd.php:301
+msgid "Wobble"
+msgstr "Колебание"
+
+#: admin/views/WDPSViewSliders_wdps.php:375
+#: admin/views/WDPSViewSliders_wdps.php:422 post-slider-wd.php:302
+msgid "Hinge"
+msgstr "Шарнир"
+
+#: admin/views/WDPSViewSliders_wdps.php:377
+#: admin/views/WDPSViewSliders_wdps.php:424 post-slider-wd.php:303
+msgid "LightSpeedIn"
+msgstr "LightSpeedIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:378
+#: admin/views/WDPSViewSliders_wdps.php:425 post-slider-wd.php:304
+msgid "RollIn"
+msgstr "Rollin"
+
+#: admin/views/WDPSViewSliders_wdps.php:380
+#: admin/views/WDPSViewSliders_wdps.php:427 post-slider-wd.php:305
+msgid "BounceIn"
+msgstr "BounceIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:381
+#: admin/views/WDPSViewSliders_wdps.php:428 post-slider-wd.php:307
+msgid "BounceInLeft"
+msgstr "BounceInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:382
+#: admin/views/WDPSViewSliders_wdps.php:429 post-slider-wd.php:308
+msgid "BounceInRight"
+msgstr "BounceInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:383
+#: admin/views/WDPSViewSliders_wdps.php:430 post-slider-wd.php:309
+msgid "BounceInUp"
+msgstr "BounceInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:385
+#: admin/views/WDPSViewSliders_wdps.php:432 post-slider-wd.php:310
+msgid "FadeIn"
+msgstr "FadeIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:386
+#: admin/views/WDPSViewSliders_wdps.php:433 post-slider-wd.php:311
+msgid "FadeInDown"
+msgstr "FadeInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:387
+#: admin/views/WDPSViewSliders_wdps.php:434 post-slider-wd.php:312
+msgid "FadeInDownBig"
+msgstr "FadeInDownBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:388
+#: admin/views/WDPSViewSliders_wdps.php:435 post-slider-wd.php:314
+msgid "FadeInLeftBig"
+msgstr "FadeInLeftBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:389
+#: admin/views/WDPSViewSliders_wdps.php:436 post-slider-wd.php:315
+msgid "FadeInRight"
+msgstr "FadeInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:390
+#: admin/views/WDPSViewSliders_wdps.php:437 post-slider-wd.php:316
+msgid "FadeInRightBig"
+msgstr "FadeInRightBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:391
+#: admin/views/WDPSViewSliders_wdps.php:438 post-slider-wd.php:317
+msgid "FadeInUp"
+msgstr "FadeInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:392
+#: admin/views/WDPSViewSliders_wdps.php:439 post-slider-wd.php:318
+msgid "FadeInUpBig"
+msgstr "FadeInUpBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:394
+#: admin/views/WDPSViewSliders_wdps.php:441 post-slider-wd.php:319
+msgid "Flip"
+msgstr "кувырок"
+
+#: admin/views/WDPSViewSliders_wdps.php:395
+#: admin/views/WDPSViewSliders_wdps.php:442 post-slider-wd.php:320
+msgid "FlipInX"
+msgstr "FlipInX"
+
+#: admin/views/WDPSViewSliders_wdps.php:396
+#: admin/views/WDPSViewSliders_wdps.php:443 post-slider-wd.php:321
+msgid "FlipInY"
+msgstr "FlipInY"
+
+#: admin/views/WDPSViewSliders_wdps.php:398
+#: admin/views/WDPSViewSliders_wdps.php:445 post-slider-wd.php:322
+msgid "RotateIn"
+msgstr "RotateIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:399
+#: admin/views/WDPSViewSliders_wdps.php:446 post-slider-wd.php:323
+msgid "RotateInDownLeft"
+msgstr "RotateInDownLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:400
+#: admin/views/WDPSViewSliders_wdps.php:447 post-slider-wd.php:324
+msgid "RotateInDownRight"
+msgstr "RotateInDownRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:401
+#: admin/views/WDPSViewSliders_wdps.php:448 post-slider-wd.php:325
+msgid "RotateInUpLeft"
+msgstr "RotateInUpLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:402
+#: admin/views/WDPSViewSliders_wdps.php:449 post-slider-wd.php:326
+msgid "RotateInUpRight"
+msgstr "RotateInUpRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:404
+#: admin/views/WDPSViewSliders_wdps.php:451 post-slider-wd.php:327
+msgid "ZoomIn"
+msgstr "Приблизить"
+
+#: admin/views/WDPSViewSliders_wdps.php:405
+#: admin/views/WDPSViewSliders_wdps.php:452 post-slider-wd.php:328
+msgid "ZoomInDown"
+msgstr "ZoomInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:406
+#: admin/views/WDPSViewSliders_wdps.php:453 post-slider-wd.php:329
+msgid "ZoomInLeft"
+msgstr "ZoomInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:407
+#: admin/views/WDPSViewSliders_wdps.php:454 post-slider-wd.php:330
+msgid "ZoomInRight"
+msgstr "ZoomInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:408
+#: admin/views/WDPSViewSliders_wdps.php:455 post-slider-wd.php:331
+msgid "ZoomInUp"
+msgstr "ZoomInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:458
+#: admin/views/WDPSViewSliders_wdps.php:1482
+#: admin/views/WDPSViewSliders_wdps.php:1736 post-slider-wd.php:348
+msgid "Top"
+msgstr "верхний"
+
+#: admin/views/WDPSViewSliders_wdps.php:460
+#: admin/views/WDPSViewSliders_wdps.php:1483
+#: admin/views/WDPSViewSliders_wdps.php:1738 post-slider-wd.php:349
+msgid "Bottom"
+msgstr "Дно"
+
+#: admin/views/WDPSViewSliders_wdps.php:467
+msgid "Some options are disabled in free version."
+msgstr "Некоторые опции отключены в бесплатной версии."
+
+#: admin/views/WDPSViewSliders_wdps.php:468
+msgid "This option is disabled in free version."
+msgstr "Эта опция отключена в бесплатной версии."
+
+#: admin/views/WDPSViewSliders_wdps.php:559
+msgid "This section allows you to add/edit slider."
+msgstr "Этот раздел позволяет добавлять/редактировать ползунок ."
+
+#: admin/views/WDPSViewSliders_wdps.php:574
+msgid "Slider Title:"
+msgstr "Слайдер Название:"
+
+#: admin/views/WDPSViewSliders_wdps.php:581
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/views/WDPSViewSliders_wdps.php:586
+msgid "Apply"
+msgstr "Подать заявление"
+
+#: admin/views/WDPSViewSliders_wdps.php:591
+msgid "Cancel"
+msgstr "Отмена"
+
+#: admin/views/WDPSViewSliders_wdps.php:600
+msgid "Reset Settings"
+msgstr "Сбросить настройки"
+
+#: admin/views/WDPSViewSliders_wdps.php:612
+#: admin/views/WDPSViewSliders_wdps.php:1859
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/views/WDPSViewSliders_wdps.php:630
+msgid "Global"
+msgstr "Глобальный"
+
+#: admin/views/WDPSViewSliders_wdps.php:633
+msgid "Carousel"
+msgstr "Карусель"
+
+#: admin/views/WDPSViewSliders_wdps.php:636
+msgid "Navigation"
+msgstr "Навигация"
+
+#: admin/views/WDPSViewSliders_wdps.php:639
+msgid "Bullets"
+msgstr "Пули"
+
+#: admin/views/WDPSViewSliders_wdps.php:642
+msgid "Filmstrip"
+msgstr "Диафильм"
+
+#: admin/views/WDPSViewSliders_wdps.php:645
+msgid "Timer bar"
+msgstr "Бар Таймер"
+
+#: admin/views/WDPSViewSliders_wdps.php:649
+msgid "CSS"
+msgstr "CSS"
+
+#: admin/views/WDPSViewSliders_wdps.php:658
+#: admin/views/WDPSViewSliders_wdps.php:2188
+#: admin/views/WDPSViewSliders_wdps.php:2877 post-slider-wd.php:359
+msgid "Dimensions:"
+msgstr "Габаритные размеры:"
+
+#: admin/views/WDPSViewSliders_wdps.php:662
+msgid "Maximum width and height for slider."
+msgstr "Максимальная ширина и высота для слайдера."
+
+#: admin/views/WDPSViewSliders_wdps.php:666
+msgid "Full width:"
+msgstr "Полная ширина:"
+
+#: admin/views/WDPSViewSliders_wdps.php:668
+#: admin/views/WDPSViewSliders_wdps.php:685
+#: admin/views/WDPSViewSliders_wdps.php:721
+#: admin/views/WDPSViewSliders_wdps.php:768
+#: admin/views/WDPSViewSliders_wdps.php:776
+#: admin/views/WDPSViewSliders_wdps.php:791
+#: admin/views/WDPSViewSliders_wdps.php:799
+#: admin/views/WDPSViewSliders_wdps.php:814
+#: admin/views/WDPSViewSliders_wdps.php:832
+#: admin/views/WDPSViewSliders_wdps.php:888
+#: admin/views/WDPSViewSliders_wdps.php:898
+#: admin/views/WDPSViewSliders_wdps.php:924
+#: admin/views/WDPSViewSliders_wdps.php:943
+#: admin/views/WDPSViewSliders_wdps.php:966
+#: admin/views/WDPSViewSliders_wdps.php:1010
+#: admin/views/WDPSViewSliders_wdps.php:1234
+#: admin/views/WDPSViewSliders_wdps.php:1473
+#: admin/views/WDPSViewSliders_wdps.php:1727
+#: admin/views/WDPSViewSliders_wdps.php:1799
+#: admin/views/WDPSViewSliders_wdps.php:2072
+#: admin/views/WDPSViewSliders_wdps.php:2277
+#: admin/views/WDPSViewSliders_wdps.php:2958
+#: admin/views/WDPSViewUninstall_wdps.php:64 post-slider-wd.php:370
+msgid "Yes"
+msgstr "Да"
+
+#: admin/views/WDPSViewSliders_wdps.php:669
+#: admin/views/WDPSViewSliders_wdps.php:686
+#: admin/views/WDPSViewSliders_wdps.php:722
+#: admin/views/WDPSViewSliders_wdps.php:769
+#: admin/views/WDPSViewSliders_wdps.php:777
+#: admin/views/WDPSViewSliders_wdps.php:792
+#: admin/views/WDPSViewSliders_wdps.php:800
+#: admin/views/WDPSViewSliders_wdps.php:815
+#: admin/views/WDPSViewSliders_wdps.php:833
+#: admin/views/WDPSViewSliders_wdps.php:889
+#: admin/views/WDPSViewSliders_wdps.php:899
+#: admin/views/WDPSViewSliders_wdps.php:925
+#: admin/views/WDPSViewSliders_wdps.php:944
+#: admin/views/WDPSViewSliders_wdps.php:967
+#: admin/views/WDPSViewSliders_wdps.php:1011
+#: admin/views/WDPSViewSliders_wdps.php:1235
+#: admin/views/WDPSViewSliders_wdps.php:1474
+#: admin/views/WDPSViewSliders_wdps.php:1728
+#: admin/views/WDPSViewSliders_wdps.php:1800
+#: admin/views/WDPSViewSliders_wdps.php:2073
+#: admin/views/WDPSViewSliders_wdps.php:2279
+#: admin/views/WDPSViewSliders_wdps.php:2960 post-slider-wd.php:371
+msgid "No"
+msgstr "Нет"
+
+#: admin/views/WDPSViewSliders_wdps.php:670
+msgid "Ratio"
+msgstr "Соотношение"
+
+#: admin/views/WDPSViewSliders_wdps.php:671
+msgid ""
+"The image will stretch to the page width, taking the height based on "
+"dimensions ratio."
+msgstr ""
+"Изображение будет растягиваться по ширине страницы, принимая высоту, "
+"основанную на соотношении размеров."
+
+#: admin/views/WDPSViewSliders_wdps.php:675
+msgid "Background fit:"
+msgstr "Фон подходят:"
+
+#: admin/views/WDPSViewSliders_wdps.php:677
+msgid "Cover"
+msgstr "Обложка"
+
+#: admin/views/WDPSViewSliders_wdps.php:678
+msgid "Fill"
+msgstr "Заполнить"
+
+#: admin/views/WDPSViewSliders_wdps.php:679
+msgid "Contain"
+msgstr "Содержать"
+
+#: admin/views/WDPSViewSliders_wdps.php:683
+msgid "Smart Crop:"
+msgstr "Смарт Crop:"
+
+#: admin/views/WDPSViewSliders_wdps.php:692
+msgid "Crop Image Position:"
+msgstr "Crop Позиция изображения:"
+
+#: admin/views/WDPSViewSliders_wdps.php:727
+msgid "Align:"
+msgstr "Совместите:"
+
+#: admin/views/WDPSViewSliders_wdps.php:738
+msgid "Set the alignment of the slider."
+msgstr "Установите выравнивание слайдера."
+
+#: admin/views/WDPSViewSliders_wdps.php:743
+msgid "Effect:"
+msgstr "Эффект:"
+
+#: admin/views/WDPSViewSliders_wdps.php:755
+#: admin/views/WDPSViewSliders_wdps.php:2310
+#: admin/views/WDPSViewSliders_wdps.php:2338
+#: admin/views/WDPSViewSliders_wdps.php:2991
+#: admin/views/WDPSViewSliders_wdps.php:3005
+#: admin/views/WDPSViewSliders_wdps.php:3020 post-slider-wd.php:392
+msgid "Some effects are disabled in free version."
+msgstr "Некоторые эффекты отключены в бесплатной версии."
+
+#: admin/views/WDPSViewSliders_wdps.php:759
+msgid "Effect duration:"
+msgstr "Продолжительность эффекта:"
+
+#: admin/views/WDPSViewSliders_wdps.php:762
+msgid "Define the time for the effect."
+msgstr "Определите время для эффекта."
+
+#: admin/views/WDPSViewSliders_wdps.php:766
+msgid "Parallax Effect:"
+msgstr "Параллакс Эффект:"
+
+#: admin/views/WDPSViewSliders_wdps.php:770
+msgid ""
+"The direction of the movement, as well as the layer moving pace depend on "
+"the z-index value."
+msgstr ""
+"Направление движения, а также слой перемещение темп зависит от величины Z-"
+"индекс."
+
+#: admin/views/WDPSViewSliders_wdps.php:774
+msgid "Autoplay:"
+msgstr "Автовоспроизведение:"
+
+#: admin/views/WDPSViewSliders_wdps.php:778
+msgid "Choose whether to autoplay the sliders or not."
+msgstr "Выберите, нужно ли автозапуска ползунки или нет."
+
+#: admin/views/WDPSViewSliders_wdps.php:782
+msgid "Time Interval:"
+msgstr "Временной интервал:"
+
+#: admin/views/WDPSViewSliders_wdps.php:784
+msgid "sec."
+msgstr "сек."
+
+#: admin/views/WDPSViewSliders_wdps.php:785
+msgid ""
+"Set the time interval for the change of the sliders when autoplay is on."
+msgstr ""
+"Установите интервал времени для изменения ползунков, когда автозапуска "
+"включена."
+
+#: admin/views/WDPSViewSliders_wdps.php:789
+msgid "Stop on hover:"
+msgstr "Остановка на режиме висения:"
+
+#: admin/views/WDPSViewSliders_wdps.php:793
+msgid "The option works when autoplay is on."
+msgstr "Опция работает, когда автозапуска включена."
+
+#: admin/views/WDPSViewSliders_wdps.php:797
+msgid "Shuffle:"
+msgstr "Перемешать:"
+
+#: admin/views/WDPSViewSliders_wdps.php:801
+msgid ""
+"Choose whether to have the slides change in a random manner or to keep the "
+"original sequence."
+msgstr ""
+"Выберите, нужно ли иметь слайды изменить случайным образом или сохранить "
+"исходную последовательность."
+
+#: admin/views/WDPSViewSliders_wdps.php:805
+msgid "Start with slide:"
+msgstr "Начните с горкой:"
+
+#: admin/views/WDPSViewSliders_wdps.php:808
+msgid ""
+"The slider will start with the specified slide. You can use the value 0 for "
+"random."
+msgstr ""
+"Слайдер начнется с указанного слайда. Вы можете использовать значение 0 для "
+"случайного."
+
+#: admin/views/WDPSViewSliders_wdps.php:812
+msgid "Music:"
+msgstr "Музыка:"
+
+#: admin/views/WDPSViewSliders_wdps.php:816
+msgid ""
+"Choose whether to have music/audio track playback with the slider or not."
+msgstr ""
+"Выберите, нужно ли иметь воспроизведение музыки / аудио дорожки с помощью "
+"ползунка или нет."
+
+#: admin/views/WDPSViewSliders_wdps.php:821
+msgid "Music url:"
+msgstr "Музыка URL:"
+
+#: admin/views/WDPSViewSliders_wdps.php:826
+msgid "Only .aac,.m4a,.f4a,.mp3,.ogg,.oga formats are supported."
+msgstr "Только .aac, .m4a, .mp3, .f4a, .ogg, форматы .oga поддерживаются."
+
+#: admin/views/WDPSViewSliders_wdps.php:830
+msgid "Smart Load:"
+msgstr "Смарт нагрузки:"
+
+#: admin/views/WDPSViewSliders_wdps.php:834
+msgid ""
+"Choose to have faster load for the first few images and process the rest "
+"meanwhile."
+msgstr ""
+"Выберите, чтобы быстрее нагрузку в течение первых нескольких изображений и "
+"обрабатывать остальные тем временем."
+
+#: admin/views/WDPSViewSliders_wdps.php:838
+#: admin/views/WDPSViewSliders_wdps.php:1457
+#: admin/views/WDPSViewSliders_wdps.php:1693
+#: admin/views/WDPSViewSliders_wdps.php:1753
+msgid "Background color:"
+msgstr "Фоновый цвет:"
+
+#: admin/views/WDPSViewSliders_wdps.php:842
+#: admin/views/WDPSViewSliders_wdps.php:1461
+#: admin/views/WDPSViewSliders_wdps.php:1830
+msgid "Transparency value must be between 0 to 100."
+msgstr "Прозрачность значение должно быть между 0 и 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:846
+#: admin/views/WDPSViewSliders_wdps.php:1433
+#: admin/views/WDPSViewSliders_wdps.php:2370
+#: admin/views/WDPSViewSliders_wdps.php:3052 post-slider-wd.php:403
+msgid "Border:"
+msgstr "Граница:"
+
+#: admin/views/WDPSViewSliders_wdps.php:859
+msgid "Set the border width, type and the color."
+msgstr "Установите ширину границы, тип и цвет."
+
+#: admin/views/WDPSViewSliders_wdps.php:863
+#: admin/views/WDPSViewSliders_wdps.php:1450
+#: admin/views/WDPSViewSliders_wdps.php:1700
+msgid "Border radius:"
+msgstr "Радиус границы:"
+
+#: admin/views/WDPSViewSliders_wdps.php:866
+#: admin/views/WDPSViewSliders_wdps.php:1453
+#: admin/views/WDPSViewSliders_wdps.php:1703
+#: admin/views/WDPSViewSliders_wdps.php:2342
+#: admin/views/WDPSViewSliders_wdps.php:2347
+#: admin/views/WDPSViewSliders_wdps.php:2388
+#: admin/views/WDPSViewSliders_wdps.php:2393
+#: admin/views/WDPSViewSliders_wdps.php:3024
+#: admin/views/WDPSViewSliders_wdps.php:3029
+#: admin/views/WDPSViewSliders_wdps.php:3070
+#: admin/views/WDPSViewSliders_wdps.php:3075 post-slider-wd.php:377
+msgid "Use CSS type values."
+msgstr "Используйте значения типа CSS."
+
+#: admin/views/WDPSViewSliders_wdps.php:870
+#: admin/views/WDPSViewSliders_wdps.php:1707
+msgid "Margin:"
+msgstr "Поле:"
+
+#: admin/views/WDPSViewSliders_wdps.php:873
+msgid "Set a margin for the slider."
+msgstr "Установите запас для слайдера."
+
+#: admin/views/WDPSViewSliders_wdps.php:877
+#: admin/views/WDPSViewSliders_wdps.php:2398
+#: admin/views/WDPSViewSliders_wdps.php:3080 post-slider-wd.php:383
+msgid "Shadow:"
+msgstr "Тень:"
+
+#: admin/views/WDPSViewSliders_wdps.php:880
+#: admin/views/WDPSViewSliders_wdps.php:2397
+#: admin/views/WDPSViewSliders_wdps.php:2402
+#: admin/views/WDPSViewSliders_wdps.php:3079
+#: admin/views/WDPSViewSliders_wdps.php:3084
+msgid "Use CSS type values (e.g. 10px 10px 5px #888888)."
+msgstr "Значения типа использования CSS (например 10px 10px 5px # 888888)."
+
+#: admin/views/WDPSViewSliders_wdps.php:885
+msgid "Right click protection:"
+msgstr "Правовая охрана нажмите:"
+
+#: admin/views/WDPSViewSliders_wdps.php:890
+msgid "Disable image right click possibility."
+msgstr "Отключить образ правой кнопкой мыши возможность."
+
+#: admin/views/WDPSViewSliders_wdps.php:895
+msgid "Layer out on next:"
+msgstr "Слой на следующий:"
+
+#: admin/views/WDPSViewSliders_wdps.php:900
+msgid ""
+"Choose whether to have the layer effect out regardless of the timing between "
+"the hit to the next slider or skip the effect out and get to the next image."
+msgstr ""
+"Выберите, нужно ли иметь эффект слоя из независимо от времени между "
+"попаданием на следующий ползунок или пропустить эффект и получить к "
+"следующему изображению."
+
+#: admin/views/WDPSViewSliders_wdps.php:904
+#: admin/views/WDPSViewSliders_wdps.php:2407
+#: admin/views/WDPSViewSliders_wdps.php:3089 post-slider-wd.php:384
+msgid "Text layer character limit:"
+msgstr "Текст предел слой характер:"
+
+#: admin/views/WDPSViewSliders_wdps.php:907
+#: admin/views/WDPSViewSliders_wdps.php:2406
+#: admin/views/WDPSViewSliders_wdps.php:2411
+#: admin/views/WDPSViewSliders_wdps.php:3088
+#: admin/views/WDPSViewSliders_wdps.php:3093 post-slider-wd.php:378
+msgid ""
+"This will limit the number of characters for post content displayed as a "
+"text layer."
+msgstr ""
+"Это позволит ограничить количество символов, отображаемых после содержания в "
+"текстовом слое."
+
+#: admin/views/WDPSViewSliders_wdps.php:911
+msgid "Add font-family:"
+msgstr "Добавить шрифт семью:"
+
+#: admin/views/WDPSViewSliders_wdps.php:916
+msgid "Add to Google fonts"
+msgstr "Добавить в Google шрифты"
+
+#: admin/views/WDPSViewSliders_wdps.php:917
+msgid "Add font-family"
+msgstr "Добавить шрифт семью"
+
+#: admin/views/WDPSViewSliders_wdps.php:918
+msgid "The added font family will appear in the drop-down list of fonts."
+msgstr ""
+"Добавленная семейство шрифтов появится в раскрывающемся списке шрифтов."
+
+#: admin/views/WDPSViewSliders_wdps.php:922
+#: admin/views/WDPSViewSliders_wdps.php:2070
+#: admin/views/WDPSViewSliders_wdps.php:2273
+#: admin/views/WDPSViewSliders_wdps.php:2954 post-slider-wd.php:288
+#: post-slider-wd.php:369
+msgid "Published:"
+msgstr "Опубликовано:"
+
+#: admin/views/WDPSViewSliders_wdps.php:926
+msgid "Choose whether to publish the mentioned slider or not."
+msgstr "Выберите, нужно ли публиковать указанную ползунок или нет."
+
+#: admin/views/WDPSViewSliders_wdps.php:937
+msgid "Carousel is disabled in free version."
+msgstr "Карусель отключена в бесплатной версии."
+
+#: admin/views/WDPSViewSliders_wdps.php:941
+msgid "Carousel:"
+msgstr "Карусель:"
+
+#: admin/views/WDPSViewSliders_wdps.php:945
+msgid ""
+"If you activate this feature the effects you had chosen in Global settings "
+"for your slider will not play."
+msgstr ""
+"Если вы включите эту функцию эффекты, которые вы выбрали в глобальной "
+"настройки для вашего слайдер не будет играть."
+
+#: admin/views/WDPSViewSliders_wdps.php:950
+msgid "Number of images for carousel:"
+msgstr "Количество изображений для карусели:"
+
+#: admin/views/WDPSViewSliders_wdps.php:957
+msgid "Carousel image ratio:"
+msgstr "Карусель соотношение изображения:"
+
+#: admin/views/WDPSViewSliders_wdps.php:960
+msgid "The value must be between 0 and 1."
+msgstr "Значение должно быть между 0 и 1."
+
+#: admin/views/WDPSViewSliders_wdps.php:964
+msgid "Container fit:"
+msgstr "Контейнер подходит:"
+
+#: admin/views/WDPSViewSliders_wdps.php:972
+msgid "Fixed width:"
+msgstr "Исправлена ​​ширина:"
+
+#: admin/views/WDPSViewSliders_wdps.php:979
+msgid "Background image angle:"
+msgstr "Фоновая угол изображения:"
+
+#: admin/views/WDPSViewSliders_wdps.php:986
+msgid "Background image grayscale:"
+msgstr "Фон черно-белое изображение:"
+
+#: admin/views/WDPSViewSliders_wdps.php:989
+msgid ""
+"You can change the color scheme for background images to grayscale. Values "
+"must be between 0 to 100."
+msgstr ""
+"Вы можете изменить цветовую схему для фоновых изображений в оттенках серого. "
+"Значения должны быть в диапазоне от 0 до 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:993
+msgid "Background image transparency:"
+msgstr "прозрачность изображения фона:"
+
+#: admin/views/WDPSViewSliders_wdps.php:996
+msgid ""
+"You can set transparency level for background images. Values should be "
+"between 0 to 100."
+msgstr ""
+"Вы можете установить уровень прозрачности для фоновых изображений. Значения "
+"должны находиться в диапазоне от 0 до 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:1007
+msgid "Next / Previous buttons:"
+msgstr "Следующая / Предыдущая кнопок:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1012
+msgid "Choose whether to display Previous and Next buttons or not."
+msgstr "Выберите, отображать ли кнопки Назад и Вперед или нет."
+
+#: admin/views/WDPSViewSliders_wdps.php:1017
+msgid "Show Navigation buttons:"
+msgstr "Показать кнопки навигации:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1020
+msgid "On hover"
+msgstr "При наведении курсора"
+
+#: admin/views/WDPSViewSliders_wdps.php:1021
+msgid "Always"
+msgstr "Всегда"
+
+#: admin/views/WDPSViewSliders_wdps.php:1022
+msgid ""
+"Select between the option of always displaying the navigation buttons or "
+"only when hovered."
+msgstr ""
+"Выбор между возможностью отображения всегда кнопок навигации или только при "
+"наведении."
+
+#: admin/views/WDPSViewSliders_wdps.php:1027
+msgid "Image for Next / Previous buttons:"
+msgstr "Изображение на следующий / предыдущий кнопки:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1030
+#: admin/views/WDPSViewSliders_wdps.php:1246
+#: admin/views/WDPSViewSliders_wdps.php:1493
+#: admin/views/WDPSViewSliders_wdps.php:2241
+#: admin/views/WDPSViewSliders_wdps.php:2930 post-slider-wd.php:406
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/views/WDPSViewSliders_wdps.php:1031
+#: admin/views/WDPSViewSliders_wdps.php:1191
+#: admin/views/WDPSViewSliders_wdps.php:1247
+#: admin/views/WDPSViewSliders_wdps.php:1381
+#: admin/views/WDPSViewSliders_wdps.php:1494
+#: admin/views/WDPSViewSliders_wdps.php:1636
+msgid "Custom"
+msgstr "Обычай"
+
+#: admin/views/WDPSViewSliders_wdps.php:1032
+#: admin/views/WDPSViewSliders_wdps.php:1248
+#: admin/views/WDPSViewSliders_wdps.php:1495
+msgid "Styled"
+msgstr "Стилизованный"
+
+#: admin/views/WDPSViewSliders_wdps.php:1037
+msgid ""
+"Choose whether to use default navigation buttons or to upload custom ones."
+msgstr ""
+"Выберите, следует ли использовать кнопки навигации по умолчанию или "
+"загрузить новые пользовательские режимы."
+
+#: admin/views/WDPSViewSliders_wdps.php:1044
+msgid "Next / Previous buttons style:"
+msgstr "Следующая / Предыдущая Кнопки в стиле:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1063
+msgid ""
+"Choose the style of the button you prefer to have as navigation buttons."
+msgstr ""
+"Выберите стиль кнопки вы предпочитаете иметь в качестве кнопок навигации."
+
+#: admin/views/WDPSViewSliders_wdps.php:1068
+#: admin/views/WDPSViewSliders_wdps.php:1269
+#: admin/views/WDPSViewSliders_wdps.php:1586
+msgid "Upload buttons images:"
+msgstr "Загрузить кнопки изображения:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1089
+#: admin/views/WDPSViewSliders_wdps.php:1216
+#: admin/views/WDPSViewSliders_wdps.php:1288
+#: admin/views/WDPSViewSliders_wdps.php:1405
+#: admin/views/WDPSViewSliders_wdps.php:1601
+#: admin/views/WDPSViewSliders_wdps.php:1658
+msgid "Reverse"
+msgstr "Задний ход"
+
+#: admin/views/WDPSViewSliders_wdps.php:1152
+#: admin/views/WDPSViewSliders_wdps.php:1343
+#: admin/views/WDPSViewSliders_wdps.php:1578
+msgid " is not a directory."
+msgstr "не является каталогом."
+
+#: admin/views/WDPSViewSliders_wdps.php:1161
+#: admin/views/WDPSViewSliders_wdps.php:1351
+msgid "Choose buttons:"
+msgstr "Выберите кнопки:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1168
+#: admin/views/WDPSViewSliders_wdps.php:1358
+#: admin/views/WDPSViewSliders_wdps.php:1615
+msgid "Choose group"
+msgstr "Выберите группу"
+
+#: admin/views/WDPSViewSliders_wdps.php:1201
+#: admin/views/WDPSViewSliders_wdps.php:1646
+msgid "Choose color"
+msgstr "Выберите цвет"
+
+#: admin/views/WDPSViewSliders_wdps.php:1219
+#: admin/views/WDPSViewSliders_wdps.php:1408
+msgid ""
+"Choose the type and color for navigation button images. The option is "
+"designed for limited preview (colors not included) purposes and can't be "
+"saved."
+msgstr ""
+"Выберите тип и цвет кнопки навигации изображения. Опция предназначена для "
+"ограниченного просмотра (цвета не включены) цели и не могут быть сохранены."
+
+#: admin/views/WDPSViewSliders_wdps.php:1223
+msgid "Next / Previous buttons size:"
+msgstr "Следующая / Предыдущая размер кнопки:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1226
+msgid "Set the size for the next / previous buttons."
+msgstr "Установите размер для следующей / предыдущей кнопки."
+
+#: admin/views/WDPSViewSliders_wdps.php:1231
+msgid "Play / Pause button:"
+msgstr "Играть кнопку Старт / Пауза:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1236
+msgid "Choose whether to display Play and Pause buttons or not."
+msgstr "Выберите, отображать ли воспроизведения и паузы кнопки или нет."
+
+#: admin/views/WDPSViewSliders_wdps.php:1243
+msgid "Image for Play / Pause buttons:"
+msgstr "Изображение для кнопок Play / Pause:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1253
+msgid ""
+"Choose whether to use default play/pause buttons or to upload custom ones."
+msgstr ""
+"Выберите, следует ли использовать по умолчанию игру / пауза кнопки или "
+"загрузить новые пользовательские режимы."
+
+#: admin/views/WDPSViewSliders_wdps.php:1259
+msgid "Play / Pause buttons style:"
+msgstr "Воспроизведение / Пауза кнопки стиль:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1412
+msgid "Play / Pause button size:"
+msgstr "Играть размер / Пауза:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1415
+msgid "Set the size for the play / pause buttons."
+msgstr "Установите размер для кнопок Play / Pause."
+
+#: admin/views/WDPSViewSliders_wdps.php:1419
+msgid "Buttons color:"
+msgstr "Кнопки цвет:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1422
+msgid "Select a color for the navigation buttons."
+msgstr "Выберите цвет для навигационных кнопок."
+
+#: admin/views/WDPSViewSliders_wdps.php:1426 post-slider-wd.php:405
+msgid "Hover color:"
+msgstr "Наведите цвет:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1429
+msgid "Select a hover color for the navigation buttons."
+msgstr "Выберите цвет при наведении на кнопки навигации."
+
+#: admin/views/WDPSViewSliders_wdps.php:1446
+msgid ""
+"Select the type, size and the color of border for the navigation buttons."
+msgstr "Выберите тип, размер и цвет границы для навигационных кнопок."
+
+#: admin/views/WDPSViewSliders_wdps.php:1471
+msgid "Enable bullets:"
+msgstr "Включить пули:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1475
+msgid "Choose whether to have navigation bullets or not."
+msgstr "Выберите, нужно ли иметь навигационные пули или нет."
+
+#: admin/views/WDPSViewSliders_wdps.php:1479
+#: admin/views/WDPSViewSliders_wdps.php:1733
+#: admin/views/WDPSViewSliders_wdps.php:2198
+#: admin/views/WDPSViewSliders_wdps.php:2887 post-slider-wd.php:367
+msgid "Position:"
+msgstr "Должность:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1485
+msgid "Select the position for the navigation bullets."
+msgstr "Выберите положение для навигации пуль."
+
+#: admin/views/WDPSViewSliders_wdps.php:1490
+msgid "Image for bullets:"
+msgstr "Изображение для пуль:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1496
+msgid "Text"
+msgstr "Текст"
+
+#: admin/views/WDPSViewSliders_wdps.php:1499
+msgid "Choose whether to use default or styled bullets."
+msgstr "Выберите, следует ли использовать по умолчанию или оформленные пули."
+
+#: admin/views/WDPSViewSliders_wdps.php:1506
+msgid "Bullet style:"
+msgstr "Пуля стиль:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1525
+msgid "Choose the style for the bullets."
+msgstr "Выберите стиль для пуль."
+
+#: admin/views/WDPSViewSliders_wdps.php:1608
+msgid "Chooes buttons:"
+msgstr "Chooes кнопки:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1661
+msgid ""
+"Choose the type and color for the bullets. The option is designed for "
+"limited preview (colors not included) purposes and can't be saved."
+msgstr ""
+"Выберите тип и цвет для пуль. Опция предназначена для ограниченного "
+"просмотра (цвета не включены) цели и не могут быть сохранены."
+
+#: admin/views/WDPSViewSliders_wdps.php:1665
+#: admin/views/WDPSViewSliders_wdps.php:1819
+#: admin/views/WDPSViewSliders_wdps.php:2207
+#: admin/views/WDPSViewSliders_wdps.php:2896 post-slider-wd.php:373
+msgid "Size:"
+msgstr "Размер:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1668
+msgid "Define the size of the navigation bullets."
+msgstr "Определите размер навигационных пуль."
+
+#: admin/views/WDPSViewSliders_wdps.php:1672
+#: admin/views/WDPSViewSliders_wdps.php:1826
+#: admin/views/WDPSViewSliders_wdps.php:2216
+#: admin/views/WDPSViewSliders_wdps.php:2905 post-slider-wd.php:372
+msgid "Color:"
+msgstr "Цвет:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1675
+msgid "Select the color for the navigation bullets."
+msgstr "Выберите цвет для навигации пуль."
+
+#: admin/views/WDPSViewSliders_wdps.php:1679
+msgid "Active color:"
+msgstr "Активный цвет:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1682
+msgid ""
+"Select the color for the bullet, which is currently displaying a "
+"corresponding image."
+msgstr ""
+"Выберите цвет для пули, которая в настоящее время отображаются на "
+"соответствующее изображение."
+
+#: admin/views/WDPSViewSliders_wdps.php:1686
+msgid "Active Background color:"
+msgstr "Активный цвет фона:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1689
+msgid ""
+"Select the background color for the bullet, which is currently displaying a "
+"corresponding image."
+msgstr ""
+"Выберите цвет фона для пули, которая в настоящее время отображаются "
+"соответствующее изображение."
+
+#: admin/views/WDPSViewSliders_wdps.php:1696
+msgid "Select the background color for the bullet."
+msgstr "Выберите цвет фона для пули."
+
+#: admin/views/WDPSViewSliders_wdps.php:1710
+msgid "Set the margin for the navigation bullets in pixels."
+msgstr "Установите поле для навигационных пуль в пикселях."
+
+#: admin/views/WDPSViewSliders_wdps.php:1721
+msgid "Filmstrip is disabled in free version."
+msgstr "Диафильм отключена в бесплатной версии."
+
+#: admin/views/WDPSViewSliders_wdps.php:1725
+msgid "Enable filmstrip:"
+msgstr "Включить диафильм:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1729
+msgid ""
+"Choose whether to have thumbnails of the slides displayed as a filmstrip or "
+"not."
+msgstr ""
+"Выберите, нужно ли иметь эскизы отображаются в виде киноленты или нет горок."
+
+#: admin/views/WDPSViewSliders_wdps.php:1741
+msgid "Set the position of the filmstrip."
+msgstr "Установите положение киноленты."
+
+#: admin/views/WDPSViewSliders_wdps.php:1745
+msgid "Thumbnail dimensions:"
+msgstr "Миниатюра Размеры:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1749
+msgid "Define the maximum width and heigth of the filmstrip thumbnails."
+msgstr "Определить максимальную ширину и высота системы киноленты миниатюр."
+
+#: admin/views/WDPSViewSliders_wdps.php:1756
+msgid "Select the background color for the filmstrip."
+msgstr "Выберите цвет фона для киноленты."
+
+#: admin/views/WDPSViewSliders_wdps.php:1760
+msgid "Thumbnail separator:"
+msgstr "Эскиз сепаратор:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1763
+msgid "Set the separator for the thumbnails."
+msgstr "Установите разделитель для миниатюр."
+
+#: admin/views/WDPSViewSliders_wdps.php:1767
+msgid "Active border:"
+msgstr "Активный границы:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1780
+msgid ""
+"The thumbnail for the currently displayed image will have a border. You can "
+"set its size, type and color."
+msgstr ""
+"Миниатюра для текущего изображения будет иметь границу. Вы можете установить "
+"его размер, тип и цвет."
+
+#: admin/views/WDPSViewSliders_wdps.php:1784
+msgid "Deactive transparency:"
+msgstr "Выключена прозрачность:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1787
+msgid ""
+"You can set a transparency level for the inactive filmstrip items which must "
+"be between 0 to 100.."
+msgstr ""
+"Вы можете установить уровень прозрачности для неактивных пунктов киноленты, "
+"которые должны быть от 0 до 100 .."
+
+#: admin/views/WDPSViewSliders_wdps.php:1797
+msgid "Enable timer bar:"
+msgstr "Включить бар таймера:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1801
+msgid ""
+"You can add a bar displaying the timing left to switching to the next slide "
+"on autoplay."
+msgstr ""
+"Вы можете добавить панель отображения сроков слева переключения к следующему "
+"слайду на автозапуск."
+
+#: admin/views/WDPSViewSliders_wdps.php:1805
+msgid "Type:"
+msgstr "Тип:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1808
+msgid "Line top"
+msgstr "Линия сверху"
+
+#: admin/views/WDPSViewSliders_wdps.php:1809
+msgid "Line Bottom"
+msgstr "Линия Нижняя"
+
+#: admin/views/WDPSViewSliders_wdps.php:1810
+msgid "Circle top left"
+msgstr "Круг верхний левый"
+
+#: admin/views/WDPSViewSliders_wdps.php:1811
+msgid "Circle top right"
+msgstr "Круг верхний правый"
+
+#: admin/views/WDPSViewSliders_wdps.php:1812
+msgid "Circle bottom left"
+msgstr "Круг внизу слева"
+
+#: admin/views/WDPSViewSliders_wdps.php:1813
+msgid "Circle bottom right"
+msgstr "Круг нижний правый"
+
+#: admin/views/WDPSViewSliders_wdps.php:1815
+msgid "Choose the type of the timer bar to be used within the slider."
+msgstr "Выберите тип бара таймера будет использоваться в слайдер."
+
+#: admin/views/WDPSViewSliders_wdps.php:1822
+msgid "Define the height of the timer bar."
+msgstr "Определите высоту панели таймера."
+
+#: admin/views/WDPSViewSliders_wdps.php:1840
+msgid "Css:"
+msgstr "CSS:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1844
+msgid "Add custom CSS to apply custom changes to the slider."
+msgstr ""
+"Добавить пользовательский CSS, чтобы применить пользовательские изменения в "
+"слайдер."
+
+#: admin/views/WDPSViewSliders_wdps.php:1875
+msgid "Post slider type:"
+msgstr "Запис типа слайдер:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1876
+msgid "Static posts slides"
+msgstr "Статические записи горки"
+
+#: admin/views/WDPSViewSliders_wdps.php:1877
+msgid "Dynamic posts slides"
+msgstr "Динамические записи горки"
+
+#: admin/views/WDPSViewSliders_wdps.php:1918
+#: admin/views/WDPSViewSliders_wdps.php:2137
+#: admin/views/WDPSViewSliders_wdps.php:2654
+#: admin/views/WDPSViewSliders_wdps.php:2826 post-slider-wd.php:352
+msgid "Drag to re-order"
+msgstr "Перетащите изменить порядок"
+
+#: admin/views/WDPSViewSliders_wdps.php:1928
+msgid "Edit Slide"
+msgstr "Редактировать Презентация"
+
+#: admin/views/WDPSViewSliders_wdps.php:1928 post-slider-wd.php:361
+msgid "Edit Image"
+msgstr "Редактирование изображения"
+
+#: admin/views/WDPSViewSliders_wdps.php:1930 post-slider-wd.php:290
+msgid "Edit Post"
+msgstr "Редактировать пост"
+
+#: admin/views/WDPSViewSliders_wdps.php:1934 post-slider-wd.php:400
+msgid "Duplicate slide"
+msgstr "Дублировать слайд"
+
+#: admin/views/WDPSViewSliders_wdps.php:1935
+msgid "Remove Slide"
+msgstr "Удалить слайд"
+
+#: admin/views/WDPSViewSliders_wdps.php:1935 post-slider-wd.php:401
+msgid "Delete slide"
+msgstr "Удалить слайд"
+
+#: admin/views/WDPSViewSliders_wdps.php:1949
+#: admin/views/WDPSViewSliders_wdps.php:1950
+msgid "Add Posts"
+msgstr "Добавить Записи "
+
+#: admin/views/WDPSViewSliders_wdps.php:1982
+msgid "Edit Slides"
+msgstr "Редактировать Слайды"
+
+#: admin/views/WDPSViewSliders_wdps.php:1991
+msgid "Add/Edit Post"
+msgstr "Добавить / Редактировать запис"
+
+#: admin/views/WDPSViewSliders_wdps.php:1993 post-slider-wd.php:289
+msgid "Add Post"
+msgstr "Добавить запис"
+
+#: admin/views/WDPSViewSliders_wdps.php:2080
+msgid ""
+"You can set a redirection link, so that the user will get to the mentioned "
+"location upon hitting the slide.Use http:// and https:// for external links."
+msgstr ""
+"Вы можете установить ссылку перенаправления, так что пользователь получит в "
+"упомянутом месте при ударе о HTTP slide.Use: // и HTTPS: // для внешних ссыл"
+
+#: admin/views/WDPSViewSliders_wdps.php:2081 post-slider-wd.php:287
+msgid "Link the slide to:"
+msgstr "Ссылка на слайд, чтобы:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2085
+#: admin/views/WDPSViewSliders_wdps.php:2268 post-slider-wd.php:365
+msgid "Open in a new window"
+msgstr "Открыть в новом окне"
+
+#: admin/views/WDPSViewSliders_wdps.php:2106
+#: admin/views/WDPSViewSliders_wdps.php:2795
+msgid "Layers"
+msgstr "Слои"
+
+#: admin/views/WDPSViewSliders_wdps.php:2109
+#: admin/views/WDPSViewSliders_wdps.php:2798 post-slider-wd.php:285
+msgid "Add Text Layer"
+msgstr "Добавить текстовый слой"
+
+#: admin/views/WDPSViewSliders_wdps.php:2112
+#: admin/views/WDPSViewSliders_wdps.php:2801 post-slider-wd.php:399
+msgid "Add Image Layer"
+msgstr "Добавить изображение слой"
+
+#: admin/views/WDPSViewSliders_wdps.php:2115
+#: admin/views/WDPSViewSliders_wdps.php:2804
+msgid "Social Button Layer"
+msgstr "Социальная Кнопка Layer"
+
+#: admin/views/WDPSViewSliders_wdps.php:2118
+#: admin/views/WDPSViewSliders_wdps.php:2807 post-slider-wd.php:291
+msgid "Add Hotspot Layer"
+msgstr "Добавить Hotspot слой"
+
+#: admin/views/WDPSViewSliders_wdps.php:2138
+#: admin/views/WDPSViewSliders_wdps.php:2827 post-slider-wd.php:353
+msgid "Layer title"
+msgstr "Название слоя"
+
+#: admin/views/WDPSViewSliders_wdps.php:2141
+#: admin/views/WDPSViewSliders_wdps.php:2830
+msgid "Delete layer"
+msgstr "Удалить слой"
+
+#: admin/views/WDPSViewSliders_wdps.php:2142
+#: admin/views/WDPSViewSliders_wdps.php:2831 post-slider-wd.php:355
+msgid "Duplicate layer"
+msgstr "Duplicate Layer"
+
+#: admin/views/WDPSViewSliders_wdps.php:2160
+#: admin/views/WDPSViewSliders_wdps.php:2849 post-slider-wd.php:357
+msgid "Text:"
+msgstr "Текст:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2187
+#: admin/views/WDPSViewSliders_wdps.php:2876 post-slider-wd.php:360
+msgid "Leave blank to keep the initial width and height."
+msgstr "Оставьте пустым, чтобы сохранить первоначальную ширину и высоту."
+
+#: admin/views/WDPSViewSliders_wdps.php:2193
+#: admin/views/WDPSViewSliders_wdps.php:2882
+msgid "Break-word"
+msgstr "Перерыв слово"
+
+#: admin/views/WDPSViewSliders_wdps.php:2197
+#: admin/views/WDPSViewSliders_wdps.php:2886 post-slider-wd.php:368
+msgid "In addition you can drag and drop the layer to a desired position."
+msgstr "Кроме того, вы можете перетащить слой в нужное положение."
+
+#: admin/views/WDPSViewSliders_wdps.php:2225
+#: admin/views/WDPSViewSliders_wdps.php:2914 post-slider-wd.php:374
+msgid "Font family:"
+msgstr "Семейство шрифтов:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2239
+#: admin/views/WDPSViewSliders_wdps.php:2928 post-slider-wd.php:407
+msgid "Google fonts"
+msgstr "шрифты Google"
+
+#: admin/views/WDPSViewSliders_wdps.php:2247
+#: admin/views/WDPSViewSliders_wdps.php:2936 post-slider-wd.php:375
+msgid "Font weight:"
+msgstr "Вес шрифта:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2263 post-slider-wd.php:366
+msgid "Use http:// and https:// for external links."
+msgstr "Использовать HTTP: // и HTTPS: // для внешних ссылок."
+
+#: admin/views/WDPSViewSliders_wdps.php:2264 post-slider-wd.php:364
+msgid "Link:"
+msgstr "Ссылка:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2287
+#: admin/views/WDPSViewSliders_wdps.php:2968
+msgid "Effect In:"
+msgstr "Влияние В:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2292
+#: admin/views/WDPSViewSliders_wdps.php:2320
+#: admin/views/WDPSViewSliders_wdps.php:2973
+#: admin/views/WDPSViewSliders_wdps.php:3001 post-slider-wd.php:389
+msgid "Start"
+msgstr "Начало"
+
+#: admin/views/WDPSViewSliders_wdps.php:2304
+#: admin/views/WDPSViewSliders_wdps.php:2332
+#: admin/views/WDPSViewSliders_wdps.php:2985
+#: admin/views/WDPSViewSliders_wdps.php:3014 post-slider-wd.php:390
+msgid "Effect"
+msgstr "Эффект"
+
+#: admin/views/WDPSViewSliders_wdps.php:2308
+#: admin/views/WDPSViewSliders_wdps.php:2336
+#: admin/views/WDPSViewSliders_wdps.php:2989
+#: admin/views/WDPSViewSliders_wdps.php:3018 post-slider-wd.php:391
+msgid "Duration"
+msgstr "Продолжительность"
+
+#: admin/views/WDPSViewSliders_wdps.php:2315
+#: admin/views/WDPSViewSliders_wdps.php:2996
+msgid "Effect Out:"
+msgstr "Эффект Из:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2343
+#: admin/views/WDPSViewSliders_wdps.php:3025 post-slider-wd.php:376
+msgid "Padding:"
+msgstr "Заполнение:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2352
+#: admin/views/WDPSViewSliders_wdps.php:3034 post-slider-wd.php:379
+msgid "Background Color:"
+msgstr "Фоновый цвет:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2360
+#: admin/views/WDPSViewSliders_wdps.php:2365
+#: admin/views/WDPSViewSliders_wdps.php:3042
+#: admin/views/WDPSViewSliders_wdps.php:3047 post-slider-wd.php:381
+msgid "Value must be between 0 to 100."
+msgstr "Значение должно быть в диапазоне от 0 до 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:2361
+#: admin/views/WDPSViewSliders_wdps.php:3043 post-slider-wd.php:380
+msgid "Transparent:"
+msgstr "Прозрачный:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2389
+#: admin/views/WDPSViewSliders_wdps.php:3071 post-slider-wd.php:382
+msgid "Radius:"
+msgstr "Радиус действия:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2482
+msgid "Period of posts to display:"
+msgstr "Период записи для отображения:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2496
+msgid ""
+"Set the time for the posts, e.g. if set it to 24 hours it will display the "
+"posts added within the last 24 hours."
+msgstr ""
+"Установите время на должности, например если установить его на 24 часов он "
+"будет показывать записи  добавлены в течение последних 24 часов."
+
+#: admin/views/WDPSViewSliders_wdps.php:2500
+msgid "Number of posts:"
+msgstr "Количество записи :"
+
+#: admin/views/WDPSViewSliders_wdps.php:2503
+msgid ""
+"Set the number of posts which will be displayed as slides. If set to 0 or "
+"left empty it will display all posts."
+msgstr ""
+"Установите количество записи, которые будут отображаться как слайды. Если "
+"установлено в 0 или пустыми он будет отображать все записи."
+
+#: admin/views/WDPSViewSliders_wdps.php:2508
+msgid "Choose post type:"
+msgstr "Выберите тип записи:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2525
+msgid ""
+"Select the type for the dynamic posts, e.g. standard or custom post types."
+msgstr ""
+"Выберите тип для динамических записи , например стандартные или "
+"пользовательские почтовые типов."
+
+#: admin/views/WDPSViewSliders_wdps.php:2535
+msgid "Author:"
+msgstr "Автор:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2554
+msgid "Select the author whose posts will be displayed within the slider."
+msgstr "Выберите автора, чьи сообщения будут отображаться в слайдер."
+
+#: admin/views/WDPSViewSliders_wdps.php:2559
+msgid "Sort posts by:"
+msgstr "Сортировать записи  по:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2573
+msgid ""
+"Select the option which will be used as a sorting basis while displaying "
+"posts."
+msgstr ""
+"Выберите вариант, который будет использоваться в качестве сортировочного "
+"основе при отображении записи ."
+
+#: admin/views/WDPSViewSliders_wdps.php:2577
+msgid "Order posts by:"
+msgstr "Заказать записи :"
+
+#: admin/views/WDPSViewSliders_wdps.php:2579
+msgid "Ascending"
+msgstr "Восходящий"
+
+#: admin/views/WDPSViewSliders_wdps.php:2580
+msgid "Descending"
+msgstr "Нисходящий"
+
+#: admin/views/WDPSViewSliders_wdps.php:2581
+msgid "Set the ordering sequence for the posts- ascending or descending."
+msgstr ""
+"Установите последовательность упорядочения для posts- возрастанию или по "
+"убыванию."
+
+#: admin/views/WDPSViewSliders_wdps.php:2593
+msgid "Post taxonomies:"
+msgstr "Подать таксономии:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2644
+msgid "Slide"
+msgstr "Слайд"
+
+#: admin/views/WDPSViewSliders_wdps.php:2719
+msgid ""
+"The post content will not be displayed on back end. You will see a sample "
+"background, where you can add standard and dynamic-post layers, which will "
+"be displayed over the posts on front end."
+msgstr ""
+"Содержание должность не будет отображаться на заднем конце. Вы увидите "
+"образец фона, где вы можете добавить стандартные и динамической пост слои, "
+"которые будут отображаться в течение постов на переднем конце."
+
+#: admin/views/WDPSViewSliders_wdps.php:2807
+msgid "This functionality is disabled in free version."
+msgstr "Эта функция отключена в бесплатной версии."
+
+#: admin/views/WDPSViewSliders_wdps.php:3196
+msgid "Enter absolute url of the image."
+msgstr "Введите абсолютный адрес изображения."
+
+#: admin/views/WDPSViewUninstall_wdps.php:33
+#: admin/views/WDPSViewUninstall_wdps.php:108
+msgid "Uninstall Post Slider WD"
+msgstr "Удаление Post Slider WD"
+
+#: admin/views/WDPSViewUninstall_wdps.php:35
+msgid ""
+"Deactivating Post Slider WD plugin does not remove any data that may have "
+"been created. To completely remove this plugin, you can uninstall it here."
+msgstr ""
+"Отключение Post Slider WD плагин не удаляет данные, которые могут быть "
+"созданы. Чтобы полностью удалить этот плагин, вы можете удалить его здесь."
+
+#: admin/views/WDPSViewUninstall_wdps.php:38
+msgid "WARNING:"
+msgstr "ВНИМАНИЕ:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:39
+msgid ""
+"Once uninstalled, this can't be undone. You should use a Database Backup "
+"plugin of WordPress to back up all the data first."
+msgstr ""
+"После того, как удалили, это не может быть отменено. Вы должны использовать "
+"резервную копию базы данных WordPress плагин из резервной копии всех данных "
+"в первую очередь."
+
+#: admin/views/WDPSViewUninstall_wdps.php:42
+msgid "The following Database Tables will be deleted:"
+msgstr "В таблицах баз данных будут удалены:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:47
+msgid "Database Tables"
+msgstr "Таблицы базы данных"
+
+#: admin/views/WDPSViewUninstall_wdps.php:61
+msgid "Do you really want to uninstall Post Slider WD plugin?"
+msgstr "Вы действительно хотите удалить Post Slider WD плагин?"
+
+#: admin/views/WDPSViewUninstall_wdps.php:67
+msgid "UNINSTALL"
+msgstr "УДАЛЕНИЕ"
+
+#: admin/views/WDPSViewUninstall_wdps.php:68
+msgid ""
+"You are About to Uninstall Post Slider WD plugin from WordPress.This Action "
+"Is Not Reversible."
+msgstr ""
+"Вы собираетесь удалить Post Slider WD плагин от WordPress.This действие "
+"необратимо."
+
+#: admin/views/WDPSViewUninstall_wdps.php:93
+msgid "The following Database Tables successfully deleted:"
+msgstr "В таблицах баз данных успешно удален:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:102
+msgid "The folder was successfully deleted."
+msgstr "Папка была успешно удалена."
+
+#: admin/views/WDPSViewUninstall_wdps.php:102
+msgid "An error occurred when deleting the folder."
+msgstr "Произошла ошибка при удалении папки."
+
+#: admin/views/WDPSViewUninstall_wdps.php:109
+msgid "Click Here"
+msgstr "Кликните здесь"
+
+#: admin/views/WDPSViewUninstall_wdps.php:109
+msgid ""
+"To Finish the Uninstallation and Post Slider WD will be Deactivated "
+"Automatically."
+msgstr ""
+"Для окончания удаления и Post Slider WD будет отключаться автоматически."
+
+#: admin/views/WDPSViewWDPSPosts.php:59
+msgid "Posts"
+msgstr "Записи"
+
+#: admin/views/WDPSViewWDPSPosts.php:81
+msgid ""
+"You can include only published posts with featured image. If you want to "
+"include posts without featured image into the list, disable Featured image "
+"option in Settings->Global Options."
+msgstr ""
+"Вы можете включать только опубликованные сообщения с признаками изображения. "
+"Если вы хотите включить сообщения без изображения признакам в списке, "
+"отключите опцию Популярные изображения в Настройки-> Global Options."
+
+#: admin/views/WDPSViewWDPSPosts.php:120
+msgid "-all-"
+msgstr "-все-"
+
+#: admin/views/WDPSViewWDPSPosts.php:146
+msgid "Title"
+msgstr "заглавие"
+
+#: admin/views/WDPSViewWDPSShortcode.php:34
+msgid "Post Slider WD"
+msgstr "Post Slider WD"
+
+#: admin/views/WDPSViewWDPSShortcode.php:43
+msgid "Select a Slider"
+msgstr "Выберите Slider"
+
+#: admin/views/WDPSViewWDPSShortcode.php:46
+msgid "- Select a Slider -"
+msgstr "- Выберите Slider -"
+
+#: admin/views/WDPSViewWidgetSlideshow.php:60
+msgid "Title:"
+msgstr "Заглавие:"
+
+#: admin/views/WDPSViewWidgetSlideshow.php:65
+msgid "Select Slider"
+msgstr "Выберите Slider"
+
+#: framework/WDW_PS_Library.php:45
+msgid "Item Succesfully Saved."
+msgstr "Пункт Успешно Сохраненные."
+
+#: framework/WDW_PS_Library.php:63
+msgid "You can't delete default theme"
+msgstr "Вы не можете удалять тему по умолчанию"
+
+#: framework/WDW_PS_Library.php:81
+msgid "The item is successfully set as default."
+msgstr "Товар успешно установлен по умолчанию."
+
+#: framework/WDW_PS_Library.php:87
+msgid "Options Succesfully Saved."
+msgstr "Опции Успешно Сохраненные."
+
+#: framework/WDW_PS_Library.php:117
+msgid "Ordering Succesfully Saved."
+msgstr "Заказ успешно Сохранено."
+
+#: framework/WDW_PS_Library.php:123
+msgid "A term with the name provided already exists."
+msgstr "Термин с именем условии уже существует."
+
+#: framework/WDW_PS_Library.php:129
+msgid "Name field is required."
+msgstr "Имя поля не требуется."
+
+#: framework/WDW_PS_Library.php:135
+msgid "The slug must be unique."
+msgstr "Пуля должна быть уникальной."
+
+#: framework/WDW_PS_Library.php:147
+msgid "You must set watermark type."
+msgstr "Вы должны установить водяной знак типа."
+
+#: framework/WDW_PS_Library.php:154
+msgid "Settings Succesfully Reset."
+msgstr "Настройки Успешно Сброс."
+
+#: framework/WDW_PS_Library.php:209
+msgid "Search"
+msgstr "Поисковый"
+
+#: framework/WDW_PS_Library.php:210
+msgid "Reset"
+msgstr "Сброс"
+
+#: framework/WDW_PS_Library.php:443
+msgid "item"
+msgstr "пункт"
+
+#: framework/WDW_PS_Library.php:542
+#, php-format
+msgid "No %s found."
+msgstr "Нет %s найденный."
+
+#: frontend/views/WDPSViewSlider.php:30
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Там нет ползунка выбран или ползунок был удален."
+
+#: frontend/views/WDPSViewSlider.php:47
+msgid "There are no posts  in this slider."
+msgstr "Там нет сообщений в этом слайдера."
+
+#: frontend/views/WDPSViewSlider.php:1829
+#: frontend/views/WDPSViewSlider.php:1894
+msgid "Pause"
+msgstr "Пауза"
+
+#: frontend/views/WDPSViewSlider.php:1862
+msgid "Play"
+msgstr "Играть"
+
+#: post-slider-wd.php:23
+msgid "Sliders"
+msgstr "Ползунки"
+
+#: post-slider-wd.php:27
+msgid "Get Pro"
+msgstr "Получить Pro"
+
+#: post-slider-wd.php:28
+msgid "Featured Plugins"
+msgstr "Показанный Плагины"
+
+#: post-slider-wd.php:29
+msgid "Featured Themes"
+msgstr "Популярные темы"
+
+#: post-slider-wd.php:30
+msgid "Uninstall"
+msgstr "Удаление"
+
+#: post-slider-wd.php:280
+msgid "Items Succesfully Saved."
+msgstr "Товары Успешно Сохраненные."
+
+#: post-slider-wd.php:281
+msgid "Changes made in this table should be saved."
+msgstr "Изменения, сделанные в этой таблице должны быть сохранены."
+
+#: post-slider-wd.php:282
+msgid "Show order column"
+msgstr "Колонка Показать заказ"
+
+#: post-slider-wd.php:283
+msgid "You must select an image file."
+msgstr "Вы должны выбрать файл изображения."
+
+#: post-slider-wd.php:284
+msgid "You must select an audio file."
+msgstr "Вы должны выбрать звуковой файл."
+
+#: post-slider-wd.php:286
+msgid ""
+"You can set a redirection link, so that the user will get to the mentioned "
+"location upon hitting the slide.<br />Use http:// and https:// for external "
+"links."
+msgstr ""
+"Вы можете установить ссылку перенаправления, так что пользователь получит в "
+"упомянутом месте при ударе слайд <br /> Использование HTTP:. // И HTTPS: // "
+"для внешних ссылок."
+
+#: post-slider-wd.php:292
+msgid "Add Social Button Layer"
+msgstr "Добавить Социальный слой с кнопкой"
+
+#: post-slider-wd.php:354
+msgid "Are you sure you want to delete this layer ?"
+msgstr "Вы уверены, что хотите удалить этот слой?"
+
+#: post-slider-wd.php:356
+msgid "z-index"
+msgstr "г-индекс"
+
+#: post-slider-wd.php:358
+msgid "Sample text"
+msgstr "Образец текста"
+
+#: post-slider-wd.php:362
+msgid "Alt:"
+msgstr "Alt:"
+
+#: post-slider-wd.php:363
+msgid "Set the HTML attribute specified in the IMG tag."
+msgstr "Установите HTML атрибут, указанный в теге IMG."
+
+#: post-slider-wd.php:385
+msgid "Scale:"
+msgstr "Масштаб:"
+
+#: post-slider-wd.php:386
+msgid "Set width and height of the image."
+msgstr "Набор ширина и высота изображения."
+
+#: post-slider-wd.php:387
+msgid "Social button:"
+msgstr "Социальная кнопка:"
+
+#: post-slider-wd.php:388
+msgid "Effect in:"
+msgstr "Эффект:"
+
+#: post-slider-wd.php:393
+msgid "Effect out:"
+msgstr "Эффект из:"
+
+#: post-slider-wd.php:394
+msgid "Hotspot text position:"
+msgstr "Точка текст положение:"
+
+#: post-slider-wd.php:395
+msgid "Hotspot Width:"
+msgstr "Точка Ширина:"
+
+#: post-slider-wd.php:396
+msgid "Hotspot Background Color:"
+msgstr "Точка Цвет фона:"
+
+#: post-slider-wd.php:397
+msgid "Hotspot Border:"
+msgstr "Точка границы:"
+
+#: post-slider-wd.php:398
+msgid "Hotspot Radius:"
+msgstr "Точка Радиус:"
+
+#: post-slider-wd.php:404
+msgid "Break-word:"
+msgstr "Перерыв слово:"
+
+#: sliders-notices.php:188
+msgid "Leave A Review?"
+msgstr "Оставить отзыв?"
+
+#: sliders-notices.php:189
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"Мы надеемся, что вы получили удовольствие с помощью WordPress %s! Считаете "
+"ли вы, оставив нам отзыв на WordPress.org?"
+
+#: sliders-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "Конечно! Я бы хотел!"
+
+#: sliders-notices.php:191
+msgid "I've already left a review"
+msgstr "Я уже оставил отзыв"
+
+#: sliders-notices.php:192
+msgid "Maybe Later"
+msgstr "Может быть позже"
+
+#: sliders-notices.php:193 sliders-notices.php:203
+msgid "Never show again"
+msgstr "Никогда снова показать"
+
+#: sliders-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "Привет! Как дела?"
+
+#: sliders-notices.php:200
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"Благодарим Вас за использование WordPress %s! Мы надеемся, что вы нашли все, "
+"что нужно, но если у вас есть какие-либо вопросы:"
+
+#: sliders-notices.php:201
+msgid "Check out User Guide"
+msgstr "Проверьте Руководство пользователя"
+
+#: sliders-notices.php:202
+msgid "Get Some Help"
+msgstr "Получить помощь"
+
+#~ msgid "Slider successfully imported."
+#~ msgstr "Слайдер успешно импортированы."
+
+#~ msgid "Unexpected error occurred."
+#~ msgstr "Неожиданная ошибка."
+
+#~ msgid "LightSpeedOut"
+#~ msgstr "LightSpeedOut"
+
+#~ msgid "RollOut"
+#~ msgstr "Посадочная дистанция"
+
+#~ msgid "BounceOut"
+#~ msgstr "BounceOut"
+
+#~ msgid "BounceOutDown"
+#~ msgstr "BounceOutDown"
+
+#~ msgid "BounceOutLeft"
+#~ msgstr "BounceOutLeft"
+
+#~ msgid "BounceOutRight"
+#~ msgstr "BounceOutRight"
+
+#~ msgid "BounceOutUp"
+#~ msgstr "BounceOutUp"
+
+#~ msgid "FadeOut"
+#~ msgstr "Исчезать"
+
+#~ msgid "FadeOutDown"
+#~ msgstr "FadeOutDown"
+
+#~ msgid "FadeOutDownBig"
+#~ msgstr "FadeOutDownBig"
+
+#~ msgid "FadeOutLeft"
+#~ msgstr "FadeOutLeft"
+
+#~ msgid "FadeOutLeftBig"
+#~ msgstr "FadeOutLeftBig"
+
+#~ msgid "FadeOutRight"
+#~ msgstr "FadeOutRight"
+
+#~ msgid "FadeOutRightBig"
+#~ msgstr "FadeOutRightBig"
+
+#~ msgid "FadeOutUp"
+#~ msgstr "FadeOutUp"
+
+#~ msgid "FadeOutUpBig"
+#~ msgstr "FadeOutUpBig"
+
+#~ msgid "FlipOutX"
+#~ msgstr "FlipOutX"
+
+#~ msgid "FlipOutY"
+#~ msgstr "FlipOutY"
+
+#~ msgid "RotateOut"
+#~ msgstr "RotateOut"
+
+#~ msgid "RotateOutDownLeft"
+#~ msgstr "RotateOutDownLeft"
+
+#~ msgid "RotateOutDownRight"
+#~ msgstr "RotateOutDownRight"
+
+#~ msgid "RotateOutUpLeft"
+#~ msgstr "RotateOutUpLeft"
+
+#~ msgid "RotateOutUpRight"
+#~ msgstr "RotateOutUpRight"
+
+#~ msgid "ZoomOut"
+#~ msgstr "Уменьшить"
+
+#~ msgid "ZoomOutDown"
+#~ msgstr "ZoomOutDown"
+
+#~ msgid "ZoomOutLeft"
+#~ msgstr "ZoomOutLeft"
+
+#~ msgid "ZoomOutRight"
+#~ msgstr "ZoomOutRight"
+
+#~ msgid "ZoomOutUp"
+#~ msgstr "ZoomOutUp"
+
+#~ msgid "This section allows you to add/edit post slider."
+#~ msgstr "В этом разделе можно добавлять / редактировать пост ползунок."
+
+#~ msgid "Save as Copy"
+#~ msgstr "Сохранить как Copy"
+
+#~ msgid ""
+#~ "Select the effect which will be applied when shifting from one slider to "
+#~ "another."
+#~ msgstr ""
+#~ "Выберите эффект, который будет применен при переходе от одной к другой "
+#~ "слайдер."
+
+#~ msgid "Previous Button"
+#~ msgstr "Предыдущая Кнопка"
+
+#~ msgid "Previous Button Hover"
+#~ msgstr "Предыдущая Hover Button"
+
+#~ msgid "Next Button"
+#~ msgstr "Следующая кнопка"
+
+#~ msgid "Next Button Hover"
+#~ msgstr "Следующая кнопка Ховер"
+
+#~ msgid "Choose the type and color for navigation button images."
+#~ msgstr "Выберите тип и цвет кнопки навигации изображений."
+
+#~ msgid "Play Button"
+#~ msgstr "Кнопка воспроизведения"
+
+#~ msgid "Play Button Hover"
+#~ msgstr "Играть Кнопка Наведите"
+
+#~ msgid "Pause Button"
+#~ msgstr "Пауза"
+
+#~ msgid "Pause Button Hover"
+#~ msgstr "Пауза Кнопка Ховер"
+
+#~ msgid "Active Button"
+#~ msgstr "Активный Кнопка"
+
+#~ msgid "Deactive Button"
+#~ msgstr "Выключена Кнопка"
+
+#~ msgid "Choose the type and color for the bullets."
+#~ msgstr "Выберите тип и цвет для пуль."
+
+#~ msgid "Select the background color for the bullet..."
+#~ msgstr "Выберите цвет фона для пули ..."
+
+#~ msgid "Thumbnail margin:"
+#~ msgstr "Миниатюра маржа:"
+
+#~ msgid "Set the margin for the thumbnails."
+#~ msgstr "Установите поле для миниатюр."
+
+#~ msgid "Scale"
+#~ msgstr "Масштаб"
+
+#~ msgid "Hover Color:"
+#~ msgstr "Наведите Цвет:"
+
+#~ msgid "Add to slider"
+#~ msgstr "Добавить в ползунок"
+
+#~ msgid "Post type:"
+#~ msgstr "Запис Тип:"
+
+#~ msgid "All public posts are included in the list."
+#~ msgstr "Все государственные должности включены в список."
+
+#~ msgid "Featured image"
+#~ msgstr "Популярные изображения"
+
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgid "Date created"
+#~ msgstr "Дата создания"
+
+#~ msgid "Date modified"
+#~ msgstr "Дата изменена"
+
+#~ msgid "There are no posts in this slider."
+#~ msgstr "Там нет сообщений в этом слайдера."
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Поделиться через Фейсбук"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Поделиться на Twitter"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Поделиться в Google+"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Поделиться на Pinterest"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Поделиться на Tumblr"
+
+#~ msgid ""
+#~ "Post Slider WD is a responsive plugin, which allows adding sliders to "
+#~ "your posts/pages and to custom location."
+#~ msgstr ""
+#~ "Сообщение слайдер WD является отзывчивым плагин, который позволяет "
+#~ "добавлять слайды ваших сообщений / страниц и заказ места."
+
+#~ msgid "Updates"
+#~ msgstr "Обновления"
+
+#~ msgid ""
+#~ "You can download the latest version of your plugins from your %s "
+#~ "account.\n"
+#~ "            After deactivate and delete the current version.\n"
+#~ "            Install the downloaded latest version of the plugin."
+#~ msgstr ""
+#~ "Вы можете скачать последнюю версию ваших плагинов от вашего %s Счет.\n"
+#~ "После того, как отключить и удалить текущую версию.\n"
+#~ "Установите загруженный последнюю версию плагина."
+
+#~ msgid "Current version %s"
+#~ msgstr "Текущая версия% s"
+
+#~ msgid "There is a new %s version"
+#~ msgstr "Существует новый %s версия"
+
+#~ msgid "%s is up to date."
+#~ msgstr "% s до даты."
+
+#~ msgid "Dynamic post"
+#~ msgstr "Динамический запис"
+
+#~ msgid "Smart Crop"
+#~ msgstr "Смарт Растениеводство"
+
+#~ msgid "Crop Image Position"
+#~ msgstr "Обрезать изображение установки"
+
+#~ msgid "You can include only published posts with featured image."
+#~ msgstr ""
+#~ "Вы можете включать только опубликованные записи с признаками изображения."
+
+#~ msgid "There are no postes in this slider."
+#~ msgstr "Там нет Postes в этом слайдера."
+
+#~ msgid "There are no slides in this slider."
+#~ msgstr "Там нет слайды в этом слайдера."
+
+#~ msgid "Slider post type:"
+#~ msgstr "Слайдер Тип запис:"
+
+#~ msgid "Dynamic post slides"
+#~ msgstr "Динамические разместить слайды"
+
+#~ msgid "Static post slides"
+#~ msgstr "Статические разместить слайды"
+
+#~ msgid "Uninstall Post Slider WordPress"
+#~ msgstr "Удаление Post Slider WordPress"
+
+#~ msgid ""
+#~ "Deactivating Post Slider WordPress plugin does not remove any data that "
+#~ "may have been created. To completely remove this plugin, you can "
+#~ "uninstall it here."
+#~ msgstr ""
+#~ "Отключение Post Slider WordPress плагин не удаляет данные, которые могут "
+#~ "быть созданы. Чтобы полностью удалить этот плагин, вы можете удалить его "
+#~ "здесь."
+
+#~ msgid "Do you really want to uninstall Post Slider WordPress plugin?"
+#~ msgstr "Вы действительно хотите удалить Post Slider WordPress  плагин?"
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "This Action Is Not Reversible."
+#~ msgstr ""
+#~ "Вы собираетесь удалить Post Slider WordPress плагин от WordPress.This "
+#~ "действие необратимо."
+
+#~ msgid ""
+#~ "To Finish the Uninstallation and Post Slider WordPress will be "
+#~ "Deactivated Automatically."
+#~ msgstr ""
+#~ "Для окончания удаления и Post Slider WordPress  будет автоматически "
+#~ "отключается."
+
+#~ msgid "Post Slider WordPress"
+#~ msgstr "Post Slider WordPress"
+
+#~ msgid "Enable Dynamic Posts:"
+#~ msgstr "Включить Динамические записи :"
+
+#~ msgid ""
+#~ "Enable this option if you want to display standard posts as slides with "
+#~ "their featured images."
+#~ msgstr ""
+#~ "Включите эту опцию, если вы хотите, чтобы отобразить стандартные записи , "
+#~ "как слайды с их признакам изображений."
+
+#~ msgid "Added Post Autoupdate Interval:"
+#~ msgstr "Добавлено записи  Автообновление Интервал:"
+
+#~ msgid "Set the number of posts which will be displayed as slides."
+#~ msgstr ""
+#~ "Установите количество записи , которые будут отображаться как слайды."
+
+#~ msgid "Layer Word Count:"
+#~ msgstr "Слой слов:"
+
+#~ msgid ""
+#~ "This will limit the number of words for post content displayed as a layer."
+#~ msgstr ""
+#~ "Это позволит ограничить количество слов для почтового отображаемое как "
+#~ "слой."
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "\\nThis Action Is Not Reversible."
+#~ msgstr ""
+#~ "Вы собираетесь удалить  Post Slider WordPress плагин от WordPress. \\\\\\"
+#~ "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ NThis действие "
+#~ "необратимо."
+
+#~ msgid "You can include only posts with featured image."
+#~ msgstr "Вы можете включать в себя только записи с признаками изображения."
+
+#~ msgid "Remove"
+#~ msgstr "Удалить"
+
+#~ msgid "Choose file (use .zip format)."
+#~ msgstr "Выберите файл (формат .zip использование)."
+
+#~ msgid "Еffect duration:"
+#~ msgstr "Еffect продолжительность:"
+
+#~ msgid "Select the author who’s posts will be displayed within the slider."
+#~ msgstr "Выберите автора, который записи будут отображаться в слайдер."
+
+#~ msgid "Slider name:"
+#~ msgstr "Имя слайдер:"
+
+#~ msgid "Add slide"
+#~ msgstr "Добавить слайд"
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the "
+#~ "mentioned location upon hitting the slide."
+#~ msgstr ""
+#~ "Вы можете установить ссылку перенаправления, так что пользователь получит "
+#~ "в упомянутом месте при ударе слайд."
+
+#~ msgid "Rob"
+#~ msgstr "Грабить"

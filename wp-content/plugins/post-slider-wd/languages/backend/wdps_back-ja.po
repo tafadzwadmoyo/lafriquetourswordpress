@@ -1,0 +1,2553 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: post-slider-wd\n"
+"POT-Creation-Date: 2016-08-17 15:38+0500\n"
+"PO-Revision-Date: 2016-08-17 15:38+0500\n"
+"Last-Translator: admin < vahram@gmail.com >\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=0;\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:61
+#: admin/views/WDPSViewSliders_wdps.php:2613
+msgid "All"
+msgstr "すべて"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:613
+#: framework/WDW_PS_Library.php:141
+msgid "Changes must be saved."
+msgstr "変更が保存されている必要があります。"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:624
+msgid "Item Succesfully Duplicated."
+msgstr "項目正常に重複。"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:642
+msgid "Do you want to duplicate selected items?"
+msgstr "あなたが選択した項目を複製しますか？"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:646
+#: admin/controllers/WDPSControllerSliders_wdps.php:904
+#: admin/controllers/WDPSControllerSliders_wdps.php:946
+#: admin/controllers/WDPSControllerSliders_wdps.php:988
+#: framework/WDW_PS_Library.php:75
+msgid "You must select at least one item."
+msgstr "あなたは、少なくとも1つの項目を選択する必要があります。"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:650
+msgid "Items Succesfully Duplicated."
+msgstr "アイテム正常に重複。"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:875
+#: framework/WDW_PS_Library.php:57
+msgid "Item Succesfully Deleted."
+msgstr "項目正常に削除されました。"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:878
+#: admin/controllers/WDPSControllerSliders_wdps.php:917
+#: admin/controllers/WDPSControllerSliders_wdps.php:959
+#: framework/WDW_PS_Library.php:51
+msgid "Error. Please install plugin again."
+msgstr "エラーが発生しました。再びプラグインをインストールしてください。"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:900
+#: framework/WDW_PS_Library.php:69
+msgid "Items Succesfully Deleted."
+msgstr "アイテム正常に削除されました。"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:914
+#: framework/WDW_PS_Library.php:93
+msgid "Item Succesfully Published."
+msgstr "アイテムが正常に公開されました。"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:942
+#: framework/WDW_PS_Library.php:99
+msgid "Items Succesfully Published."
+msgstr "アイテムは正常に公開されました。"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:956
+#: framework/WDW_PS_Library.php:105
+msgid "Item Succesfully Unpublished."
+msgstr "項目正常に未発表。"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:984
+#: framework/WDW_PS_Library.php:111
+msgid "Items Succesfully Unpublished."
+msgstr "アイテム正常に未発表。"
+
+#: admin/views/WDPSViewSliders_wdps.php:34
+msgid "Post Sliders"
+msgstr "ポストスライダー"
+
+#: admin/views/WDPSViewSliders_wdps.php:65
+msgid "This section allows you to create, edit and delete post sliders."
+msgstr ""
+"このセクションでは、ポストのスライダを作成、編集および削除することができま"
+"す。"
+
+#: admin/views/WDPSViewSliders_wdps.php:66
+#: admin/views/WDPSViewSliders_wdps.php:560
+msgid "Read More in User Manual"
+msgstr "ユーザーマニュアルで続きを読みます"
+
+#: admin/views/WDPSViewSliders_wdps.php:80
+msgid "Add new"
+msgstr "新しいメールアドレス"
+
+#: admin/views/WDPSViewSliders_wdps.php:83
+#: admin/views/WDPSViewSliders_wdps.php:117
+msgid "Name"
+msgstr "名前"
+
+#: admin/views/WDPSViewSliders_wdps.php:87
+msgid "Select All"
+msgstr "全て選択"
+
+#: admin/views/WDPSViewSliders_wdps.php:89
+msgid "Publish"
+msgstr "パブリッシュ"
+
+#: admin/views/WDPSViewSliders_wdps.php:90
+msgid "Unpublish"
+msgstr "非公開"
+
+#: admin/views/WDPSViewSliders_wdps.php:91
+msgid "Duplicate"
+msgstr "重複"
+
+#: admin/views/WDPSViewSliders_wdps.php:92
+#: admin/views/WDPSViewSliders_wdps.php:182
+msgid "Do you want to delete selected items?"
+msgstr "あなたが選択した項目を削除しますか？"
+
+#: admin/views/WDPSViewSliders_wdps.php:96
+#: admin/views/WDPSViewSliders_wdps.php:182
+#: admin/views/WDPSViewSliders_wdps.php:1997 post-slider-wd.php:402
+msgid "Delete"
+msgstr "削除"
+
+#: admin/views/WDPSViewSliders_wdps.php:111
+msgid "Slider"
+msgstr "スライダー"
+
+#: admin/views/WDPSViewSliders_wdps.php:120
+#: admin/views/WDPSViewSliders_wdps.php:617
+#: admin/views/WDPSViewSliders_wdps.php:1864
+#: admin/views/WDPSViewSliders_wdps.php:1893
+msgid "Slides"
+msgstr "スライド"
+
+#: admin/views/WDPSViewSliders_wdps.php:121
+msgid "Shortcode"
+msgstr "ショート"
+
+#: admin/views/WDPSViewSliders_wdps.php:122
+msgid "PHP function"
+msgstr "PHPの関数"
+
+#: admin/views/WDPSViewSliders_wdps.php:128
+msgid "Published"
+msgstr "公開"
+
+#: admin/views/WDPSViewSliders_wdps.php:131
+msgid "Action"
+msgstr "アクション"
+
+#: admin/views/WDPSViewSliders_wdps.php:158
+#: admin/views/WDPSViewSliders_wdps.php:172
+msgid "Edit"
+msgstr "編集"
+
+#: admin/views/WDPSViewSliders_wdps.php:215
+msgid "Edit post slider "
+msgstr "編集後のスライダ "
+
+#: admin/views/WDPSViewSliders_wdps.php:215
+msgid "Create new post slider"
+msgstr "新しいポストスライダーを作成します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:238
+msgid "Publishing Date"
+msgstr "公開日"
+
+#: admin/views/WDPSViewSliders_wdps.php:239
+msgid "Modification Date"
+msgstr "変更日"
+
+#: admin/views/WDPSViewSliders_wdps.php:240
+msgid "Number of Comments"
+msgstr "コメントの数"
+
+#: admin/views/WDPSViewSliders_wdps.php:241
+msgid "Post Title"
+msgstr "記事のタイトル"
+
+#: admin/views/WDPSViewSliders_wdps.php:242
+msgid "Menu Order"
+msgstr "メニュー注文"
+
+#: admin/views/WDPSViewSliders_wdps.php:243
+msgid "Author"
+msgstr "著者"
+
+#: admin/views/WDPSViewSliders_wdps.php:244
+#: admin/views/WDPSViewSliders_wdps.php:359
+msgid "Random"
+msgstr "ランダム"
+
+#: admin/views/WDPSViewSliders_wdps.php:256
+#: admin/views/WDPSViewWDPSPosts.php:123
+msgid "Select"
+msgstr "選択します"
+
+#: admin/views/WDPSViewSliders_wdps.php:257
+msgid "Hour"
+msgstr "1時間"
+
+#: admin/views/WDPSViewSliders_wdps.php:258
+msgid "Day"
+msgstr "デイ"
+
+#: admin/views/WDPSViewSliders_wdps.php:259
+msgid "Week"
+msgstr "1週間"
+
+#: admin/views/WDPSViewSliders_wdps.php:260
+msgid "Month"
+msgstr "月"
+
+#: admin/views/WDPSViewSliders_wdps.php:263
+#: admin/views/WDPSViewSliders_wdps.php:459
+#: admin/views/WDPSViewSliders_wdps.php:1739 post-slider-wd.php:350
+msgid "Left"
+msgstr "左"
+
+#: admin/views/WDPSViewSliders_wdps.php:264
+msgid "Center"
+msgstr "中央"
+
+#: admin/views/WDPSViewSliders_wdps.php:265
+#: admin/views/WDPSViewSliders_wdps.php:461
+#: admin/views/WDPSViewSliders_wdps.php:1737 post-slider-wd.php:351
+msgid "Right"
+msgstr "右側の"
+
+#: admin/views/WDPSViewSliders_wdps.php:268
+#: admin/views/WDPSViewSliders_wdps.php:333
+#: admin/views/WDPSViewSliders_wdps.php:364
+#: admin/views/WDPSViewSliders_wdps.php:411 post-slider-wd.php:293
+msgid "None"
+msgstr "なし"
+
+#: admin/views/WDPSViewSliders_wdps.php:269 post-slider-wd.php:335
+msgid "Solid"
+msgstr "固形の"
+
+#: admin/views/WDPSViewSliders_wdps.php:270 post-slider-wd.php:336
+msgid "Dotted"
+msgstr "ドット付きの"
+
+#: admin/views/WDPSViewSliders_wdps.php:271 post-slider-wd.php:337
+msgid "Dashed"
+msgstr "破線"
+
+#: admin/views/WDPSViewSliders_wdps.php:272
+#: admin/views/WDPSViewSliders_wdps.php:281 post-slider-wd.php:338
+msgid "Double"
+msgstr "二重の"
+
+#: admin/views/WDPSViewSliders_wdps.php:273 post-slider-wd.php:339
+msgid "Groove"
+msgstr "溝"
+
+#: admin/views/WDPSViewSliders_wdps.php:274 post-slider-wd.php:340
+msgid "Ridge"
+msgstr "リッジ"
+
+#: admin/views/WDPSViewSliders_wdps.php:275 post-slider-wd.php:341
+msgid "Inset"
+msgstr "インセット"
+
+#: admin/views/WDPSViewSliders_wdps.php:276 post-slider-wd.php:342
+msgid "Outset"
+msgstr "初め"
+
+#: admin/views/WDPSViewSliders_wdps.php:279
+msgid "Chevron"
+msgstr "シェブロン"
+
+#: admin/views/WDPSViewSliders_wdps.php:280
+msgid "Angle"
+msgstr "アングル"
+
+#: admin/views/WDPSViewSliders_wdps.php:284
+msgid "Circle O"
+msgstr "サークルO"
+
+#: admin/views/WDPSViewSliders_wdps.php:285
+msgid "Circle"
+msgstr "サークル"
+
+#: admin/views/WDPSViewSliders_wdps.php:286
+msgid "Minus"
+msgstr "引きました"
+
+#: admin/views/WDPSViewSliders_wdps.php:287
+msgid "Square O"
+msgstr "スクエアO"
+
+#: admin/views/WDPSViewSliders_wdps.php:288
+msgid "Square"
+msgstr "平方"
+
+#: admin/views/WDPSViewSliders_wdps.php:320 post-slider-wd.php:332
+msgid "Lighter"
+msgstr "ライター"
+
+#: admin/views/WDPSViewSliders_wdps.php:321 post-slider-wd.php:333
+msgid "Normal"
+msgstr "ノーマル"
+
+#: admin/views/WDPSViewSliders_wdps.php:322 post-slider-wd.php:334
+msgid "Bold"
+msgstr "太字"
+
+#: admin/views/WDPSViewSliders_wdps.php:325 post-slider-wd.php:343
+msgid "Facebook"
+msgstr "フェイスブック"
+
+#: admin/views/WDPSViewSliders_wdps.php:326 post-slider-wd.php:344
+msgid "Google+"
+msgstr "Google+の"
+
+#: admin/views/WDPSViewSliders_wdps.php:327 post-slider-wd.php:345
+msgid "Twitter"
+msgstr "ツイッター"
+
+#: admin/views/WDPSViewSliders_wdps.php:328 post-slider-wd.php:346
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/views/WDPSViewSliders_wdps.php:329 post-slider-wd.php:347
+msgid "Tumblr"
+msgstr "Tumblrの"
+
+#: admin/views/WDPSViewSliders_wdps.php:334
+msgid "Fade"
+msgstr "フェイド"
+
+#: admin/views/WDPSViewSliders_wdps.php:335
+msgid "Slice Horizontal"
+msgstr "スライス水平"
+
+#: admin/views/WDPSViewSliders_wdps.php:336
+msgid "Fan"
+msgstr "ファン"
+
+#: admin/views/WDPSViewSliders_wdps.php:337
+msgid "Scale In"
+msgstr "でスケール"
+
+#: admin/views/WDPSViewSliders_wdps.php:338
+msgid "Zoom Fade"
+msgstr "ズームフェード"
+
+#: admin/views/WDPSViewSliders_wdps.php:339
+msgid "Parallel Slide Horizontal"
+msgstr "パラレルスライド水平"
+
+#: admin/views/WDPSViewSliders_wdps.php:340
+msgid "Parallel Slide Vertical"
+msgstr "パラレルスライド垂直"
+
+#: admin/views/WDPSViewSliders_wdps.php:341
+msgid "Slice 3D Horizontal"
+msgstr "スライス3D水平"
+
+#: admin/views/WDPSViewSliders_wdps.php:342
+msgid "Slice 3D Vertical"
+msgstr "スライス3D垂直"
+
+#: admin/views/WDPSViewSliders_wdps.php:343
+msgid "Slice 3D Horizontal Random"
+msgstr "スライス3D水平ランダム"
+
+#: admin/views/WDPSViewSliders_wdps.php:344
+msgid "Slice 3D Vertical Random"
+msgstr "スライス3D垂直ランダム"
+
+#: admin/views/WDPSViewSliders_wdps.php:345
+msgid "Blind"
+msgstr "ブラインド"
+
+#: admin/views/WDPSViewSliders_wdps.php:346
+msgid "Tiles"
+msgstr "タイル"
+
+#: admin/views/WDPSViewSliders_wdps.php:347
+msgid "Block Scale Random"
+msgstr "ブロックスケールランダム"
+
+#: admin/views/WDPSViewSliders_wdps.php:348
+msgid "Cube Horizontal"
+msgstr "キューブ水平"
+
+#: admin/views/WDPSViewSliders_wdps.php:349
+msgid "Cube Vertical"
+msgstr "キューブ垂直"
+
+#: admin/views/WDPSViewSliders_wdps.php:350
+msgid "Cube Random"
+msgstr "キューブランダム"
+
+#: admin/views/WDPSViewSliders_wdps.php:351
+msgid "Slice Vertical"
+msgstr "スライス垂直"
+
+#: admin/views/WDPSViewSliders_wdps.php:352
+msgid "Slide Horizontal"
+msgstr "水平スライド"
+
+#: admin/views/WDPSViewSliders_wdps.php:353
+msgid "Slide Vertical"
+msgstr "縦スライド"
+
+#: admin/views/WDPSViewSliders_wdps.php:354
+msgid "Scale Out"
+msgstr "スケールアウト"
+
+#: admin/views/WDPSViewSliders_wdps.php:355
+msgid "Block Scale"
+msgstr "ブロックスケール"
+
+#: admin/views/WDPSViewSliders_wdps.php:356
+msgid "Kaleidoscope"
+msgstr "カレイドスコープ"
+
+#: admin/views/WDPSViewSliders_wdps.php:357
+msgid "Blind Horizontal"
+msgstr "ブラインド水平"
+
+#: admin/views/WDPSViewSliders_wdps.php:358
+msgid "Blind Vertical"
+msgstr "垂直ブラインド"
+
+#: admin/views/WDPSViewSliders_wdps.php:360
+msgid "3D Random"
+msgstr "3Dランダム"
+
+#: admin/views/WDPSViewSliders_wdps.php:365
+#: admin/views/WDPSViewSliders_wdps.php:412 post-slider-wd.php:294
+msgid "Bounce"
+msgstr "バウンス"
+
+#: admin/views/WDPSViewSliders_wdps.php:366
+#: admin/views/WDPSViewSliders_wdps.php:413 post-slider-wd.php:300
+msgid "Tada"
+msgstr "多田"
+
+#: admin/views/WDPSViewSliders_wdps.php:367
+#: admin/views/WDPSViewSliders_wdps.php:414 post-slider-wd.php:306
+msgid "BounceInDown"
+msgstr "BounceInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:368
+#: admin/views/WDPSViewSliders_wdps.php:415 post-slider-wd.php:313
+msgid "FadeInLeft"
+msgstr "FadeInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:369
+#: admin/views/WDPSViewSliders_wdps.php:416 post-slider-wd.php:295
+msgid "Flash"
+msgstr "閃光"
+
+#: admin/views/WDPSViewSliders_wdps.php:370
+#: admin/views/WDPSViewSliders_wdps.php:417 post-slider-wd.php:296
+msgid "Pulse"
+msgstr "脈拍"
+
+#: admin/views/WDPSViewSliders_wdps.php:371
+#: admin/views/WDPSViewSliders_wdps.php:418 post-slider-wd.php:297
+msgid "RubberBand"
+msgstr "ラバーバンド"
+
+#: admin/views/WDPSViewSliders_wdps.php:372
+#: admin/views/WDPSViewSliders_wdps.php:419 post-slider-wd.php:298
+msgid "Shake"
+msgstr "シェイク"
+
+#: admin/views/WDPSViewSliders_wdps.php:373
+#: admin/views/WDPSViewSliders_wdps.php:420 post-slider-wd.php:299
+msgid "Swing"
+msgstr "スイングの"
+
+#: admin/views/WDPSViewSliders_wdps.php:374
+#: admin/views/WDPSViewSliders_wdps.php:421 post-slider-wd.php:301
+msgid "Wobble"
+msgstr "ウォブル"
+
+#: admin/views/WDPSViewSliders_wdps.php:375
+#: admin/views/WDPSViewSliders_wdps.php:422 post-slider-wd.php:302
+msgid "Hinge"
+msgstr "ヒンジ"
+
+#: admin/views/WDPSViewSliders_wdps.php:377
+#: admin/views/WDPSViewSliders_wdps.php:424 post-slider-wd.php:303
+msgid "LightSpeedIn"
+msgstr "LightSpeed​​In"
+
+#: admin/views/WDPSViewSliders_wdps.php:378
+#: admin/views/WDPSViewSliders_wdps.php:425 post-slider-wd.php:304
+msgid "RollIn"
+msgstr "ローリン"
+
+#: admin/views/WDPSViewSliders_wdps.php:380
+#: admin/views/WDPSViewSliders_wdps.php:427 post-slider-wd.php:305
+msgid "BounceIn"
+msgstr "BounceIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:381
+#: admin/views/WDPSViewSliders_wdps.php:428 post-slider-wd.php:307
+msgid "BounceInLeft"
+msgstr "BounceInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:382
+#: admin/views/WDPSViewSliders_wdps.php:429 post-slider-wd.php:308
+msgid "BounceInRight"
+msgstr "BounceInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:383
+#: admin/views/WDPSViewSliders_wdps.php:430 post-slider-wd.php:309
+msgid "BounceInUp"
+msgstr "BounceInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:385
+#: admin/views/WDPSViewSliders_wdps.php:432 post-slider-wd.php:310
+msgid "FadeIn"
+msgstr "フェードイン"
+
+#: admin/views/WDPSViewSliders_wdps.php:386
+#: admin/views/WDPSViewSliders_wdps.php:433 post-slider-wd.php:311
+msgid "FadeInDown"
+msgstr "FadeInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:387
+#: admin/views/WDPSViewSliders_wdps.php:434 post-slider-wd.php:312
+msgid "FadeInDownBig"
+msgstr "FadeInDownBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:388
+#: admin/views/WDPSViewSliders_wdps.php:435 post-slider-wd.php:314
+msgid "FadeInLeftBig"
+msgstr "FadeInLeftBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:389
+#: admin/views/WDPSViewSliders_wdps.php:436 post-slider-wd.php:315
+msgid "FadeInRight"
+msgstr "FadeInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:390
+#: admin/views/WDPSViewSliders_wdps.php:437 post-slider-wd.php:316
+msgid "FadeInRightBig"
+msgstr "FadeInRightBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:391
+#: admin/views/WDPSViewSliders_wdps.php:438 post-slider-wd.php:317
+msgid "FadeInUp"
+msgstr "FadeInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:392
+#: admin/views/WDPSViewSliders_wdps.php:439 post-slider-wd.php:318
+msgid "FadeInUpBig"
+msgstr "FadeInUpBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:394
+#: admin/views/WDPSViewSliders_wdps.php:441 post-slider-wd.php:319
+msgid "Flip"
+msgstr "フリップ"
+
+#: admin/views/WDPSViewSliders_wdps.php:395
+#: admin/views/WDPSViewSliders_wdps.php:442 post-slider-wd.php:320
+msgid "FlipInX"
+msgstr "FlipInX"
+
+#: admin/views/WDPSViewSliders_wdps.php:396
+#: admin/views/WDPSViewSliders_wdps.php:443 post-slider-wd.php:321
+msgid "FlipInY"
+msgstr "FlipInY"
+
+#: admin/views/WDPSViewSliders_wdps.php:398
+#: admin/views/WDPSViewSliders_wdps.php:445 post-slider-wd.php:322
+msgid "RotateIn"
+msgstr "RotateIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:399
+#: admin/views/WDPSViewSliders_wdps.php:446 post-slider-wd.php:323
+msgid "RotateInDownLeft"
+msgstr "RotateInDownLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:400
+#: admin/views/WDPSViewSliders_wdps.php:447 post-slider-wd.php:324
+msgid "RotateInDownRight"
+msgstr "RotateInDownRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:401
+#: admin/views/WDPSViewSliders_wdps.php:448 post-slider-wd.php:325
+msgid "RotateInUpLeft"
+msgstr "RotateInUpLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:402
+#: admin/views/WDPSViewSliders_wdps.php:449 post-slider-wd.php:326
+msgid "RotateInUpRight"
+msgstr "RotateInUpRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:404
+#: admin/views/WDPSViewSliders_wdps.php:451 post-slider-wd.php:327
+msgid "ZoomIn"
+msgstr "ズームイン"
+
+#: admin/views/WDPSViewSliders_wdps.php:405
+#: admin/views/WDPSViewSliders_wdps.php:452 post-slider-wd.php:328
+msgid "ZoomInDown"
+msgstr "ZoomInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:406
+#: admin/views/WDPSViewSliders_wdps.php:453 post-slider-wd.php:329
+msgid "ZoomInLeft"
+msgstr "ZoomInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:407
+#: admin/views/WDPSViewSliders_wdps.php:454 post-slider-wd.php:330
+msgid "ZoomInRight"
+msgstr "ZoomInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:408
+#: admin/views/WDPSViewSliders_wdps.php:455 post-slider-wd.php:331
+msgid "ZoomInUp"
+msgstr "ZoomInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:458
+#: admin/views/WDPSViewSliders_wdps.php:1482
+#: admin/views/WDPSViewSliders_wdps.php:1736 post-slider-wd.php:348
+msgid "Top"
+msgstr "上"
+
+#: admin/views/WDPSViewSliders_wdps.php:460
+#: admin/views/WDPSViewSliders_wdps.php:1483
+#: admin/views/WDPSViewSliders_wdps.php:1738 post-slider-wd.php:349
+msgid "Bottom"
+msgstr "底の"
+
+#: admin/views/WDPSViewSliders_wdps.php:467
+msgid "Some options are disabled in free version."
+msgstr "いくつかのオプションは無料版では無効になっています。"
+
+#: admin/views/WDPSViewSliders_wdps.php:468
+msgid "This option is disabled in free version."
+msgstr "このオプションは、無料版では無効になっています。"
+
+#: admin/views/WDPSViewSliders_wdps.php:559
+msgid "This section allows you to add/edit slider."
+msgstr "このセクションでは、/編集スライダを追加することができます。"
+
+#: admin/views/WDPSViewSliders_wdps.php:574
+msgid "Slider Title:"
+msgstr "スライダータイトル："
+
+#: admin/views/WDPSViewSliders_wdps.php:581
+msgid "Save"
+msgstr "セーブ"
+
+#: admin/views/WDPSViewSliders_wdps.php:586
+msgid "Apply"
+msgstr "適用"
+
+#: admin/views/WDPSViewSliders_wdps.php:591
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: admin/views/WDPSViewSliders_wdps.php:600
+msgid "Reset Settings"
+msgstr "設定をリセットします"
+
+#: admin/views/WDPSViewSliders_wdps.php:612
+#: admin/views/WDPSViewSliders_wdps.php:1859
+msgid "Settings"
+msgstr "[設定]"
+
+#: admin/views/WDPSViewSliders_wdps.php:630
+msgid "Global"
+msgstr "グローバル"
+
+#: admin/views/WDPSViewSliders_wdps.php:633
+msgid "Carousel"
+msgstr "カルーセル"
+
+#: admin/views/WDPSViewSliders_wdps.php:636
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: admin/views/WDPSViewSliders_wdps.php:639
+msgid "Bullets"
+msgstr "箇条書き"
+
+#: admin/views/WDPSViewSliders_wdps.php:642
+msgid "Filmstrip"
+msgstr "フィルムストリップ"
+
+#: admin/views/WDPSViewSliders_wdps.php:645
+msgid "Timer bar"
+msgstr "タイマーバー"
+
+#: admin/views/WDPSViewSliders_wdps.php:649
+msgid "CSS"
+msgstr "CSS"
+
+#: admin/views/WDPSViewSliders_wdps.php:658
+#: admin/views/WDPSViewSliders_wdps.php:2188
+#: admin/views/WDPSViewSliders_wdps.php:2877 post-slider-wd.php:359
+msgid "Dimensions:"
+msgstr "外形寸法："
+
+#: admin/views/WDPSViewSliders_wdps.php:662
+msgid "Maximum width and height for slider."
+msgstr "スライダーの最大の幅と高さ。"
+
+#: admin/views/WDPSViewSliders_wdps.php:666
+msgid "Full width:"
+msgstr "全幅："
+
+#: admin/views/WDPSViewSliders_wdps.php:668
+#: admin/views/WDPSViewSliders_wdps.php:685
+#: admin/views/WDPSViewSliders_wdps.php:721
+#: admin/views/WDPSViewSliders_wdps.php:768
+#: admin/views/WDPSViewSliders_wdps.php:776
+#: admin/views/WDPSViewSliders_wdps.php:791
+#: admin/views/WDPSViewSliders_wdps.php:799
+#: admin/views/WDPSViewSliders_wdps.php:814
+#: admin/views/WDPSViewSliders_wdps.php:832
+#: admin/views/WDPSViewSliders_wdps.php:888
+#: admin/views/WDPSViewSliders_wdps.php:898
+#: admin/views/WDPSViewSliders_wdps.php:924
+#: admin/views/WDPSViewSliders_wdps.php:943
+#: admin/views/WDPSViewSliders_wdps.php:966
+#: admin/views/WDPSViewSliders_wdps.php:1010
+#: admin/views/WDPSViewSliders_wdps.php:1234
+#: admin/views/WDPSViewSliders_wdps.php:1473
+#: admin/views/WDPSViewSliders_wdps.php:1727
+#: admin/views/WDPSViewSliders_wdps.php:1799
+#: admin/views/WDPSViewSliders_wdps.php:2072
+#: admin/views/WDPSViewSliders_wdps.php:2277
+#: admin/views/WDPSViewSliders_wdps.php:2958
+#: admin/views/WDPSViewUninstall_wdps.php:64 post-slider-wd.php:370
+msgid "Yes"
+msgstr "はい"
+
+#: admin/views/WDPSViewSliders_wdps.php:669
+#: admin/views/WDPSViewSliders_wdps.php:686
+#: admin/views/WDPSViewSliders_wdps.php:722
+#: admin/views/WDPSViewSliders_wdps.php:769
+#: admin/views/WDPSViewSliders_wdps.php:777
+#: admin/views/WDPSViewSliders_wdps.php:792
+#: admin/views/WDPSViewSliders_wdps.php:800
+#: admin/views/WDPSViewSliders_wdps.php:815
+#: admin/views/WDPSViewSliders_wdps.php:833
+#: admin/views/WDPSViewSliders_wdps.php:889
+#: admin/views/WDPSViewSliders_wdps.php:899
+#: admin/views/WDPSViewSliders_wdps.php:925
+#: admin/views/WDPSViewSliders_wdps.php:944
+#: admin/views/WDPSViewSliders_wdps.php:967
+#: admin/views/WDPSViewSliders_wdps.php:1011
+#: admin/views/WDPSViewSliders_wdps.php:1235
+#: admin/views/WDPSViewSliders_wdps.php:1474
+#: admin/views/WDPSViewSliders_wdps.php:1728
+#: admin/views/WDPSViewSliders_wdps.php:1800
+#: admin/views/WDPSViewSliders_wdps.php:2073
+#: admin/views/WDPSViewSliders_wdps.php:2279
+#: admin/views/WDPSViewSliders_wdps.php:2960 post-slider-wd.php:371
+msgid "No"
+msgstr "ノー"
+
+#: admin/views/WDPSViewSliders_wdps.php:670
+msgid "Ratio"
+msgstr "比"
+
+#: admin/views/WDPSViewSliders_wdps.php:671
+msgid ""
+"The image will stretch to the page width, taking the height based on "
+"dimensions ratio."
+msgstr "画像は、大きさの比率に基づいて高さを取って、ページ幅に伸びるであろう。"
+
+#: admin/views/WDPSViewSliders_wdps.php:675
+msgid "Background fit:"
+msgstr "背景フィット："
+
+#: admin/views/WDPSViewSliders_wdps.php:677
+msgid "Cover"
+msgstr "蓋"
+
+#: admin/views/WDPSViewSliders_wdps.php:678
+msgid "Fill"
+msgstr "塗りつぶし"
+
+#: admin/views/WDPSViewSliders_wdps.php:679
+msgid "Contain"
+msgstr "含まれています"
+
+#: admin/views/WDPSViewSliders_wdps.php:683
+msgid "Smart Crop:"
+msgstr "スマートトリミング："
+
+#: admin/views/WDPSViewSliders_wdps.php:692
+msgid "Crop Image Position:"
+msgstr "クロップ画像位置："
+
+#: admin/views/WDPSViewSliders_wdps.php:727
+msgid "Align:"
+msgstr "揃えます："
+
+#: admin/views/WDPSViewSliders_wdps.php:738
+msgid "Set the alignment of the slider."
+msgstr "スライダーの位置合わせを設定します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:743
+msgid "Effect:"
+msgstr "効果："
+
+#: admin/views/WDPSViewSliders_wdps.php:755
+#: admin/views/WDPSViewSliders_wdps.php:2310
+#: admin/views/WDPSViewSliders_wdps.php:2338
+#: admin/views/WDPSViewSliders_wdps.php:2991
+#: admin/views/WDPSViewSliders_wdps.php:3005
+#: admin/views/WDPSViewSliders_wdps.php:3020 post-slider-wd.php:392
+msgid "Some effects are disabled in free version."
+msgstr "いくつかの効果は、無料版では無効になっています。"
+
+#: admin/views/WDPSViewSliders_wdps.php:759
+msgid "Effect duration:"
+msgstr "効果時間："
+
+#: admin/views/WDPSViewSliders_wdps.php:762
+msgid "Define the time for the effect."
+msgstr "効果のための時間を定義します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:766
+msgid "Parallax Effect:"
+msgstr "視差効果："
+
+#: admin/views/WDPSViewSliders_wdps.php:770
+msgid ""
+"The direction of the movement, as well as the layer moving pace depend on "
+"the z-index value."
+msgstr "移動方向だけでなく、層の移動のペースは、zインデックス値に依存します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:774
+msgid "Autoplay:"
+msgstr "自動再生："
+
+#: admin/views/WDPSViewSliders_wdps.php:778
+msgid "Choose whether to autoplay the sliders or not."
+msgstr "スライダーを自動再生するかしないかを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:782
+msgid "Time Interval:"
+msgstr "時間間隔："
+
+#: admin/views/WDPSViewSliders_wdps.php:784
+msgid "sec."
+msgstr "秒。"
+
+#: admin/views/WDPSViewSliders_wdps.php:785
+msgid ""
+"Set the time interval for the change of the sliders when autoplay is on."
+msgstr "自動再生がオンのときのスライダーの変化のための時間間隔を設定します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:789
+msgid "Stop on hover:"
+msgstr "ホバーで停止します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:793
+msgid "The option works when autoplay is on."
+msgstr "自動再生がオンのときにオ​​プションが動作します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:797
+msgid "Shuffle:"
+msgstr "シャッフル："
+
+#: admin/views/WDPSViewSliders_wdps.php:801
+msgid ""
+"Choose whether to have the slides change in a random manner or to keep the "
+"original sequence."
+msgstr ""
+"スライドをランダムに変更したり、元の配列を維持する必要があるかどうかを選択し"
+"ます。"
+
+#: admin/views/WDPSViewSliders_wdps.php:805
+msgid "Start with slide:"
+msgstr "スライドを開始します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:808
+msgid ""
+"The slider will start with the specified slide. You can use the value 0 for "
+"random."
+msgstr ""
+"スライダーは、指定されたスライドを開始します。あなたは、ランダムに値0を使用す"
+"ることができます。"
+
+#: admin/views/WDPSViewSliders_wdps.php:812
+msgid "Music:"
+msgstr "音楽："
+
+#: admin/views/WDPSViewSliders_wdps.php:816
+msgid ""
+"Choose whether to have music/audio track playback with the slider or not."
+msgstr ""
+"スライダーやないで音楽/オーディオトラックの再生を持っているかどうかを選択しま"
+"す。"
+
+#: admin/views/WDPSViewSliders_wdps.php:821
+msgid "Music url:"
+msgstr "音楽のURL："
+
+#: admin/views/WDPSViewSliders_wdps.php:826
+msgid "Only .aac,.m4a,.f4a,.mp3,.ogg,.oga formats are supported."
+msgstr ""
+"のみ.aac、.M4A、.f4a、.MP3、.OGG、.ogaフォーマットがサポートされています。"
+
+#: admin/views/WDPSViewSliders_wdps.php:830
+msgid "Smart Load:"
+msgstr "スマートロード："
+
+#: admin/views/WDPSViewSliders_wdps.php:834
+msgid ""
+"Choose to have faster load for the first few images and process the rest "
+"meanwhile."
+msgstr ""
+"最初のいくつかのイメージのためのより高速な負荷を持っており、一方で残りの部分"
+"を処理するために選択してください。"
+
+#: admin/views/WDPSViewSliders_wdps.php:838
+#: admin/views/WDPSViewSliders_wdps.php:1457
+#: admin/views/WDPSViewSliders_wdps.php:1693
+#: admin/views/WDPSViewSliders_wdps.php:1753
+msgid "Background color:"
+msgstr "背景の色："
+
+#: admin/views/WDPSViewSliders_wdps.php:842
+#: admin/views/WDPSViewSliders_wdps.php:1461
+#: admin/views/WDPSViewSliders_wdps.php:1830
+msgid "Transparency value must be between 0 to 100."
+msgstr "透明度値は0〜100の間でなければなりません。"
+
+#: admin/views/WDPSViewSliders_wdps.php:846
+#: admin/views/WDPSViewSliders_wdps.php:1433
+#: admin/views/WDPSViewSliders_wdps.php:2370
+#: admin/views/WDPSViewSliders_wdps.php:3052 post-slider-wd.php:403
+msgid "Border:"
+msgstr "ボーダー："
+
+#: admin/views/WDPSViewSliders_wdps.php:859
+msgid "Set the border width, type and the color."
+msgstr "境界線の幅、種類、色を設定します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:863
+#: admin/views/WDPSViewSliders_wdps.php:1450
+#: admin/views/WDPSViewSliders_wdps.php:1700
+msgid "Border radius:"
+msgstr "国境半径："
+
+#: admin/views/WDPSViewSliders_wdps.php:866
+#: admin/views/WDPSViewSliders_wdps.php:1453
+#: admin/views/WDPSViewSliders_wdps.php:1703
+#: admin/views/WDPSViewSliders_wdps.php:2342
+#: admin/views/WDPSViewSliders_wdps.php:2347
+#: admin/views/WDPSViewSliders_wdps.php:2388
+#: admin/views/WDPSViewSliders_wdps.php:2393
+#: admin/views/WDPSViewSliders_wdps.php:3024
+#: admin/views/WDPSViewSliders_wdps.php:3029
+#: admin/views/WDPSViewSliders_wdps.php:3070
+#: admin/views/WDPSViewSliders_wdps.php:3075 post-slider-wd.php:377
+msgid "Use CSS type values."
+msgstr "CSSタイプの値を使用してください。"
+
+#: admin/views/WDPSViewSliders_wdps.php:870
+#: admin/views/WDPSViewSliders_wdps.php:1707
+msgid "Margin:"
+msgstr "マージン："
+
+#: admin/views/WDPSViewSliders_wdps.php:873
+msgid "Set a margin for the slider."
+msgstr "スライダーのマージンを設定します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:877
+#: admin/views/WDPSViewSliders_wdps.php:2398
+#: admin/views/WDPSViewSliders_wdps.php:3080 post-slider-wd.php:383
+msgid "Shadow:"
+msgstr "シャドウ："
+
+#: admin/views/WDPSViewSliders_wdps.php:880
+#: admin/views/WDPSViewSliders_wdps.php:2397
+#: admin/views/WDPSViewSliders_wdps.php:2402
+#: admin/views/WDPSViewSliders_wdps.php:3079
+#: admin/views/WDPSViewSliders_wdps.php:3084
+msgid "Use CSS type values (e.g. 10px 10px 5px #888888)."
+msgstr "CSSタイプの値を使用します（例：10pxの10pxの5pxの＃888888）。"
+
+#: admin/views/WDPSViewSliders_wdps.php:885
+msgid "Right click protection:"
+msgstr "右クリックの保護："
+
+#: admin/views/WDPSViewSliders_wdps.php:890
+msgid "Disable image right click possibility."
+msgstr "画像を無効に右可能性をクリックします。"
+
+#: admin/views/WDPSViewSliders_wdps.php:895
+msgid "Layer out on next:"
+msgstr "次に出層："
+
+#: admin/views/WDPSViewSliders_wdps.php:900
+msgid ""
+"Choose whether to have the layer effect out regardless of the timing between "
+"the hit to the next slider or skip the effect out and get to the next image."
+msgstr ""
+"次のスライダに関係なくヒット間のタイミングのレイヤー効果を持っているか、アウ"
+"ト効果をスキップして、次の画像を取得するかどうかを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:904
+#: admin/views/WDPSViewSliders_wdps.php:2407
+#: admin/views/WDPSViewSliders_wdps.php:3089 post-slider-wd.php:384
+msgid "Text layer character limit:"
+msgstr "テキストレイヤーの文字制限："
+
+#: admin/views/WDPSViewSliders_wdps.php:907
+#: admin/views/WDPSViewSliders_wdps.php:2406
+#: admin/views/WDPSViewSliders_wdps.php:2411
+#: admin/views/WDPSViewSliders_wdps.php:3088
+#: admin/views/WDPSViewSliders_wdps.php:3093 post-slider-wd.php:378
+msgid ""
+"This will limit the number of characters for post content displayed as a "
+"text layer."
+msgstr ""
+"これは、テキストレイヤーとして表示され、ポストコンテンツの文字数を制限しま"
+"す。"
+
+#: admin/views/WDPSViewSliders_wdps.php:911
+msgid "Add font-family:"
+msgstr "フォントファミリを追加します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:916
+msgid "Add to Google fonts"
+msgstr "Googleのフォントに追加"
+
+#: admin/views/WDPSViewSliders_wdps.php:917
+msgid "Add font-family"
+msgstr "フォントファミリを追加します"
+
+#: admin/views/WDPSViewSliders_wdps.php:918
+msgid "The added font family will appear in the drop-down list of fonts."
+msgstr ""
+"追加されたフォントファミリ、フォントのドロップダウンリストに表示されます。"
+
+#: admin/views/WDPSViewSliders_wdps.php:922
+#: admin/views/WDPSViewSliders_wdps.php:2070
+#: admin/views/WDPSViewSliders_wdps.php:2273
+#: admin/views/WDPSViewSliders_wdps.php:2954 post-slider-wd.php:288
+#: post-slider-wd.php:369
+msgid "Published:"
+msgstr "公開日："
+
+#: admin/views/WDPSViewSliders_wdps.php:926
+msgid "Choose whether to publish the mentioned slider or not."
+msgstr "上記のスライダーを公開するかしないかを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:937
+msgid "Carousel is disabled in free version."
+msgstr "カルーセルは、無料版では無効になっています。"
+
+#: admin/views/WDPSViewSliders_wdps.php:941
+msgid "Carousel:"
+msgstr "カルーセル："
+
+#: admin/views/WDPSViewSliders_wdps.php:945
+msgid ""
+"If you activate this feature the effects you had chosen in Global settings "
+"for your slider will not play."
+msgstr ""
+"この機能を有効にすると、あなたのスライダーのグローバル設定で選択した効果が再"
+"生されません。"
+
+#: admin/views/WDPSViewSliders_wdps.php:950
+msgid "Number of images for carousel:"
+msgstr "カルーセルのための画像数："
+
+#: admin/views/WDPSViewSliders_wdps.php:957
+msgid "Carousel image ratio:"
+msgstr "カルーセル画像比："
+
+#: admin/views/WDPSViewSliders_wdps.php:960
+msgid "The value must be between 0 and 1."
+msgstr "値は0と1の間でなければなりません。"
+
+#: admin/views/WDPSViewSliders_wdps.php:964
+msgid "Container fit:"
+msgstr "コンテナフィット："
+
+#: admin/views/WDPSViewSliders_wdps.php:972
+msgid "Fixed width:"
+msgstr "固定幅："
+
+#: admin/views/WDPSViewSliders_wdps.php:979
+msgid "Background image angle:"
+msgstr "背景画角："
+
+#: admin/views/WDPSViewSliders_wdps.php:986
+msgid "Background image grayscale:"
+msgstr "背景画像のグレースケール："
+
+#: admin/views/WDPSViewSliders_wdps.php:989
+msgid ""
+"You can change the color scheme for background images to grayscale. Values "
+"must be between 0 to 100."
+msgstr ""
+"あなたは、背景画像がグレースケールにするための配色を変更することができます。"
+"値は0〜100まででなければなりません。"
+
+#: admin/views/WDPSViewSliders_wdps.php:993
+msgid "Background image transparency:"
+msgstr "背景画像の透明度："
+
+#: admin/views/WDPSViewSliders_wdps.php:996
+msgid ""
+"You can set transparency level for background images. Values should be "
+"between 0 to 100."
+msgstr ""
+"あなたは、背景画像の透明度レベルを設定することができます。値は0〜100であるべ"
+"きです。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1007
+msgid "Next / Previous buttons:"
+msgstr "前/次ボタン："
+
+#: admin/views/WDPSViewSliders_wdps.php:1012
+msgid "Choose whether to display Previous and Next buttons or not."
+msgstr "前と次のボタンを表示するかしないかを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1017
+msgid "Show Navigation buttons:"
+msgstr "ナビゲーションボタンを表示します："
+
+#: admin/views/WDPSViewSliders_wdps.php:1020
+msgid "On hover"
+msgstr "ホバーで"
+
+#: admin/views/WDPSViewSliders_wdps.php:1021
+msgid "Always"
+msgstr "オールウェイズ"
+
+#: admin/views/WDPSViewSliders_wdps.php:1022
+msgid ""
+"Select between the option of always displaying the navigation buttons or "
+"only when hovered."
+msgstr ""
+"ホバリング時には常にナビゲーションボタンを表示したり、唯一のオプションの間で"
+"選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1027
+msgid "Image for Next / Previous buttons:"
+msgstr "次/前ボタンの画像："
+
+#: admin/views/WDPSViewSliders_wdps.php:1030
+#: admin/views/WDPSViewSliders_wdps.php:1246
+#: admin/views/WDPSViewSliders_wdps.php:1493
+#: admin/views/WDPSViewSliders_wdps.php:2241
+#: admin/views/WDPSViewSliders_wdps.php:2930 post-slider-wd.php:406
+msgid "Default"
+msgstr "デフォルト"
+
+#: admin/views/WDPSViewSliders_wdps.php:1031
+#: admin/views/WDPSViewSliders_wdps.php:1191
+#: admin/views/WDPSViewSliders_wdps.php:1247
+#: admin/views/WDPSViewSliders_wdps.php:1381
+#: admin/views/WDPSViewSliders_wdps.php:1494
+#: admin/views/WDPSViewSliders_wdps.php:1636
+msgid "Custom"
+msgstr "カスタム"
+
+#: admin/views/WDPSViewSliders_wdps.php:1032
+#: admin/views/WDPSViewSliders_wdps.php:1248
+#: admin/views/WDPSViewSliders_wdps.php:1495
+msgid "Styled"
+msgstr "スタイル付き"
+
+#: admin/views/WDPSViewSliders_wdps.php:1037
+msgid ""
+"Choose whether to use default navigation buttons or to upload custom ones."
+msgstr ""
+"デフォルトのナビゲーション・ボタンを使用するか、カスタムのものをアップロード"
+"するかどうかを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1044
+msgid "Next / Previous buttons style:"
+msgstr "次/前のボタンのスタイル："
+
+#: admin/views/WDPSViewSliders_wdps.php:1063
+msgid ""
+"Choose the style of the button you prefer to have as navigation buttons."
+msgstr ""
+"あなたは、ナビゲーションボタンとして持っていることを好むボタンのスタイルを選"
+"択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1068
+#: admin/views/WDPSViewSliders_wdps.php:1269
+#: admin/views/WDPSViewSliders_wdps.php:1586
+msgid "Upload buttons images:"
+msgstr "ボタンの画像をアップロードします。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1089
+#: admin/views/WDPSViewSliders_wdps.php:1216
+#: admin/views/WDPSViewSliders_wdps.php:1288
+#: admin/views/WDPSViewSliders_wdps.php:1405
+#: admin/views/WDPSViewSliders_wdps.php:1601
+#: admin/views/WDPSViewSliders_wdps.php:1658
+msgid "Reverse"
+msgstr "リバース"
+
+#: admin/views/WDPSViewSliders_wdps.php:1152
+#: admin/views/WDPSViewSliders_wdps.php:1343
+#: admin/views/WDPSViewSliders_wdps.php:1578
+msgid " is not a directory."
+msgstr "ディレクトリではありません。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1161
+#: admin/views/WDPSViewSliders_wdps.php:1351
+msgid "Choose buttons:"
+msgstr "ボタンを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1168
+#: admin/views/WDPSViewSliders_wdps.php:1358
+#: admin/views/WDPSViewSliders_wdps.php:1615
+msgid "Choose group"
+msgstr "グループを選択します"
+
+#: admin/views/WDPSViewSliders_wdps.php:1201
+#: admin/views/WDPSViewSliders_wdps.php:1646
+msgid "Choose color"
+msgstr "色を選択してください"
+
+#: admin/views/WDPSViewSliders_wdps.php:1219
+#: admin/views/WDPSViewSliders_wdps.php:1408
+msgid ""
+"Choose the type and color for navigation button images. The option is "
+"designed for limited preview (colors not included) purposes and can't be "
+"saved."
+msgstr ""
+"ナビゲーションボタン画像のタイプとカラーを選択してください。オプションは限ら"
+"れたプレビュー用に設計されている目的を（色が含まれていません）して保存するこ"
+"とができません。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1223
+msgid "Next / Previous buttons size:"
+msgstr "前/次ボタンサイズ："
+
+#: admin/views/WDPSViewSliders_wdps.php:1226
+msgid "Set the size for the next / previous buttons."
+msgstr "次/前のボタンのサイズを設定します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1231
+msgid "Play / Pause button:"
+msgstr "/一時停止ボタンを再生します："
+
+#: admin/views/WDPSViewSliders_wdps.php:1236
+msgid "Choose whether to display Play and Pause buttons or not."
+msgstr "プレイを表示し、ボタンを一時停止するかしないかを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1243
+msgid "Image for Play / Pause buttons:"
+msgstr "再生/一時停止ボタンの画像："
+
+#: admin/views/WDPSViewSliders_wdps.php:1253
+msgid ""
+"Choose whether to use default play/pause buttons or to upload custom ones."
+msgstr ""
+"デフォルトの再生/一時停止ボタンを使用するか、カスタムのものをアップロードする"
+"かどうかを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1259
+msgid "Play / Pause buttons style:"
+msgstr "ボタンのスタイルを一時停止/再生します："
+
+#: admin/views/WDPSViewSliders_wdps.php:1412
+msgid "Play / Pause button size:"
+msgstr "/一時停止ボタンのサイズを再生します："
+
+#: admin/views/WDPSViewSliders_wdps.php:1415
+msgid "Set the size for the play / pause buttons."
+msgstr "再生/一時停止ボタンのサイズを設定します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1419
+msgid "Buttons color:"
+msgstr "ボタンの色："
+
+#: admin/views/WDPSViewSliders_wdps.php:1422
+msgid "Select a color for the navigation buttons."
+msgstr "ナビゲーションボタンの色を選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1426 post-slider-wd.php:405
+msgid "Hover color:"
+msgstr "ホバー色："
+
+#: admin/views/WDPSViewSliders_wdps.php:1429
+msgid "Select a hover color for the navigation buttons."
+msgstr "ナビゲーションボタンのホバー色を選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1446
+msgid ""
+"Select the type, size and the color of border for the navigation buttons."
+msgstr "タイプ、サイズやナビゲーションボタンの境界線の色を選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1471
+msgid "Enable bullets:"
+msgstr "弾丸を有効にします："
+
+#: admin/views/WDPSViewSliders_wdps.php:1475
+msgid "Choose whether to have navigation bullets or not."
+msgstr "ナビゲーション弾丸を持っているかいないかどうかを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1479
+#: admin/views/WDPSViewSliders_wdps.php:1733
+#: admin/views/WDPSViewSliders_wdps.php:2198
+#: admin/views/WDPSViewSliders_wdps.php:2887 post-slider-wd.php:367
+msgid "Position:"
+msgstr "ポジション："
+
+#: admin/views/WDPSViewSliders_wdps.php:1485
+msgid "Select the position for the navigation bullets."
+msgstr "ナビゲーション弾丸のための位置を選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1490
+msgid "Image for bullets:"
+msgstr "弾丸のための画像："
+
+#: admin/views/WDPSViewSliders_wdps.php:1496
+msgid "Text"
+msgstr "テキスト"
+
+#: admin/views/WDPSViewSliders_wdps.php:1499
+msgid "Choose whether to use default or styled bullets."
+msgstr "デフォルトまたはスタイルの箇条書きを使用するかどうかを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1506
+msgid "Bullet style:"
+msgstr "箇条書きのスタイル："
+
+#: admin/views/WDPSViewSliders_wdps.php:1525
+msgid "Choose the style for the bullets."
+msgstr "箇条書きのスタイルを選択してください。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1608
+msgid "Chooes buttons:"
+msgstr "Chooesボタン："
+
+#: admin/views/WDPSViewSliders_wdps.php:1661
+msgid ""
+"Choose the type and color for the bullets. The option is designed for "
+"limited preview (colors not included) purposes and can't be saved."
+msgstr ""
+"弾丸のタイプと色を選択します。オプションは限られたプレビュー用に設計されてい"
+"る目的を（色が含まれていません）して保存することができません。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1665
+#: admin/views/WDPSViewSliders_wdps.php:1819
+#: admin/views/WDPSViewSliders_wdps.php:2207
+#: admin/views/WDPSViewSliders_wdps.php:2896 post-slider-wd.php:373
+msgid "Size:"
+msgstr "サイズ："
+
+#: admin/views/WDPSViewSliders_wdps.php:1668
+msgid "Define the size of the navigation bullets."
+msgstr "ナビゲーション弾丸のサイズを定義します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1672
+#: admin/views/WDPSViewSliders_wdps.php:1826
+#: admin/views/WDPSViewSliders_wdps.php:2216
+#: admin/views/WDPSViewSliders_wdps.php:2905 post-slider-wd.php:372
+msgid "Color:"
+msgstr "色："
+
+#: admin/views/WDPSViewSliders_wdps.php:1675
+msgid "Select the color for the navigation bullets."
+msgstr "ナビゲーション弾丸の色を選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1679
+msgid "Active color:"
+msgstr "アクティブ色："
+
+#: admin/views/WDPSViewSliders_wdps.php:1682
+msgid ""
+"Select the color for the bullet, which is currently displaying a "
+"corresponding image."
+msgstr "現在、対応する画像を表示している弾丸、の色を選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1686
+msgid "Active Background color:"
+msgstr "アクティブ背景色："
+
+#: admin/views/WDPSViewSliders_wdps.php:1689
+msgid ""
+"Select the background color for the bullet, which is currently displaying a "
+"corresponding image."
+msgstr "現在、対応する画像を表示している弾丸、の背景色を選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1696
+msgid "Select the background color for the bullet."
+msgstr "弾丸の背景色を選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1710
+msgid "Set the margin for the navigation bullets in pixels."
+msgstr "ピクセル単位でのナビゲーションの弾丸のためのマージンを設定します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1721
+msgid "Filmstrip is disabled in free version."
+msgstr "フィルムストリップは、無料版では無効になっています。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1725
+msgid "Enable filmstrip:"
+msgstr "フィルムストリップを有効にします："
+
+#: admin/views/WDPSViewSliders_wdps.php:1729
+msgid ""
+"Choose whether to have thumbnails of the slides displayed as a filmstrip or "
+"not."
+msgstr ""
+"フィルムストリップとして、または、ない表示されたスライドのサムネイルを持って"
+"いるかどうかを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1741
+msgid "Set the position of the filmstrip."
+msgstr "フィルムストリップの位置を設定します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1745
+msgid "Thumbnail dimensions:"
+msgstr "サムネイル寸法："
+
+#: admin/views/WDPSViewSliders_wdps.php:1749
+msgid "Define the maximum width and heigth of the filmstrip thumbnails."
+msgstr "フィルムストリップのサムネールの最大幅とheigthを定義します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1756
+msgid "Select the background color for the filmstrip."
+msgstr "フィルムストリップの背景色を選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1760
+msgid "Thumbnail separator:"
+msgstr "サムネイルセパレーター："
+
+#: admin/views/WDPSViewSliders_wdps.php:1763
+msgid "Set the separator for the thumbnails."
+msgstr "サムネイルの区切りを設定します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1767
+msgid "Active border:"
+msgstr "アクティブボーダー："
+
+#: admin/views/WDPSViewSliders_wdps.php:1780
+msgid ""
+"The thumbnail for the currently displayed image will have a border. You can "
+"set its size, type and color."
+msgstr ""
+"現在表示されている画像のサムネイルは、境界線を持つことになります。あなたは、"
+"そのサイズ、種類と色を設定することができます。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1784
+msgid "Deactive transparency:"
+msgstr "非アクティブの透明性："
+
+#: admin/views/WDPSViewSliders_wdps.php:1787
+msgid ""
+"You can set a transparency level for the inactive filmstrip items which must "
+"be between 0 to 100.."
+msgstr ""
+"あなたは0〜100の間でなければなりません非アクティブなフィルムストリップ項目の"
+"透明度レベルを設定することができます.."
+
+#: admin/views/WDPSViewSliders_wdps.php:1797
+msgid "Enable timer bar:"
+msgstr "タイマーバーを有効にします："
+
+#: admin/views/WDPSViewSliders_wdps.php:1801
+msgid ""
+"You can add a bar displaying the timing left to switching to the next slide "
+"on autoplay."
+msgstr ""
+"あなたは、自動再生で次のスライドへの切り替えに委ねタイミングを表示バーを追加"
+"することができます。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1805
+msgid "Type:"
+msgstr "タイプ："
+
+#: admin/views/WDPSViewSliders_wdps.php:1808
+msgid "Line top"
+msgstr "ライントップ"
+
+#: admin/views/WDPSViewSliders_wdps.php:1809
+msgid "Line Bottom"
+msgstr "ラインボトム"
+
+#: admin/views/WDPSViewSliders_wdps.php:1810
+msgid "Circle top left"
+msgstr "サークルは左上"
+
+#: admin/views/WDPSViewSliders_wdps.php:1811
+msgid "Circle top right"
+msgstr "サークル右上"
+
+#: admin/views/WDPSViewSliders_wdps.php:1812
+msgid "Circle bottom left"
+msgstr "サークル左下"
+
+#: admin/views/WDPSViewSliders_wdps.php:1813
+msgid "Circle bottom right"
+msgstr "サークル右下"
+
+#: admin/views/WDPSViewSliders_wdps.php:1815
+msgid "Choose the type of the timer bar to be used within the slider."
+msgstr "スライダー内で使用するタイマーバーの種類を選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1822
+msgid "Define the height of the timer bar."
+msgstr "タイマーバーの高さを定義します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1840
+msgid "Css:"
+msgstr "CSS："
+
+#: admin/views/WDPSViewSliders_wdps.php:1844
+msgid "Add custom CSS to apply custom changes to the slider."
+msgstr "スライダーにカスタム変更を適用するためにカスタムCSSを追加します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1875
+msgid "Post slider type:"
+msgstr "ポストスライダータイプ："
+
+#: admin/views/WDPSViewSliders_wdps.php:1876
+msgid "Static posts slides"
+msgstr "静的ポストスライド"
+
+#: admin/views/WDPSViewSliders_wdps.php:1877
+msgid "Dynamic posts slides"
+msgstr "ダイナミックポストスライド"
+
+#: admin/views/WDPSViewSliders_wdps.php:1918
+#: admin/views/WDPSViewSliders_wdps.php:2137
+#: admin/views/WDPSViewSliders_wdps.php:2654
+#: admin/views/WDPSViewSliders_wdps.php:2826 post-slider-wd.php:352
+msgid "Drag to re-order"
+msgstr "再ためにドラッグ"
+
+#: admin/views/WDPSViewSliders_wdps.php:1928
+msgid "Edit Slide"
+msgstr "編集スライド"
+
+#: admin/views/WDPSViewSliders_wdps.php:1928 post-slider-wd.php:361
+msgid "Edit Image"
+msgstr "画像を編集します"
+
+#: admin/views/WDPSViewSliders_wdps.php:1930 post-slider-wd.php:290
+msgid "Edit Post"
+msgstr "編集ポスト"
+
+#: admin/views/WDPSViewSliders_wdps.php:1934 post-slider-wd.php:400
+msgid "Duplicate slide"
+msgstr "スライドを複製"
+
+#: admin/views/WDPSViewSliders_wdps.php:1935
+msgid "Remove Slide"
+msgstr "スライドを削除します"
+
+#: admin/views/WDPSViewSliders_wdps.php:1935 post-slider-wd.php:401
+msgid "Delete slide"
+msgstr "スライドを削除します"
+
+#: admin/views/WDPSViewSliders_wdps.php:1949
+#: admin/views/WDPSViewSliders_wdps.php:1950
+msgid "Add Posts"
+msgstr "投稿を追加"
+
+#: admin/views/WDPSViewSliders_wdps.php:1982
+msgid "Edit Slides"
+msgstr "編集スライド"
+
+#: admin/views/WDPSViewSliders_wdps.php:1991
+msgid "Add/Edit Post"
+msgstr "/編集ポストを追加します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:1993 post-slider-wd.php:289
+msgid "Add Post"
+msgstr "投稿を追加"
+
+#: admin/views/WDPSViewSliders_wdps.php:2080
+msgid ""
+"You can set a redirection link, so that the user will get to the mentioned "
+"location upon hitting the slide.Use http:// and https:// for external links."
+msgstr ""
+"ユーザーがslide.Useはhttpを打つ時に言及した場所に取得するようにするには、リダ"
+"イレクトリンクを設定することができます：//とhttps：外部リンクのための//。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2081 post-slider-wd.php:287
+msgid "Link the slide to:"
+msgstr "スライドへのリンク："
+
+#: admin/views/WDPSViewSliders_wdps.php:2085
+#: admin/views/WDPSViewSliders_wdps.php:2268 post-slider-wd.php:365
+msgid "Open in a new window"
+msgstr "新しいウィンドウで開きます"
+
+#: admin/views/WDPSViewSliders_wdps.php:2106
+#: admin/views/WDPSViewSliders_wdps.php:2795
+msgid "Layers"
+msgstr "レイヤー"
+
+#: admin/views/WDPSViewSliders_wdps.php:2109
+#: admin/views/WDPSViewSliders_wdps.php:2798 post-slider-wd.php:285
+msgid "Add Text Layer"
+msgstr "テキストレイヤーを追加します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2112
+#: admin/views/WDPSViewSliders_wdps.php:2801 post-slider-wd.php:399
+msgid "Add Image Layer"
+msgstr "画像層を追加します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2115
+#: admin/views/WDPSViewSliders_wdps.php:2804
+msgid "Social Button Layer"
+msgstr "ソーシャルボタンのレイヤ"
+
+#: admin/views/WDPSViewSliders_wdps.php:2118
+#: admin/views/WDPSViewSliders_wdps.php:2807 post-slider-wd.php:291
+msgid "Add Hotspot Layer"
+msgstr "ホットスポットレイヤを追加します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2138
+#: admin/views/WDPSViewSliders_wdps.php:2827 post-slider-wd.php:353
+msgid "Layer title"
+msgstr "レイヤーのタイトル"
+
+#: admin/views/WDPSViewSliders_wdps.php:2141
+#: admin/views/WDPSViewSliders_wdps.php:2830
+msgid "Delete layer"
+msgstr "レイヤーを削除"
+
+#: admin/views/WDPSViewSliders_wdps.php:2142
+#: admin/views/WDPSViewSliders_wdps.php:2831 post-slider-wd.php:355
+msgid "Duplicate layer"
+msgstr "レイヤーの複製"
+
+#: admin/views/WDPSViewSliders_wdps.php:2160
+#: admin/views/WDPSViewSliders_wdps.php:2849 post-slider-wd.php:357
+msgid "Text:"
+msgstr "テキスト："
+
+#: admin/views/WDPSViewSliders_wdps.php:2187
+#: admin/views/WDPSViewSliders_wdps.php:2876 post-slider-wd.php:360
+msgid "Leave blank to keep the initial width and height."
+msgstr "初期の幅と高さを維持するために空白のままにします。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2193
+#: admin/views/WDPSViewSliders_wdps.php:2882
+msgid "Break-word"
+msgstr "ブレイクワード"
+
+#: admin/views/WDPSViewSliders_wdps.php:2197
+#: admin/views/WDPSViewSliders_wdps.php:2886 post-slider-wd.php:368
+msgid "In addition you can drag and drop the layer to a desired position."
+msgstr ""
+"また、あなたが任意の位置にレイヤーをドラッグ＆ドロップすることができます。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2225
+#: admin/views/WDPSViewSliders_wdps.php:2914 post-slider-wd.php:374
+msgid "Font family:"
+msgstr "フォントファミリー："
+
+#: admin/views/WDPSViewSliders_wdps.php:2239
+#: admin/views/WDPSViewSliders_wdps.php:2928 post-slider-wd.php:407
+msgid "Google fonts"
+msgstr "Googleのフォント"
+
+#: admin/views/WDPSViewSliders_wdps.php:2247
+#: admin/views/WDPSViewSliders_wdps.php:2936 post-slider-wd.php:375
+msgid "Font weight:"
+msgstr "フォントの重量："
+
+#: admin/views/WDPSViewSliders_wdps.php:2263 post-slider-wd.php:366
+msgid "Use http:// and https:// for external links."
+msgstr "HTTPを使用：//とhttps：//外部リンクのため。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2264 post-slider-wd.php:364
+msgid "Link:"
+msgstr "リンク："
+
+#: admin/views/WDPSViewSliders_wdps.php:2287
+#: admin/views/WDPSViewSliders_wdps.php:2968
+msgid "Effect In:"
+msgstr "実際には："
+
+#: admin/views/WDPSViewSliders_wdps.php:2292
+#: admin/views/WDPSViewSliders_wdps.php:2320
+#: admin/views/WDPSViewSliders_wdps.php:2973
+#: admin/views/WDPSViewSliders_wdps.php:3001 post-slider-wd.php:389
+msgid "Start"
+msgstr "スタート"
+
+#: admin/views/WDPSViewSliders_wdps.php:2304
+#: admin/views/WDPSViewSliders_wdps.php:2332
+#: admin/views/WDPSViewSliders_wdps.php:2985
+#: admin/views/WDPSViewSliders_wdps.php:3014 post-slider-wd.php:390
+msgid "Effect"
+msgstr "効果"
+
+#: admin/views/WDPSViewSliders_wdps.php:2308
+#: admin/views/WDPSViewSliders_wdps.php:2336
+#: admin/views/WDPSViewSliders_wdps.php:2989
+#: admin/views/WDPSViewSliders_wdps.php:3018 post-slider-wd.php:391
+msgid "Duration"
+msgstr "デュレーション"
+
+#: admin/views/WDPSViewSliders_wdps.php:2315
+#: admin/views/WDPSViewSliders_wdps.php:2996
+msgid "Effect Out:"
+msgstr "アウト効果："
+
+#: admin/views/WDPSViewSliders_wdps.php:2343
+#: admin/views/WDPSViewSliders_wdps.php:3025 post-slider-wd.php:376
+msgid "Padding:"
+msgstr "パディング："
+
+#: admin/views/WDPSViewSliders_wdps.php:2352
+#: admin/views/WDPSViewSliders_wdps.php:3034 post-slider-wd.php:379
+msgid "Background Color:"
+msgstr "背景の色："
+
+#: admin/views/WDPSViewSliders_wdps.php:2360
+#: admin/views/WDPSViewSliders_wdps.php:2365
+#: admin/views/WDPSViewSliders_wdps.php:3042
+#: admin/views/WDPSViewSliders_wdps.php:3047 post-slider-wd.php:381
+msgid "Value must be between 0 to 100."
+msgstr "値は0〜100の間でなければなりません。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2361
+#: admin/views/WDPSViewSliders_wdps.php:3043 post-slider-wd.php:380
+msgid "Transparent:"
+msgstr "トランスペアレント："
+
+#: admin/views/WDPSViewSliders_wdps.php:2389
+#: admin/views/WDPSViewSliders_wdps.php:3071 post-slider-wd.php:382
+msgid "Radius:"
+msgstr "半径："
+
+#: admin/views/WDPSViewSliders_wdps.php:2482
+msgid "Period of posts to display:"
+msgstr "ディスプレイへの投稿の期間："
+
+#: admin/views/WDPSViewSliders_wdps.php:2496
+msgid ""
+"Set the time for the posts, e.g. if set it to 24 hours it will display the "
+"posts added within the last 24 hours."
+msgstr ""
+"例えば、ポストのための時間を設定します。 24時間に設定している場合には、過去24"
+"時間以内に追加された記事を表示します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2500
+msgid "Number of posts:"
+msgstr "投稿数："
+
+#: admin/views/WDPSViewSliders_wdps.php:2503
+msgid ""
+"Set the number of posts which will be displayed as slides. If set to 0 or "
+"left empty it will display all posts."
+msgstr ""
+"スライドとして表示される記事の数を設定します。 0に設定するか、空のままにした"
+"場合は、すべての記事が表示されます。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2508
+msgid "Choose post type:"
+msgstr "ポストタイプを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2525
+msgid ""
+"Select the type for the dynamic posts, e.g. standard or custom post types."
+msgstr ""
+"例えば、動的なポストのためのタイプを選択します標準またはカスタムポストタイ"
+"プ。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2535
+msgid "Author:"
+msgstr "著者："
+
+#: admin/views/WDPSViewSliders_wdps.php:2554
+msgid "Select the author whose posts will be displayed within the slider."
+msgstr "その記事のスライダーに表示されます作成者を選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2559
+msgid "Sort posts by:"
+msgstr "並べ替え投稿者："
+
+#: admin/views/WDPSViewSliders_wdps.php:2573
+msgid ""
+"Select the option which will be used as a sorting basis while displaying "
+"posts."
+msgstr ""
+"投稿を表示しながら、ソートの基準として使用されるオプションを選択します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2577
+msgid "Order posts by:"
+msgstr "記事を、ORDER BY："
+
+#: admin/views/WDPSViewSliders_wdps.php:2579
+msgid "Ascending"
+msgstr "昇順"
+
+#: admin/views/WDPSViewSliders_wdps.php:2580
+msgid "Descending"
+msgstr "降順"
+
+#: admin/views/WDPSViewSliders_wdps.php:2581
+msgid "Set the ordering sequence for the posts- ascending or descending."
+msgstr "posts-昇順または降順の順序付けシーケンスを設定します。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2593
+msgid "Post taxonomies:"
+msgstr "ポスト分類法："
+
+#: admin/views/WDPSViewSliders_wdps.php:2644
+msgid "Slide"
+msgstr "スライド"
+
+#: admin/views/WDPSViewSliders_wdps.php:2719
+msgid ""
+"The post content will not be displayed on back end. You will see a sample "
+"background, where you can add standard and dynamic-post layers, which will "
+"be displayed over the posts on front end."
+msgstr ""
+"ポストのコンテンツは、バックエンドでは表示されません。あなたは、フロントエン"
+"ドにある支柱の上に表示され、標準および動的なポストの層を追加することができま"
+"すサンプルの背景を、表示されます。"
+
+#: admin/views/WDPSViewSliders_wdps.php:2807
+msgid "This functionality is disabled in free version."
+msgstr "この機能は、無料版では無効になっています。"
+
+#: admin/views/WDPSViewSliders_wdps.php:3196
+msgid "Enter absolute url of the image."
+msgstr "画像の絶対URLを入力します。"
+
+#: admin/views/WDPSViewUninstall_wdps.php:33
+#: admin/views/WDPSViewUninstall_wdps.php:108
+msgid "Uninstall Post Slider WD"
+msgstr "アンインストール後のスライダーWD"
+
+#: admin/views/WDPSViewUninstall_wdps.php:35
+msgid ""
+"Deactivating Post Slider WD plugin does not remove any data that may have "
+"been created. To completely remove this plugin, you can uninstall it here."
+msgstr ""
+"ポストスライダーWDのプラグインを無効にしても、作成されたデータは削除されませ"
+"ん。完全にこのプラグインを削除するには、ここでそれをアンインストールすること"
+"ができます。"
+
+#: admin/views/WDPSViewUninstall_wdps.php:38
+msgid "WARNING:"
+msgstr "警告："
+
+#: admin/views/WDPSViewUninstall_wdps.php:39
+msgid ""
+"Once uninstalled, this can't be undone. You should use a Database Backup "
+"plugin of WordPress to back up all the data first."
+msgstr ""
+"アンインストールしたら、これは元に戻すことはできません。最初にすべてのデータ"
+"をバックアップするワードプレスのデータベースのバックアップのプラグインを使用"
+"する必要があります。"
+
+#: admin/views/WDPSViewUninstall_wdps.php:42
+msgid "The following Database Tables will be deleted:"
+msgstr "次のデータベーステーブルが削除されます。"
+
+#: admin/views/WDPSViewUninstall_wdps.php:47
+msgid "Database Tables"
+msgstr "データベーステーブル"
+
+#: admin/views/WDPSViewUninstall_wdps.php:61
+msgid "Do you really want to uninstall Post Slider WD plugin?"
+msgstr "あなたは本当にポストスライダーWDプラグインをアンインストールしますか？"
+
+#: admin/views/WDPSViewUninstall_wdps.php:67
+msgid "UNINSTALL"
+msgstr "アンインストール"
+
+#: admin/views/WDPSViewUninstall_wdps.php:68
+msgid ""
+"You are About to Uninstall Post Slider WD plugin from WordPress.This Action "
+"Is Not Reversible."
+msgstr ""
+"WordPress.Thisアクションは可逆的ではないから、あなたはポストスライダーWDプラ"
+"グインをアンインストールしようとしています。"
+
+#: admin/views/WDPSViewUninstall_wdps.php:93
+msgid "The following Database Tables successfully deleted:"
+msgstr "次のデータベーステーブルが正常に削除："
+
+#: admin/views/WDPSViewUninstall_wdps.php:102
+msgid "The folder was successfully deleted."
+msgstr "フォルダが正常に削除されました。"
+
+#: admin/views/WDPSViewUninstall_wdps.php:102
+msgid "An error occurred when deleting the folder."
+msgstr "フォルダを削除するときにエラーが発生しました。"
+
+#: admin/views/WDPSViewUninstall_wdps.php:109
+msgid "Click Here"
+msgstr "ここをクリック"
+
+#: admin/views/WDPSViewUninstall_wdps.php:109
+msgid ""
+"To Finish the Uninstallation and Post Slider WD will be Deactivated "
+"Automatically."
+msgstr ""
+"アンインストールを完了するためにポストスライダーWDが自動的に無効になります。"
+
+#: admin/views/WDPSViewWDPSPosts.php:59
+msgid "Posts"
+msgstr "投稿"
+
+#: admin/views/WDPSViewWDPSPosts.php:81
+msgid ""
+"You can include only published posts with featured image. If you want to "
+"include posts without featured image into the list, disable Featured image "
+"option in Settings->Global Options."
+msgstr ""
+"あなたは機能のイメージにのみ公開の投稿を含めることができます。あなたがリスト"
+"に機能を備えた画像なしで投稿を含めたい場合は、[設定]> [グローバルオプション]"
+"のおすすめ画像オプションを無効にします。"
+
+#: admin/views/WDPSViewWDPSPosts.php:120
+msgid "-all-"
+msgstr "-all-"
+
+#: admin/views/WDPSViewWDPSPosts.php:146
+msgid "Title"
+msgstr "タイトル"
+
+#: admin/views/WDPSViewWDPSShortcode.php:34
+msgid "Post Slider WD"
+msgstr "Post Slider WD"
+
+#: admin/views/WDPSViewWDPSShortcode.php:43
+msgid "Select a Slider"
+msgstr "スライダーを選択"
+
+#: admin/views/WDPSViewWDPSShortcode.php:46
+msgid "- Select a Slider -"
+msgstr " - スライダーを選択します - "
+
+#: admin/views/WDPSViewWidgetSlideshow.php:60
+msgid "Title:"
+msgstr "タイトル："
+
+#: admin/views/WDPSViewWidgetSlideshow.php:65
+msgid "Select Slider"
+msgstr "スライダーを選択"
+
+#: framework/WDW_PS_Library.php:45
+msgid "Item Succesfully Saved."
+msgstr "項目正常に保存されました。"
+
+#: framework/WDW_PS_Library.php:63
+msgid "You can't delete default theme"
+msgstr "あなたは、デフォルトのテーマを削除することはできません"
+
+#: framework/WDW_PS_Library.php:81
+msgid "The item is successfully set as default."
+msgstr "項目が正常にデフォルトとして設定されています。"
+
+#: framework/WDW_PS_Library.php:87
+msgid "Options Succesfully Saved."
+msgstr "オプション正常に保存されました。"
+
+#: framework/WDW_PS_Library.php:117
+msgid "Ordering Succesfully Saved."
+msgstr "正常に保存されたオーダー。"
+
+#: framework/WDW_PS_Library.php:123
+msgid "A term with the name provided already exists."
+msgstr "既に提供された名前を持つ項が存在します。"
+
+#: framework/WDW_PS_Library.php:129
+msgid "Name field is required."
+msgstr "[名前]フィールドは必須です。"
+
+#: framework/WDW_PS_Library.php:135
+msgid "The slug must be unique."
+msgstr "スラグは一意でなければなりません。"
+
+#: framework/WDW_PS_Library.php:147
+msgid "You must set watermark type."
+msgstr "あなたは透かしタイプを設定する必要があります。"
+
+#: framework/WDW_PS_Library.php:154
+msgid "Settings Succesfully Reset."
+msgstr "設定が正常にリセットします。"
+
+#: framework/WDW_PS_Library.php:209
+msgid "Search"
+msgstr "検索"
+
+#: framework/WDW_PS_Library.php:210
+msgid "Reset"
+msgstr "リセット"
+
+#: framework/WDW_PS_Library.php:443
+msgid "item"
+msgstr "アイテム"
+
+#: framework/WDW_PS_Library.php:542
+#, php-format
+msgid "No %s found."
+msgstr "いいえ  %s 見つかりました。"
+
+#: frontend/views/WDPSViewSlider.php:30
+msgid "There is no slider selected or the slider was deleted."
+msgstr "何のスライダー選択するか、スライダが削除されたがありません。"
+
+#: frontend/views/WDPSViewSlider.php:47
+msgid "There are no posts  in this slider."
+msgstr "このスライダーで投稿はありません。"
+
+#: frontend/views/WDPSViewSlider.php:1829
+#: frontend/views/WDPSViewSlider.php:1894
+msgid "Pause"
+msgstr "一時停止"
+
+#: frontend/views/WDPSViewSlider.php:1862
+msgid "Play"
+msgstr "遊びます"
+
+#: post-slider-wd.php:23
+msgid "Sliders"
+msgstr "スライダー"
+
+#: post-slider-wd.php:27
+msgid "Get Pro"
+msgstr "プロゲット"
+
+#: post-slider-wd.php:28
+msgid "Featured Plugins"
+msgstr "注目のプラグイン"
+
+#: post-slider-wd.php:29
+msgid "Featured Themes"
+msgstr "注目のテーマ"
+
+#: post-slider-wd.php:30
+msgid "Uninstall"
+msgstr "アンインストール"
+
+#: post-slider-wd.php:280
+msgid "Items Succesfully Saved."
+msgstr "アイテムは正常に保存されました。"
+
+#: post-slider-wd.php:281
+msgid "Changes made in this table should be saved."
+msgstr "この表に加えられた変更は保存する必要があります。"
+
+#: post-slider-wd.php:282
+msgid "Show order column"
+msgstr "注文欄を表示"
+
+#: post-slider-wd.php:283
+msgid "You must select an image file."
+msgstr "あなたは、イメージファイルを選択する必要があります。"
+
+#: post-slider-wd.php:284
+msgid "You must select an audio file."
+msgstr "あなたは、オーディオファイルを選択する必要があります。"
+
+#: post-slider-wd.php:286
+msgid ""
+"You can set a redirection link, so that the user will get to the mentioned "
+"location upon hitting the slide.<br />Use http:// and https:// for external "
+"links."
+msgstr ""
+"。あなたは、ユーザーがスライドを打つ時に言及した場所になりますように/> <br、"
+"リダイレクトリンクを設定してHTTPを使用することができます：//とhttps：//外部リ"
+"ンクについて。"
+
+#: post-slider-wd.php:292
+msgid "Add Social Button Layer"
+msgstr "ソーシャルボタンレイヤーを追加します。"
+
+#: post-slider-wd.php:354
+msgid "Are you sure you want to delete this layer ?"
+msgstr "あなたはこのレイヤーを削除してもよろしいですか？"
+
+#: post-slider-wd.php:356
+msgid "z-index"
+msgstr "Zインデックス"
+
+#: post-slider-wd.php:358
+msgid "Sample text"
+msgstr "サンプルテキスト"
+
+#: post-slider-wd.php:362
+msgid "Alt:"
+msgstr "Altキー："
+
+#: post-slider-wd.php:363
+msgid "Set the HTML attribute specified in the IMG tag."
+msgstr "IMGタグで指定されたHTML属性を設定します。"
+
+#: post-slider-wd.php:385
+msgid "Scale:"
+msgstr "スケール："
+
+#: post-slider-wd.php:386
+msgid "Set width and height of the image."
+msgstr "画像の幅と高さを設定します。"
+
+#: post-slider-wd.php:387
+msgid "Social button:"
+msgstr "ソーシャルボタン："
+
+#: post-slider-wd.php:388
+msgid "Effect in:"
+msgstr "実際には："
+
+#: post-slider-wd.php:393
+msgid "Effect out:"
+msgstr "アウト効果："
+
+#: post-slider-wd.php:394
+msgid "Hotspot text position:"
+msgstr "ホットスポットテキストの位置："
+
+#: post-slider-wd.php:395
+msgid "Hotspot Width:"
+msgstr "ホットスポット幅："
+
+#: post-slider-wd.php:396
+msgid "Hotspot Background Color:"
+msgstr "ホットスポット背景色："
+
+#: post-slider-wd.php:397
+msgid "Hotspot Border:"
+msgstr "ホットスポットボーダー："
+
+#: post-slider-wd.php:398
+msgid "Hotspot Radius:"
+msgstr "ホットスポット半径："
+
+#: post-slider-wd.php:404
+msgid "Break-word:"
+msgstr "ブレークワードを："
+
+#: sliders-notices.php:188
+msgid "Leave A Review?"
+msgstr "レビューを残しますか？"
+
+#: sliders-notices.php:189
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"私たちは、あなたはWordPressを使用して楽しんできた願っています %s! あなたは私"
+"たちにWordPress.orgのレビューを残すことを検討しますか？"
+
+#: sliders-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "確かに！ 是非！"
+
+#: sliders-notices.php:191
+msgid "I've already left a review"
+msgstr "私はすでにレビューを残してきました"
+
+#: sliders-notices.php:192
+msgid "Maybe Later"
+msgstr "たぶん後で"
+
+#: sliders-notices.php:193 sliders-notices.php:203
+msgid "Never show again"
+msgstr "再度表示しません"
+
+#: sliders-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "ヘイ！ 調子はどう？"
+
+#: sliders-notices.php:200
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"ワードプレスをご利用いただきありがとうございます %s! ご質問があれば私たちは、"
+"あなたが必要なすべてのものを見つけたことを願って、しかし："
+
+#: sliders-notices.php:201
+msgid "Check out User Guide"
+msgstr "ユーザーガイドをご覧ください"
+
+#: sliders-notices.php:202
+msgid "Get Some Help"
+msgstr "いくつかのヘルプを取得"
+
+#~ msgid "Slider successfully imported."
+#~ msgstr "スライダーは正常にインポート。"
+
+#~ msgid "Unexpected error occurred."
+#~ msgstr "予期しないエラーが発生しました。"
+
+#~ msgid "LightSpeedOut"
+#~ msgstr "LightSpeed​​Out"
+
+#~ msgid "RollOut"
+#~ msgstr "ロールアウトする"
+
+#~ msgid "BounceOut"
+#~ msgstr "BounceOut"
+
+#~ msgid "BounceOutDown"
+#~ msgstr "BounceOutDown"
+
+#~ msgid "BounceOutLeft"
+#~ msgstr "BounceOutLeft"
+
+#~ msgid "BounceOutRight"
+#~ msgstr "BounceOutRight"
+
+#~ msgid "BounceOutUp"
+#~ msgstr "BounceOutUp"
+
+#~ msgid "FadeOut"
+#~ msgstr "フェードアウト"
+
+#~ msgid "FadeOutDown"
+#~ msgstr "FadeOutDown"
+
+#~ msgid "FadeOutDownBig"
+#~ msgstr "FadeOutDownBig"
+
+#~ msgid "FadeOutLeft"
+#~ msgstr "FadeOutLeft"
+
+#~ msgid "FadeOutLeftBig"
+#~ msgstr "FadeOutLeftBig"
+
+#~ msgid "FadeOutRight"
+#~ msgstr "FadeOutRight"
+
+#~ msgid "FadeOutRightBig"
+#~ msgstr "FadeOutRightBig"
+
+#~ msgid "FadeOutUp"
+#~ msgstr "FadeOutUp"
+
+#~ msgid "FadeOutUpBig"
+#~ msgstr "FadeOutUpBig"
+
+#~ msgid "FlipOutX"
+#~ msgstr "FlipOutX"
+
+#~ msgid "FlipOutY"
+#~ msgstr "FlipOutY"
+
+#~ msgid "RotateOut"
+#~ msgstr "RotateOut"
+
+#~ msgid "RotateOutDownLeft"
+#~ msgstr "RotateOutDownLeft"
+
+#~ msgid "RotateOutDownRight"
+#~ msgstr "RotateOutDownRight"
+
+#~ msgid "RotateOutUpLeft"
+#~ msgstr "RotateOutUpLeft"
+
+#~ msgid "RotateOutUpRight"
+#~ msgstr "RotateOutUpRight"
+
+#~ msgid "ZoomOut"
+#~ msgstr "ZoomOut"
+
+#~ msgid "ZoomOutDown"
+#~ msgstr "ZoomOutDown"
+
+#~ msgid "ZoomOutLeft"
+#~ msgstr "ZoomOutLeft"
+
+#~ msgid "ZoomOutRight"
+#~ msgstr "ZoomOutRight"
+
+#~ msgid "ZoomOutUp"
+#~ msgstr "ZoomOutUp"
+
+#~ msgid "This section allows you to add/edit post slider."
+#~ msgstr ""
+#~ "このセクションでは、あなたが/編集後のスライダーを追加することができます。"
+
+#~ msgid "Save as Copy"
+#~ msgstr "コピーとして保存"
+
+#~ msgid ""
+#~ "Select the effect which will be applied when shifting from one slider to "
+#~ "another."
+#~ msgstr "別のスライダーから移行するときに適用される効果を選択します。"
+
+#~ msgid "Previous Button"
+#~ msgstr "前ボタン"
+
+#~ msgid "Previous Button Hover"
+#~ msgstr "前ボタンのホバー"
+
+#~ msgid "Next Button"
+#~ msgstr "[次へ]ボタン"
+
+#~ msgid "Next Button Hover"
+#~ msgstr "[次へ]ボタンホバー"
+
+#~ msgid "Choose the type and color for navigation button images."
+#~ msgstr "ナビゲーションボタン画像のタイプと色を選択します。"
+
+#~ msgid "Play Button"
+#~ msgstr "再生ボタン"
+
+#~ msgid "Play Button Hover"
+#~ msgstr "ボタンのホバーを再生"
+
+#~ msgid "Pause Button"
+#~ msgstr "一時停止ボタン"
+
+#~ msgid "Pause Button Hover"
+#~ msgstr "一時停止ボタンホバー"
+
+#~ msgid "Active Button"
+#~ msgstr "アクティブボタン"
+
+#~ msgid "Deactive Button"
+#~ msgstr "非アクティブボタン"
+
+#~ msgid "Choose the type and color for the bullets."
+#~ msgstr "箇条書きのタイプと色を選択します。"
+
+#~ msgid "Select the background color for the bullet..."
+#~ msgstr "弾丸の背景色を選択..."
+
+#~ msgid "Thumbnail margin:"
+#~ msgstr "サムネイルマージン："
+
+#~ msgid "Set the margin for the thumbnails."
+#~ msgstr "サムネイルのマージンを設定します。"
+
+#~ msgid "Scale"
+#~ msgstr "目盛り"
+
+#~ msgid "Hover Color:"
+#~ msgstr "ホバーカラー："
+
+#~ msgid "Add to slider"
+#~ msgstr "スライダーに追加"
+
+#~ msgid "Post type:"
+#~ msgstr "ポストタイプ："
+
+#~ msgid "All public posts are included in the list."
+#~ msgstr "すべての公共の投稿はリストに含まれています。"
+
+#~ msgid "Featured image"
+#~ msgstr "おすすめ画像"
+
+#~ msgid "Type"
+#~ msgstr "タイプ"
+
+#~ msgid "Date created"
+#~ msgstr "作成日"
+
+#~ msgid "Date modified"
+#~ msgstr "更新日時"
+
+#~ msgid "There are no posts in this slider."
+#~ msgstr "このスライダーで投稿はありません。"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Facebookでシェア"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Twitterでシェア"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Google+でシェア"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Pinterestでシェア"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Tumblrでシェア"
+
+#~ msgid ""
+#~ "Post Slider WD is a responsive plugin, which allows adding sliders to "
+#~ "your posts/pages and to custom location."
+#~ msgstr ""
+#~ "Post Slider WD あなたの記事/ページに、カスタムの場所にスライドを追加するこ"
+#~ "とができます応答プラグインは、あります。"
+
+#~ msgid "Updates"
+#~ msgstr "アップデート"
+
+#~ msgid ""
+#~ "You can download the latest version of your plugins from your %s "
+#~ "account.\n"
+#~ "            After deactivate and delete the current version.\n"
+#~ "            Install the downloaded latest version of the plugin."
+#~ msgstr ""
+#~ "あなたは、あなたのプラグインの最新バージョンをからダウンロードすることがで"
+#~ "きます %s アカウント。\n"
+#~ "後非アクティブにし、現在のバージョンを削除します。\n"
+#~ "プラグインのダウンロード最新バージョンをインストールします。"
+
+#~ msgid "Current version %s"
+#~ msgstr "現行版 %s"
+
+#~ msgid "There is a new %s version"
+#~ msgstr "新しいがあります %s バージョン"
+
+#~ msgid "%s is up to date."
+#~ msgstr "%s 最新のものです。"
+
+#~ msgid "Dynamic post"
+#~ msgstr "ダイナミックポスト"
+
+#~ msgid "Smart Crop"
+#~ msgstr "スマートトリミング"
+
+#~ msgid "Crop Image Position"
+#~ msgstr "スマートトリミング..."
+
+#~ msgid "You can include only published posts with featured image."
+#~ msgstr "あなたは注目のイメージでのみ公開された記事を含めることができます。"
+
+#~ msgid "There are no postes in this slider."
+#~ msgstr "このスライダーにはポストスはありません。"
+
+#~ msgid "There are no slides in this slider."
+#~ msgstr "このスライダーにはスライドがありません。"
+
+#~ msgid "Slider post type:"
+#~ msgstr "スライダーポストタイプ："
+
+#~ msgid "Dynamic post slides"
+#~ msgstr "ダイナミックポストスライド"
+
+#~ msgid "Static post slides"
+#~ msgstr "静的ポストスライド"
+
+#~ msgid "Uninstall Post Slider WordPress"
+#~ msgstr "アンインストール後のスライダーのWordPress"
+
+#~ msgid ""
+#~ "Deactivating Post Slider WordPress plugin does not remove any data that "
+#~ "may have been created. To completely remove this plugin, you can "
+#~ "uninstall it here."
+#~ msgstr ""
+#~ "ポストスライダーWordPressのプラグインを無効化しても、作成されたデータは削"
+#~ "除されません。完全にこのプラグインを削除するには、ここでそれをアンインス"
+#~ "トールすることができます。"
+
+#~ msgid "Do you really want to uninstall Post Slider WordPress plugin?"
+#~ msgstr ""
+#~ "あなたは本当にポストスライダーWordPressのプラグインをアンインストールしま"
+#~ "すか？"
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "This Action Is Not Reversible."
+#~ msgstr ""
+#~ "WordPress.Thisアクションは可逆的ではないから、あなたはポストスライダー"
+#~ "WordPressのプラグインをアンインストールしようとしています。"
+
+#~ msgid ""
+#~ "To Finish the Uninstallation and Post Slider WordPress will be "
+#~ "Deactivated Automatically."
+#~ msgstr ""
+#~ "アンインストールを完了するためにポストスライダーWordPressは自動的に無効に"
+#~ "なります。"
+
+#~ msgid "Post Slider WordPress"
+#~ msgstr "Post Slider WordPress"
+
+#~ msgid "Enable Dynamic Posts:"
+#~ msgstr "ダイナミック投稿を有効にします："
+
+#~ msgid ""
+#~ "Enable this option if you want to display standard posts as slides with "
+#~ "their featured images."
+#~ msgstr ""
+#~ "あなたはそれらの機能を備えた画像をスライドのような標準的な投稿を表示したい"
+#~ "場合は、このオプションを有効にします。"
+
+#~ msgid "Added Post Autoupdate Interval:"
+#~ msgstr "追加ポスト自動更新間隔："
+
+#~ msgid "Set the number of posts which will be displayed as slides."
+#~ msgstr "スライドとして表示される記事の数を設定します。"
+
+#~ msgid "Layer Word Count:"
+#~ msgstr "ワード数層："
+
+#~ msgid ""
+#~ "This will limit the number of words for post content displayed as a layer."
+#~ msgstr ""
+#~ "これは、レイヤーとして表示ポストコンテンツの単語の数が制限されます。"
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "\\nThis Action Is Not Reversible."
+#~ msgstr ""
+#~ "あなたは、ワードプレスからの投稿スライダーWordPressのプラグインをアンイン"
+#~ "ストールしようとしています。\\\\\\\\ nこのアクションは元に戻すことはできま"
+#~ "せん。"
+
+#~ msgid "You can include only posts with featured image."
+#~ msgstr "あなたは注目の画像で投稿のみを含めることができます。"
+
+#~ msgid "Remove"
+#~ msgstr "削除"
+
+#~ msgid "Choose file (use .zip format)."
+#~ msgstr "ファイル（使用.zipファイル形式）を選択します。"
+
+#~ msgid "Еffect duration:"
+#~ msgstr "Еffect期間："
+
+#~ msgid "Select the author who’s posts will be displayed within the slider."
+#~ msgstr "ポストがスライダーに表示されます作成者を選択します。"
+
+#~ msgid "Slider name:"
+#~ msgstr "スライダー名："
+
+#~ msgid "Add slide"
+#~ msgstr "スライドを追加"
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the "
+#~ "mentioned location upon hitting the slide."
+#~ msgstr ""
+#~ "ユーザーがスライドを打つ時に言及した場所に取得するようにするには、リダイレ"
+#~ "クトリンクを設定することができます。"
+
+#~ msgid "Rob"
+#~ msgstr "ロブ"

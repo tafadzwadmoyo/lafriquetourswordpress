@@ -1,0 +1,2528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: post-slider-wd\n"
+"POT-Creation-Date: 2016-08-17 15:20+0500\n"
+"PO-Revision-Date: 2016-08-17 15:33+0500\n"
+"Last-Translator: admin < vahram@gmail.com >\n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:61
+#: admin/views/WDPSViewSliders_wdps.php:2613
+msgid "All"
+msgstr "جميع"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:613
+#: framework/WDW_PS_Library.php:141
+msgid "Changes must be saved."
+msgstr "يجب أن يتم حفظ التغييرات."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:624
+msgid "Item Succesfully Duplicated."
+msgstr "البند بنجاح المكررة."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:642
+msgid "Do you want to duplicate selected items?"
+msgstr "هل تريد تكرار العناصر المحددة؟"
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:646
+#: admin/controllers/WDPSControllerSliders_wdps.php:904
+#: admin/controllers/WDPSControllerSliders_wdps.php:946
+#: admin/controllers/WDPSControllerSliders_wdps.php:988
+#: framework/WDW_PS_Library.php:75
+msgid "You must select at least one item."
+msgstr "يجب تحديد عنصر واحد على الأقل."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:650
+msgid "Items Succesfully Duplicated."
+msgstr "بنود بنجاح المكررة."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:875
+#: framework/WDW_PS_Library.php:57
+msgid "Item Succesfully Deleted."
+msgstr "البند بنجاح محذوفة."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:878
+#: admin/controllers/WDPSControllerSliders_wdps.php:917
+#: admin/controllers/WDPSControllerSliders_wdps.php:959
+#: framework/WDW_PS_Library.php:51
+msgid "Error. Please install plugin again."
+msgstr "خطأ. الرجاء تثبيت البرنامج المساعد مرة أخرى."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:900
+#: framework/WDW_PS_Library.php:69
+msgid "Items Succesfully Deleted."
+msgstr "بنود بنجاح محذوفة."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:914
+#: framework/WDW_PS_Library.php:93
+msgid "Item Succesfully Published."
+msgstr "البند النشر بنجاح."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:942
+#: framework/WDW_PS_Library.php:99
+msgid "Items Succesfully Published."
+msgstr "المواد المنشورة بنجاح."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:956
+#: framework/WDW_PS_Library.php:105
+msgid "Item Succesfully Unpublished."
+msgstr "البند بنجاح غير منشورة."
+
+#: admin/controllers/WDPSControllerSliders_wdps.php:984
+#: framework/WDW_PS_Library.php:111
+msgid "Items Succesfully Unpublished."
+msgstr "البنود غير منشورة بنجاح."
+
+#: admin/views/WDPSViewSliders_wdps.php:34
+msgid "Post Sliders"
+msgstr "آخر المتزلجون"
+
+#: admin/views/WDPSViewSliders_wdps.php:65
+msgid "This section allows you to create, edit and delete post sliders."
+msgstr "يسمح هذا القسم لك لإنشاء وتعديل وحذف المتزلجون آخر."
+
+#: admin/views/WDPSViewSliders_wdps.php:66
+#: admin/views/WDPSViewSliders_wdps.php:560
+msgid "Read More in User Manual"
+msgstr "المزيد في دليل المستخدم"
+
+#: admin/views/WDPSViewSliders_wdps.php:80
+msgid "Add new"
+msgstr "اضف جديد"
+
+#: admin/views/WDPSViewSliders_wdps.php:83
+#: admin/views/WDPSViewSliders_wdps.php:117
+msgid "Name"
+msgstr "اسم"
+
+#: admin/views/WDPSViewSliders_wdps.php:87
+msgid "Select All"
+msgstr "اختر الكل"
+
+#: admin/views/WDPSViewSliders_wdps.php:89
+msgid "Publish"
+msgstr "نشر"
+
+#: admin/views/WDPSViewSliders_wdps.php:90
+msgid "Unpublish"
+msgstr "إلغاء النشر"
+
+#: admin/views/WDPSViewSliders_wdps.php:91
+msgid "Duplicate"
+msgstr "مكرر"
+
+#: admin/views/WDPSViewSliders_wdps.php:92
+#: admin/views/WDPSViewSliders_wdps.php:182
+msgid "Do you want to delete selected items?"
+msgstr "هل تريد حذف العناصر المحددة؟"
+
+#: admin/views/WDPSViewSliders_wdps.php:96
+#: admin/views/WDPSViewSliders_wdps.php:182
+#: admin/views/WDPSViewSliders_wdps.php:1997 post-slider-wd.php:402
+msgid "Delete"
+msgstr "حذف"
+
+#: admin/views/WDPSViewSliders_wdps.php:111
+msgid "Slider"
+msgstr "المنزلق"
+
+#: admin/views/WDPSViewSliders_wdps.php:120
+#: admin/views/WDPSViewSliders_wdps.php:617
+#: admin/views/WDPSViewSliders_wdps.php:1864
+#: admin/views/WDPSViewSliders_wdps.php:1893
+msgid "Slides"
+msgstr "الشرائح"
+
+#: admin/views/WDPSViewSliders_wdps.php:121
+msgid "Shortcode"
+msgstr "رمز قصير"
+
+#: admin/views/WDPSViewSliders_wdps.php:122
+msgid "PHP function"
+msgstr "وظيفة PHP"
+
+#: admin/views/WDPSViewSliders_wdps.php:128
+msgid "Published"
+msgstr "نشرت"
+
+#: admin/views/WDPSViewSliders_wdps.php:131
+msgid "Action"
+msgstr "حركة"
+
+#: admin/views/WDPSViewSliders_wdps.php:158
+#: admin/views/WDPSViewSliders_wdps.php:172
+msgid "Edit"
+msgstr "تحرير"
+
+#: admin/views/WDPSViewSliders_wdps.php:215
+msgid "Edit post slider "
+msgstr "تحرير آخر المنزلق "
+
+#: admin/views/WDPSViewSliders_wdps.php:215
+msgid "Create new post slider"
+msgstr "إنشاء مشاركة جديدة المنزلق"
+
+#: admin/views/WDPSViewSliders_wdps.php:238
+msgid "Publishing Date"
+msgstr "تاريخ النشر"
+
+#: admin/views/WDPSViewSliders_wdps.php:239
+msgid "Modification Date"
+msgstr "تعديل التسجيل"
+
+#: admin/views/WDPSViewSliders_wdps.php:240
+msgid "Number of Comments"
+msgstr "عدد التعليقات"
+
+#: admin/views/WDPSViewSliders_wdps.php:241
+msgid "Post Title"
+msgstr "مشاركة العنوان"
+
+#: admin/views/WDPSViewSliders_wdps.php:242
+msgid "Menu Order"
+msgstr "قائمة الترتيب"
+
+#: admin/views/WDPSViewSliders_wdps.php:243
+msgid "Author"
+msgstr "مؤلف"
+
+#: admin/views/WDPSViewSliders_wdps.php:244
+#: admin/views/WDPSViewSliders_wdps.php:359
+msgid "Random"
+msgstr "عشوائي"
+
+#: admin/views/WDPSViewSliders_wdps.php:256
+#: admin/views/WDPSViewWDPSPosts.php:123
+msgid "Select"
+msgstr "اختار"
+
+#: admin/views/WDPSViewSliders_wdps.php:257
+msgid "Hour"
+msgstr "ساعة"
+
+#: admin/views/WDPSViewSliders_wdps.php:258
+msgid "Day"
+msgstr "يوم"
+
+#: admin/views/WDPSViewSliders_wdps.php:259
+msgid "Week"
+msgstr "أسبوع"
+
+#: admin/views/WDPSViewSliders_wdps.php:260
+msgid "Month"
+msgstr "شهر"
+
+#: admin/views/WDPSViewSliders_wdps.php:263
+#: admin/views/WDPSViewSliders_wdps.php:459
+#: admin/views/WDPSViewSliders_wdps.php:1739 post-slider-wd.php:350
+msgid "Left"
+msgstr "اليسار"
+
+#: admin/views/WDPSViewSliders_wdps.php:264
+msgid "Center"
+msgstr "مركز"
+
+#: admin/views/WDPSViewSliders_wdps.php:265
+#: admin/views/WDPSViewSliders_wdps.php:461
+#: admin/views/WDPSViewSliders_wdps.php:1737 post-slider-wd.php:351
+msgid "Right"
+msgstr "الصحيح"
+
+#: admin/views/WDPSViewSliders_wdps.php:268
+#: admin/views/WDPSViewSliders_wdps.php:333
+#: admin/views/WDPSViewSliders_wdps.php:364
+#: admin/views/WDPSViewSliders_wdps.php:411 post-slider-wd.php:293
+msgid "None"
+msgstr "لا شيء"
+
+#: admin/views/WDPSViewSliders_wdps.php:269 post-slider-wd.php:335
+msgid "Solid"
+msgstr "صلب"
+
+#: admin/views/WDPSViewSliders_wdps.php:270 post-slider-wd.php:336
+msgid "Dotted"
+msgstr "منقط"
+
+#: admin/views/WDPSViewSliders_wdps.php:271 post-slider-wd.php:337
+msgid "Dashed"
+msgstr "متقطع"
+
+#: admin/views/WDPSViewSliders_wdps.php:272
+#: admin/views/WDPSViewSliders_wdps.php:281 post-slider-wd.php:338
+msgid "Double"
+msgstr "مزدوج"
+
+#: admin/views/WDPSViewSliders_wdps.php:273 post-slider-wd.php:339
+msgid "Groove"
+msgstr "أخدود"
+
+#: admin/views/WDPSViewSliders_wdps.php:274 post-slider-wd.php:340
+msgid "Ridge"
+msgstr "قمة جبل"
+
+#: admin/views/WDPSViewSliders_wdps.php:275 post-slider-wd.php:341
+msgid "Inset"
+msgstr "أقحم"
+
+#: admin/views/WDPSViewSliders_wdps.php:276 post-slider-wd.php:342
+msgid "Outset"
+msgstr "بداية"
+
+#: admin/views/WDPSViewSliders_wdps.php:279
+msgid "Chevron"
+msgstr "شارة الرتبة"
+
+#: admin/views/WDPSViewSliders_wdps.php:280
+msgid "Angle"
+msgstr "زاوية"
+
+#: admin/views/WDPSViewSliders_wdps.php:284
+msgid "Circle O"
+msgstr "دائرة O"
+
+#: admin/views/WDPSViewSliders_wdps.php:285
+msgid "Circle"
+msgstr "دائرة"
+
+#: admin/views/WDPSViewSliders_wdps.php:286
+msgid "Minus"
+msgstr "ناقص"
+
+#: admin/views/WDPSViewSliders_wdps.php:287
+msgid "Square O"
+msgstr "ساحة O"
+
+#: admin/views/WDPSViewSliders_wdps.php:288
+msgid "Square"
+msgstr "مربع"
+
+#: admin/views/WDPSViewSliders_wdps.php:320 post-slider-wd.php:332
+msgid "Lighter"
+msgstr "ولاعة"
+
+#: admin/views/WDPSViewSliders_wdps.php:321 post-slider-wd.php:333
+msgid "Normal"
+msgstr "طبيعي"
+
+#: admin/views/WDPSViewSliders_wdps.php:322 post-slider-wd.php:334
+msgid "Bold"
+msgstr "جريء"
+
+#: admin/views/WDPSViewSliders_wdps.php:325 post-slider-wd.php:343
+msgid "Facebook"
+msgstr "الفيسبوك"
+
+#: admin/views/WDPSViewSliders_wdps.php:326 post-slider-wd.php:344
+msgid "Google+"
+msgstr "في Google+"
+
+#: admin/views/WDPSViewSliders_wdps.php:327 post-slider-wd.php:345
+msgid "Twitter"
+msgstr "تغريد"
+
+#: admin/views/WDPSViewSliders_wdps.php:328 post-slider-wd.php:346
+msgid "Pinterest"
+msgstr "بينتيريست"
+
+#: admin/views/WDPSViewSliders_wdps.php:329 post-slider-wd.php:347
+msgid "Tumblr"
+msgstr "نعرفكم"
+
+#: admin/views/WDPSViewSliders_wdps.php:334
+msgid "Fade"
+msgstr "تتلاشى"
+
+#: admin/views/WDPSViewSliders_wdps.php:335
+msgid "Slice Horizontal"
+msgstr "شريحة أفقية"
+
+#: admin/views/WDPSViewSliders_wdps.php:336
+msgid "Fan"
+msgstr "مروحة"
+
+#: admin/views/WDPSViewSliders_wdps.php:337
+msgid "Scale In"
+msgstr "الحجم في"
+
+#: admin/views/WDPSViewSliders_wdps.php:338
+msgid "Zoom Fade"
+msgstr "التكبير تتلاشى"
+
+#: admin/views/WDPSViewSliders_wdps.php:339
+msgid "Parallel Slide Horizontal"
+msgstr "الشريحة موازية أفقي"
+
+#: admin/views/WDPSViewSliders_wdps.php:340
+msgid "Parallel Slide Vertical"
+msgstr "الشريحة موازية العمودي"
+
+#: admin/views/WDPSViewSliders_wdps.php:341
+msgid "Slice 3D Horizontal"
+msgstr "شريحة 3D أفقي"
+
+#: admin/views/WDPSViewSliders_wdps.php:342
+msgid "Slice 3D Vertical"
+msgstr "شريحة 3D عمودي"
+
+#: admin/views/WDPSViewSliders_wdps.php:343
+msgid "Slice 3D Horizontal Random"
+msgstr "شريحة 3D أفقي عشوائية"
+
+#: admin/views/WDPSViewSliders_wdps.php:344
+msgid "Slice 3D Vertical Random"
+msgstr "شريحة 3D عمودي عشوائي"
+
+#: admin/views/WDPSViewSliders_wdps.php:345
+msgid "Blind"
+msgstr "اعمى"
+
+#: admin/views/WDPSViewSliders_wdps.php:346
+msgid "Tiles"
+msgstr "البلاط"
+
+#: admin/views/WDPSViewSliders_wdps.php:347
+msgid "Block Scale Random"
+msgstr "كتلة مقياس عشوائية"
+
+#: admin/views/WDPSViewSliders_wdps.php:348
+msgid "Cube Horizontal"
+msgstr "مكعب أفقي"
+
+#: admin/views/WDPSViewSliders_wdps.php:349
+msgid "Cube Vertical"
+msgstr "مكعب عمودي"
+
+#: admin/views/WDPSViewSliders_wdps.php:350
+msgid "Cube Random"
+msgstr "مكعب عشوائية"
+
+#: admin/views/WDPSViewSliders_wdps.php:351
+msgid "Slice Vertical"
+msgstr "شريحة الرأسي"
+
+#: admin/views/WDPSViewSliders_wdps.php:352
+msgid "Slide Horizontal"
+msgstr "الشريحة أفقي"
+
+#: admin/views/WDPSViewSliders_wdps.php:353
+msgid "Slide Vertical"
+msgstr "الشريحة عمودي"
+
+#: admin/views/WDPSViewSliders_wdps.php:354
+msgid "Scale Out"
+msgstr "توسيع نطاق خارج"
+
+#: admin/views/WDPSViewSliders_wdps.php:355
+msgid "Block Scale"
+msgstr "كتلة مقياس"
+
+#: admin/views/WDPSViewSliders_wdps.php:356
+msgid "Kaleidoscope"
+msgstr "المشكال"
+
+#: admin/views/WDPSViewSliders_wdps.php:357
+msgid "Blind Horizontal"
+msgstr "أعمى أفقي"
+
+#: admin/views/WDPSViewSliders_wdps.php:358
+msgid "Blind Vertical"
+msgstr "الستائر الرأسية"
+
+#: admin/views/WDPSViewSliders_wdps.php:360
+msgid "3D Random"
+msgstr "3D عشوائية"
+
+#: admin/views/WDPSViewSliders_wdps.php:365
+#: admin/views/WDPSViewSliders_wdps.php:412 post-slider-wd.php:294
+msgid "Bounce"
+msgstr "وثب"
+
+#: admin/views/WDPSViewSliders_wdps.php:366
+#: admin/views/WDPSViewSliders_wdps.php:413 post-slider-wd.php:300
+msgid "Tada"
+msgstr "تادا"
+
+#: admin/views/WDPSViewSliders_wdps.php:367
+#: admin/views/WDPSViewSliders_wdps.php:414 post-slider-wd.php:306
+msgid "BounceInDown"
+msgstr "BounceInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:368
+#: admin/views/WDPSViewSliders_wdps.php:415 post-slider-wd.php:313
+msgid "FadeInLeft"
+msgstr "FadeInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:369
+#: admin/views/WDPSViewSliders_wdps.php:416 post-slider-wd.php:295
+msgid "Flash"
+msgstr "فلاش"
+
+#: admin/views/WDPSViewSliders_wdps.php:370
+#: admin/views/WDPSViewSliders_wdps.php:417 post-slider-wd.php:296
+msgid "Pulse"
+msgstr "نبض"
+
+#: admin/views/WDPSViewSliders_wdps.php:371
+#: admin/views/WDPSViewSliders_wdps.php:418 post-slider-wd.php:297
+msgid "RubberBand"
+msgstr "رابط مطاطي"
+
+#: admin/views/WDPSViewSliders_wdps.php:372
+#: admin/views/WDPSViewSliders_wdps.php:419 post-slider-wd.php:298
+msgid "Shake"
+msgstr "هزة"
+
+#: admin/views/WDPSViewSliders_wdps.php:373
+#: admin/views/WDPSViewSliders_wdps.php:420 post-slider-wd.php:299
+msgid "Swing"
+msgstr "أرجوحة"
+
+#: admin/views/WDPSViewSliders_wdps.php:374
+#: admin/views/WDPSViewSliders_wdps.php:421 post-slider-wd.php:301
+msgid "Wobble"
+msgstr "تمايل"
+
+#: admin/views/WDPSViewSliders_wdps.php:375
+#: admin/views/WDPSViewSliders_wdps.php:422 post-slider-wd.php:302
+msgid "Hinge"
+msgstr "مفصل"
+
+#: admin/views/WDPSViewSliders_wdps.php:377
+#: admin/views/WDPSViewSliders_wdps.php:424 post-slider-wd.php:303
+msgid "LightSpeedIn"
+msgstr "LightSpeedIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:378
+#: admin/views/WDPSViewSliders_wdps.php:425 post-slider-wd.php:304
+msgid "RollIn"
+msgstr "رولين"
+
+#: admin/views/WDPSViewSliders_wdps.php:380
+#: admin/views/WDPSViewSliders_wdps.php:427 post-slider-wd.php:305
+msgid "BounceIn"
+msgstr "BounceIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:381
+#: admin/views/WDPSViewSliders_wdps.php:428 post-slider-wd.php:307
+msgid "BounceInLeft"
+msgstr "BounceInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:382
+#: admin/views/WDPSViewSliders_wdps.php:429 post-slider-wd.php:308
+msgid "BounceInRight"
+msgstr "BounceInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:383
+#: admin/views/WDPSViewSliders_wdps.php:430 post-slider-wd.php:309
+msgid "BounceInUp"
+msgstr "BounceInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:385
+#: admin/views/WDPSViewSliders_wdps.php:432 post-slider-wd.php:310
+msgid "FadeIn"
+msgstr "FadeIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:386
+#: admin/views/WDPSViewSliders_wdps.php:433 post-slider-wd.php:311
+msgid "FadeInDown"
+msgstr "FadeInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:387
+#: admin/views/WDPSViewSliders_wdps.php:434 post-slider-wd.php:312
+msgid "FadeInDownBig"
+msgstr "FadeInDownBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:388
+#: admin/views/WDPSViewSliders_wdps.php:435 post-slider-wd.php:314
+msgid "FadeInLeftBig"
+msgstr "FadeInLeftBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:389
+#: admin/views/WDPSViewSliders_wdps.php:436 post-slider-wd.php:315
+msgid "FadeInRight"
+msgstr "FadeInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:390
+#: admin/views/WDPSViewSliders_wdps.php:437 post-slider-wd.php:316
+msgid "FadeInRightBig"
+msgstr "FadeInRightBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:391
+#: admin/views/WDPSViewSliders_wdps.php:438 post-slider-wd.php:317
+msgid "FadeInUp"
+msgstr "FadeInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:392
+#: admin/views/WDPSViewSliders_wdps.php:439 post-slider-wd.php:318
+msgid "FadeInUpBig"
+msgstr "FadeInUpBig"
+
+#: admin/views/WDPSViewSliders_wdps.php:394
+#: admin/views/WDPSViewSliders_wdps.php:441 post-slider-wd.php:319
+msgid "Flip"
+msgstr "قلب"
+
+#: admin/views/WDPSViewSliders_wdps.php:395
+#: admin/views/WDPSViewSliders_wdps.php:442 post-slider-wd.php:320
+msgid "FlipInX"
+msgstr "FlipInX"
+
+#: admin/views/WDPSViewSliders_wdps.php:396
+#: admin/views/WDPSViewSliders_wdps.php:443 post-slider-wd.php:321
+msgid "FlipInY"
+msgstr "FlipInY"
+
+#: admin/views/WDPSViewSliders_wdps.php:398
+#: admin/views/WDPSViewSliders_wdps.php:445 post-slider-wd.php:322
+msgid "RotateIn"
+msgstr "RotateIn"
+
+#: admin/views/WDPSViewSliders_wdps.php:399
+#: admin/views/WDPSViewSliders_wdps.php:446 post-slider-wd.php:323
+msgid "RotateInDownLeft"
+msgstr "RotateInDownLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:400
+#: admin/views/WDPSViewSliders_wdps.php:447 post-slider-wd.php:324
+msgid "RotateInDownRight"
+msgstr "RotateInDownRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:401
+#: admin/views/WDPSViewSliders_wdps.php:448 post-slider-wd.php:325
+msgid "RotateInUpLeft"
+msgstr "RotateInUpLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:402
+#: admin/views/WDPSViewSliders_wdps.php:449 post-slider-wd.php:326
+msgid "RotateInUpRight"
+msgstr "RotateInUpRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:404
+#: admin/views/WDPSViewSliders_wdps.php:451 post-slider-wd.php:327
+msgid "ZoomIn"
+msgstr "تقريب"
+
+#: admin/views/WDPSViewSliders_wdps.php:405
+#: admin/views/WDPSViewSliders_wdps.php:452 post-slider-wd.php:328
+msgid "ZoomInDown"
+msgstr "ZoomInDown"
+
+#: admin/views/WDPSViewSliders_wdps.php:406
+#: admin/views/WDPSViewSliders_wdps.php:453 post-slider-wd.php:329
+msgid "ZoomInLeft"
+msgstr "ZoomInLeft"
+
+#: admin/views/WDPSViewSliders_wdps.php:407
+#: admin/views/WDPSViewSliders_wdps.php:454 post-slider-wd.php:330
+msgid "ZoomInRight"
+msgstr "ZoomInRight"
+
+#: admin/views/WDPSViewSliders_wdps.php:408
+#: admin/views/WDPSViewSliders_wdps.php:455 post-slider-wd.php:331
+msgid "ZoomInUp"
+msgstr "ZoomInUp"
+
+#: admin/views/WDPSViewSliders_wdps.php:458
+#: admin/views/WDPSViewSliders_wdps.php:1482
+#: admin/views/WDPSViewSliders_wdps.php:1736 post-slider-wd.php:348
+msgid "Top"
+msgstr "أعلى"
+
+#: admin/views/WDPSViewSliders_wdps.php:460
+#: admin/views/WDPSViewSliders_wdps.php:1483
+#: admin/views/WDPSViewSliders_wdps.php:1738 post-slider-wd.php:349
+msgid "Bottom"
+msgstr "أسفل"
+
+#: admin/views/WDPSViewSliders_wdps.php:467
+msgid "Some options are disabled in free version."
+msgstr "تم تعطيل بعض الخيارات في نسخة مجانية."
+
+#: admin/views/WDPSViewSliders_wdps.php:468
+msgid "This option is disabled in free version."
+msgstr "تم تعطيل هذا الخيار في نسخة مجانية."
+
+#: admin/views/WDPSViewSliders_wdps.php:559
+msgid "This section allows you to add/edit slider."
+msgstr "هذا القسم يسمح لك لإضافة / تحرير المنزلق."
+
+#: admin/views/WDPSViewSliders_wdps.php:574
+msgid "Slider Title:"
+msgstr "المنزلق العنوان:"
+
+#: admin/views/WDPSViewSliders_wdps.php:581
+msgid "Save"
+msgstr "حفظ"
+
+#: admin/views/WDPSViewSliders_wdps.php:586
+msgid "Apply"
+msgstr "تطبيق"
+
+#: admin/views/WDPSViewSliders_wdps.php:591
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: admin/views/WDPSViewSliders_wdps.php:600
+msgid "Reset Settings"
+msgstr "اعادة الضبط"
+
+#: admin/views/WDPSViewSliders_wdps.php:612
+#: admin/views/WDPSViewSliders_wdps.php:1859
+msgid "Settings"
+msgstr "إعدادات"
+
+#: admin/views/WDPSViewSliders_wdps.php:630
+msgid "Global"
+msgstr "عالمي"
+
+#: admin/views/WDPSViewSliders_wdps.php:633
+msgid "Carousel"
+msgstr "دائري"
+
+#: admin/views/WDPSViewSliders_wdps.php:636
+msgid "Navigation"
+msgstr "ملاحة"
+
+#: admin/views/WDPSViewSliders_wdps.php:639
+msgid "Bullets"
+msgstr "الرصاص"
+
+#: admin/views/WDPSViewSliders_wdps.php:642
+msgid "Filmstrip"
+msgstr "مقطع سينمائي"
+
+#: admin/views/WDPSViewSliders_wdps.php:645
+msgid "Timer bar"
+msgstr "شريط الموقت"
+
+#: admin/views/WDPSViewSliders_wdps.php:649
+msgid "CSS"
+msgstr "CSS"
+
+#: admin/views/WDPSViewSliders_wdps.php:658
+#: admin/views/WDPSViewSliders_wdps.php:2188
+#: admin/views/WDPSViewSliders_wdps.php:2877 post-slider-wd.php:359
+msgid "Dimensions:"
+msgstr "أبعاد:"
+
+#: admin/views/WDPSViewSliders_wdps.php:662
+msgid "Maximum width and height for slider."
+msgstr "الحد الأقصى العرض والارتفاع عن التمرير."
+
+#: admin/views/WDPSViewSliders_wdps.php:666
+msgid "Full width:"
+msgstr "العرض الكامل:"
+
+#: admin/views/WDPSViewSliders_wdps.php:668
+#: admin/views/WDPSViewSliders_wdps.php:685
+#: admin/views/WDPSViewSliders_wdps.php:721
+#: admin/views/WDPSViewSliders_wdps.php:768
+#: admin/views/WDPSViewSliders_wdps.php:776
+#: admin/views/WDPSViewSliders_wdps.php:791
+#: admin/views/WDPSViewSliders_wdps.php:799
+#: admin/views/WDPSViewSliders_wdps.php:814
+#: admin/views/WDPSViewSliders_wdps.php:832
+#: admin/views/WDPSViewSliders_wdps.php:888
+#: admin/views/WDPSViewSliders_wdps.php:898
+#: admin/views/WDPSViewSliders_wdps.php:924
+#: admin/views/WDPSViewSliders_wdps.php:943
+#: admin/views/WDPSViewSliders_wdps.php:966
+#: admin/views/WDPSViewSliders_wdps.php:1010
+#: admin/views/WDPSViewSliders_wdps.php:1234
+#: admin/views/WDPSViewSliders_wdps.php:1473
+#: admin/views/WDPSViewSliders_wdps.php:1727
+#: admin/views/WDPSViewSliders_wdps.php:1799
+#: admin/views/WDPSViewSliders_wdps.php:2072
+#: admin/views/WDPSViewSliders_wdps.php:2277
+#: admin/views/WDPSViewSliders_wdps.php:2958
+#: admin/views/WDPSViewUninstall_wdps.php:64 post-slider-wd.php:370
+msgid "Yes"
+msgstr "نعم فعلا"
+
+#: admin/views/WDPSViewSliders_wdps.php:669
+#: admin/views/WDPSViewSliders_wdps.php:686
+#: admin/views/WDPSViewSliders_wdps.php:722
+#: admin/views/WDPSViewSliders_wdps.php:769
+#: admin/views/WDPSViewSliders_wdps.php:777
+#: admin/views/WDPSViewSliders_wdps.php:792
+#: admin/views/WDPSViewSliders_wdps.php:800
+#: admin/views/WDPSViewSliders_wdps.php:815
+#: admin/views/WDPSViewSliders_wdps.php:833
+#: admin/views/WDPSViewSliders_wdps.php:889
+#: admin/views/WDPSViewSliders_wdps.php:899
+#: admin/views/WDPSViewSliders_wdps.php:925
+#: admin/views/WDPSViewSliders_wdps.php:944
+#: admin/views/WDPSViewSliders_wdps.php:967
+#: admin/views/WDPSViewSliders_wdps.php:1011
+#: admin/views/WDPSViewSliders_wdps.php:1235
+#: admin/views/WDPSViewSliders_wdps.php:1474
+#: admin/views/WDPSViewSliders_wdps.php:1728
+#: admin/views/WDPSViewSliders_wdps.php:1800
+#: admin/views/WDPSViewSliders_wdps.php:2073
+#: admin/views/WDPSViewSliders_wdps.php:2279
+#: admin/views/WDPSViewSliders_wdps.php:2960 post-slider-wd.php:371
+msgid "No"
+msgstr "لا"
+
+#: admin/views/WDPSViewSliders_wdps.php:670
+msgid "Ratio"
+msgstr "نسبة"
+
+#: admin/views/WDPSViewSliders_wdps.php:671
+msgid ""
+"The image will stretch to the page width, taking the height based on "
+"dimensions ratio."
+msgstr "فإن الصورة تمتد إلى عرض الصفحة، مع الارتفاع على أساس نسبة الأبعاد."
+
+#: admin/views/WDPSViewSliders_wdps.php:675
+msgid "Background fit:"
+msgstr "الخلفية صالح:"
+
+#: admin/views/WDPSViewSliders_wdps.php:677
+msgid "Cover"
+msgstr "غطاء"
+
+#: admin/views/WDPSViewSliders_wdps.php:678
+msgid "Fill"
+msgstr "شغل"
+
+#: admin/views/WDPSViewSliders_wdps.php:679
+msgid "Contain"
+msgstr "يحتوي"
+
+#: admin/views/WDPSViewSliders_wdps.php:683
+msgid "Smart Crop:"
+msgstr "المحاصيل الذكية:"
+
+#: admin/views/WDPSViewSliders_wdps.php:692
+msgid "Crop Image Position:"
+msgstr "المحاصيل صورة الوظيفة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:727
+msgid "Align:"
+msgstr "محاذاة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:738
+msgid "Set the alignment of the slider."
+msgstr "ضبط المحاذاة من شريط التمرير."
+
+#: admin/views/WDPSViewSliders_wdps.php:743
+msgid "Effect:"
+msgstr "تأثير:"
+
+#: admin/views/WDPSViewSliders_wdps.php:755
+#: admin/views/WDPSViewSliders_wdps.php:2310
+#: admin/views/WDPSViewSliders_wdps.php:2338
+#: admin/views/WDPSViewSliders_wdps.php:2991
+#: admin/views/WDPSViewSliders_wdps.php:3005
+#: admin/views/WDPSViewSliders_wdps.php:3020 post-slider-wd.php:392
+msgid "Some effects are disabled in free version."
+msgstr "وتعطيل بعض التأثيرات في النسخة المجانية."
+
+#: admin/views/WDPSViewSliders_wdps.php:759
+msgid "Effect duration:"
+msgstr "مدة التنفيذ:"
+
+#: admin/views/WDPSViewSliders_wdps.php:762
+msgid "Define the time for the effect."
+msgstr "تحديد الوقت المناسب للتأثير."
+
+#: admin/views/WDPSViewSliders_wdps.php:766
+msgid "Parallax Effect:"
+msgstr "المنظر تأثير:"
+
+#: admin/views/WDPSViewSliders_wdps.php:770
+msgid ""
+"The direction of the movement, as well as the layer moving pace depend on "
+"the z-index value."
+msgstr "اتجاه الحركة، وكذلك وتيرة طبقة تتحرك تعتمد على قيمة ض مؤشر."
+
+#: admin/views/WDPSViewSliders_wdps.php:774
+msgid "Autoplay:"
+msgstr "تشغيل تلقائي:"
+
+#: admin/views/WDPSViewSliders_wdps.php:778
+msgid "Choose whether to autoplay the sliders or not."
+msgstr "اختيار ما إذا كان التشغيل التلقائي المتزلجون أم لا."
+
+#: admin/views/WDPSViewSliders_wdps.php:782
+msgid "Time Interval:"
+msgstr "الفاصل الزمني:"
+
+#: admin/views/WDPSViewSliders_wdps.php:784
+msgid "sec."
+msgstr "ثانية."
+
+#: admin/views/WDPSViewSliders_wdps.php:785
+msgid ""
+"Set the time interval for the change of the sliders when autoplay is on."
+msgstr ""
+"تعيين الفاصل الزمني لتغيير المتزلجون عند التشغيل التلقائي في وضع التشغيل."
+
+#: admin/views/WDPSViewSliders_wdps.php:789
+msgid "Stop on hover:"
+msgstr "وقف على التحويم:"
+
+#: admin/views/WDPSViewSliders_wdps.php:793
+msgid "The option works when autoplay is on."
+msgstr "يعمل الخيار عند التشغيل التلقائي في وضع التشغيل."
+
+#: admin/views/WDPSViewSliders_wdps.php:797
+msgid "Shuffle:"
+msgstr "المراوغة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:801
+msgid ""
+"Choose whether to have the slides change in a random manner or to keep the "
+"original sequence."
+msgstr ""
+"اختيار ما إذا كان لديها الشرائح تتغير بطريقة عشوائية أو للحفاظ على التسلسل "
+"الأصلي."
+
+#: admin/views/WDPSViewSliders_wdps.php:805
+msgid "Start with slide:"
+msgstr "تبدأ مع شريحة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:808
+msgid ""
+"The slider will start with the specified slide. You can use the value 0 for "
+"random."
+msgstr ""
+"وسيبدأ شريط التمرير مع الشريحة المحددة. يمكنك استخدام قيمة 0 للعشوائية."
+
+#: admin/views/WDPSViewSliders_wdps.php:812
+msgid "Music:"
+msgstr "الموسيقى:"
+
+#: admin/views/WDPSViewSliders_wdps.php:816
+msgid ""
+"Choose whether to have music/audio track playback with the slider or not."
+msgstr ""
+"اختيار ما إذا كان لديها تشغيل الموسيقى / المسار الصوتي مع المنزلق أو لا."
+
+#: admin/views/WDPSViewSliders_wdps.php:821
+msgid "Music url:"
+msgstr "الموسيقى رابط:"
+
+#: admin/views/WDPSViewSliders_wdps.php:826
+msgid "Only .aac,.m4a,.f4a,.mp3,.ogg,.oga formats are supported."
+msgstr ".aac فقط، معتمدة .m4a، .f4a أو .mp3 .ogg، صيغ .oga."
+
+#: admin/views/WDPSViewSliders_wdps.php:830
+msgid "Smart Load:"
+msgstr "تحميل الذكية:"
+
+#: admin/views/WDPSViewSliders_wdps.php:834
+msgid ""
+"Choose to have faster load for the first few images and process the rest "
+"meanwhile."
+msgstr ""
+"اخترت أن يكون تحميل أسرع للصور القليلة الأولى، ومعالجة ما تبقى في الوقت نفسه."
+
+#: admin/views/WDPSViewSliders_wdps.php:838
+#: admin/views/WDPSViewSliders_wdps.php:1457
+#: admin/views/WDPSViewSliders_wdps.php:1693
+#: admin/views/WDPSViewSliders_wdps.php:1753
+msgid "Background color:"
+msgstr "لون الخلفية:"
+
+#: admin/views/WDPSViewSliders_wdps.php:842
+#: admin/views/WDPSViewSliders_wdps.php:1461
+#: admin/views/WDPSViewSliders_wdps.php:1830
+msgid "Transparency value must be between 0 to 100."
+msgstr "يجب أن تكون قيمة الشفافية بين 0-100."
+
+#: admin/views/WDPSViewSliders_wdps.php:846
+#: admin/views/WDPSViewSliders_wdps.php:1433
+#: admin/views/WDPSViewSliders_wdps.php:2370
+#: admin/views/WDPSViewSliders_wdps.php:3052 post-slider-wd.php:403
+msgid "Border:"
+msgstr "الحدود:"
+
+#: admin/views/WDPSViewSliders_wdps.php:859
+msgid "Set the border width, type and the color."
+msgstr "تعيين الحدود العرض ونوع ولون."
+
+#: admin/views/WDPSViewSliders_wdps.php:863
+#: admin/views/WDPSViewSliders_wdps.php:1450
+#: admin/views/WDPSViewSliders_wdps.php:1700
+msgid "Border radius:"
+msgstr "دائرة نصف قطرها الحدود:"
+
+#: admin/views/WDPSViewSliders_wdps.php:866
+#: admin/views/WDPSViewSliders_wdps.php:1453
+#: admin/views/WDPSViewSliders_wdps.php:1703
+#: admin/views/WDPSViewSliders_wdps.php:2342
+#: admin/views/WDPSViewSliders_wdps.php:2347
+#: admin/views/WDPSViewSliders_wdps.php:2388
+#: admin/views/WDPSViewSliders_wdps.php:2393
+#: admin/views/WDPSViewSliders_wdps.php:3024
+#: admin/views/WDPSViewSliders_wdps.php:3029
+#: admin/views/WDPSViewSliders_wdps.php:3070
+#: admin/views/WDPSViewSliders_wdps.php:3075 post-slider-wd.php:377
+msgid "Use CSS type values."
+msgstr "استخدام قيم نوع CSS."
+
+#: admin/views/WDPSViewSliders_wdps.php:870
+#: admin/views/WDPSViewSliders_wdps.php:1707
+msgid "Margin:"
+msgstr "هامش:"
+
+#: admin/views/WDPSViewSliders_wdps.php:873
+msgid "Set a margin for the slider."
+msgstr "وضع هامش للالمنزلق."
+
+#: admin/views/WDPSViewSliders_wdps.php:877
+#: admin/views/WDPSViewSliders_wdps.php:2398
+#: admin/views/WDPSViewSliders_wdps.php:3080 post-slider-wd.php:383
+msgid "Shadow:"
+msgstr "ظل:"
+
+#: admin/views/WDPSViewSliders_wdps.php:880
+#: admin/views/WDPSViewSliders_wdps.php:2397
+#: admin/views/WDPSViewSliders_wdps.php:2402
+#: admin/views/WDPSViewSliders_wdps.php:3079
+#: admin/views/WDPSViewSliders_wdps.php:3084
+msgid "Use CSS type values (e.g. 10px 10px 5px #888888)."
+msgstr "قيم نوع استخدام CSS (مثل 10px 10px 5px # 888888)."
+
+#: admin/views/WDPSViewSliders_wdps.php:885
+msgid "Right click protection:"
+msgstr "انقر بزر الماوس الأيمن الحماية:"
+
+#: admin/views/WDPSViewSliders_wdps.php:890
+msgid "Disable image right click possibility."
+msgstr "صورة تعطيل انقر بزر الماوس الأيمن الاحتمال."
+
+#: admin/views/WDPSViewSliders_wdps.php:895
+msgid "Layer out on next:"
+msgstr "طبقة من على التالي:"
+
+#: admin/views/WDPSViewSliders_wdps.php:900
+msgid ""
+"Choose whether to have the layer effect out regardless of the timing between "
+"the hit to the next slider or skip the effect out and get to the next image."
+msgstr ""
+"اختيار ما إذا كان لديها تأثير طبقة من بغض النظر عن التوقيت بين ضرب على "
+"التمرير المقبل أو تخطي التأثير خارج والحصول على الصورة التالية."
+
+#: admin/views/WDPSViewSliders_wdps.php:904
+#: admin/views/WDPSViewSliders_wdps.php:2407
+#: admin/views/WDPSViewSliders_wdps.php:3089 post-slider-wd.php:384
+msgid "Text layer character limit:"
+msgstr "النص عدد الأحرف المسموح طبقة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:907
+#: admin/views/WDPSViewSliders_wdps.php:2406
+#: admin/views/WDPSViewSliders_wdps.php:2411
+#: admin/views/WDPSViewSliders_wdps.php:3088
+#: admin/views/WDPSViewSliders_wdps.php:3093 post-slider-wd.php:378
+msgid ""
+"This will limit the number of characters for post content displayed as a "
+"text layer."
+msgstr "هذا وسوف تحد من عدد الأحرف للمحتوى آخر يظهر على شكل طبقة النص."
+
+#: admin/views/WDPSViewSliders_wdps.php:911
+msgid "Add font-family:"
+msgstr "إضافة الخط بين أفراد الأسرة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:916
+msgid "Add to Google fonts"
+msgstr "إضافة إلى الخطوط جوجل"
+
+#: admin/views/WDPSViewSliders_wdps.php:917
+msgid "Add font-family"
+msgstr "إضافة الخط بين أفراد الأسرة"
+
+#: admin/views/WDPSViewSliders_wdps.php:918
+msgid "The added font family will appear in the drop-down list of fonts."
+msgstr "سوف تظهر عائلة الخط المضافة في القائمة المنسدلة من الخطوط."
+
+#: admin/views/WDPSViewSliders_wdps.php:922
+#: admin/views/WDPSViewSliders_wdps.php:2070
+#: admin/views/WDPSViewSliders_wdps.php:2273
+#: admin/views/WDPSViewSliders_wdps.php:2954 post-slider-wd.php:288
+#: post-slider-wd.php:369
+msgid "Published:"
+msgstr "نشرت:"
+
+#: admin/views/WDPSViewSliders_wdps.php:926
+msgid "Choose whether to publish the mentioned slider or not."
+msgstr "اختيار ما إذا كنت تريد نشر شريط التمرير المذكورة أم لا."
+
+#: admin/views/WDPSViewSliders_wdps.php:937
+msgid "Carousel is disabled in free version."
+msgstr "تم تعطيل دائري في نسخة مجانية."
+
+#: admin/views/WDPSViewSliders_wdps.php:941
+msgid "Carousel:"
+msgstr "دائري:"
+
+#: admin/views/WDPSViewSliders_wdps.php:945
+msgid ""
+"If you activate this feature the effects you had chosen in Global settings "
+"for your slider will not play."
+msgstr ""
+"إذا قمت بتفعيل هذه الميزة الآثار قد اخترت في إعدادات العالمية لسوف المنزلق "
+"الخاص بك لن يلعب."
+
+#: admin/views/WDPSViewSliders_wdps.php:950
+msgid "Number of images for carousel:"
+msgstr "عدد من الصور للدائري:"
+
+#: admin/views/WDPSViewSliders_wdps.php:957
+msgid "Carousel image ratio:"
+msgstr "دائري نسبة الصورة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:960
+msgid "The value must be between 0 and 1."
+msgstr "يجب أن تكون القيمة بين 0 و 1."
+
+#: admin/views/WDPSViewSliders_wdps.php:964
+msgid "Container fit:"
+msgstr "تناسب الحاويات:"
+
+#: admin/views/WDPSViewSliders_wdps.php:972
+msgid "Fixed width:"
+msgstr "عرض ثابت:"
+
+#: admin/views/WDPSViewSliders_wdps.php:979
+msgid "Background image angle:"
+msgstr "خلفية زاوية الصورة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:986
+msgid "Background image grayscale:"
+msgstr "صورة الخلفية الرمادي:"
+
+#: admin/views/WDPSViewSliders_wdps.php:989
+msgid ""
+"You can change the color scheme for background images to grayscale. Values "
+"must be between 0 to 100."
+msgstr ""
+"يمكنك تغيير نظام الألوان للصور الخلفية إلى تدرج الرمادي. يجب أن تكون القيم "
+"بين 0 إلى 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:993
+msgid "Background image transparency:"
+msgstr "خلفية الصورة شفافية:"
+
+#: admin/views/WDPSViewSliders_wdps.php:996
+msgid ""
+"You can set transparency level for background images. Values should be "
+"between 0 to 100."
+msgstr ""
+"يمكنك تعيين مستوى الشفافية للصور الخلفية. يجب أن تكون القيم بين 0 إلى 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:1007
+msgid "Next / Previous buttons:"
+msgstr "القادمة أزرار / السابقة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1012
+msgid "Choose whether to display Previous and Next buttons or not."
+msgstr "اختيار ما إذا كان لعرض أزرار السابق والتالي أم لا."
+
+#: admin/views/WDPSViewSliders_wdps.php:1017
+msgid "Show Navigation buttons:"
+msgstr "تظهر أزرار التنقل:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1020
+msgid "On hover"
+msgstr "على التحويم"
+
+#: admin/views/WDPSViewSliders_wdps.php:1021
+msgid "Always"
+msgstr "دائما"
+
+#: admin/views/WDPSViewSliders_wdps.php:1022
+msgid ""
+"Select between the option of always displaying the navigation buttons or "
+"only when hovered."
+msgstr "الاختيار بين خيار عرض دائما أزرار التنقل أو فقط عندما حامت."
+
+#: admin/views/WDPSViewSliders_wdps.php:1027
+msgid "Image for Next / Previous buttons:"
+msgstr "صورة لأزرار التالية / السابقة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1030
+#: admin/views/WDPSViewSliders_wdps.php:1246
+#: admin/views/WDPSViewSliders_wdps.php:1493
+#: admin/views/WDPSViewSliders_wdps.php:2241
+#: admin/views/WDPSViewSliders_wdps.php:2930 post-slider-wd.php:406
+msgid "Default"
+msgstr "افتراضي"
+
+#: admin/views/WDPSViewSliders_wdps.php:1031
+#: admin/views/WDPSViewSliders_wdps.php:1191
+#: admin/views/WDPSViewSliders_wdps.php:1247
+#: admin/views/WDPSViewSliders_wdps.php:1381
+#: admin/views/WDPSViewSliders_wdps.php:1494
+#: admin/views/WDPSViewSliders_wdps.php:1636
+msgid "Custom"
+msgstr "عرف"
+
+#: admin/views/WDPSViewSliders_wdps.php:1032
+#: admin/views/WDPSViewSliders_wdps.php:1248
+#: admin/views/WDPSViewSliders_wdps.php:1495
+msgid "Styled"
+msgstr "نصب"
+
+#: admin/views/WDPSViewSliders_wdps.php:1037
+msgid ""
+"Choose whether to use default navigation buttons or to upload custom ones."
+msgstr ""
+"اختيار ما إذا كنت تريد استخدام أزرار التنقل الافتراضي أو لتحميل تلك المخصصة."
+
+#: admin/views/WDPSViewSliders_wdps.php:1044
+msgid "Next / Previous buttons style:"
+msgstr "التالي / السابق أزرار النمط:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1063
+msgid ""
+"Choose the style of the button you prefer to have as navigation buttons."
+msgstr "اختيار نمط من الزر الذي يفضل أن يكون على شكل أزرار التنقل."
+
+#: admin/views/WDPSViewSliders_wdps.php:1068
+#: admin/views/WDPSViewSliders_wdps.php:1269
+#: admin/views/WDPSViewSliders_wdps.php:1586
+msgid "Upload buttons images:"
+msgstr "تحميل أزرار الصور:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1089
+#: admin/views/WDPSViewSliders_wdps.php:1216
+#: admin/views/WDPSViewSliders_wdps.php:1288
+#: admin/views/WDPSViewSliders_wdps.php:1405
+#: admin/views/WDPSViewSliders_wdps.php:1601
+#: admin/views/WDPSViewSliders_wdps.php:1658
+msgid "Reverse"
+msgstr "الاتجاه المعاكس"
+
+#: admin/views/WDPSViewSliders_wdps.php:1152
+#: admin/views/WDPSViewSliders_wdps.php:1343
+#: admin/views/WDPSViewSliders_wdps.php:1578
+msgid " is not a directory."
+msgstr "ليس دليلا."
+
+#: admin/views/WDPSViewSliders_wdps.php:1161
+#: admin/views/WDPSViewSliders_wdps.php:1351
+msgid "Choose buttons:"
+msgstr "اختيار أزرار:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1168
+#: admin/views/WDPSViewSliders_wdps.php:1358
+#: admin/views/WDPSViewSliders_wdps.php:1615
+msgid "Choose group"
+msgstr "اختيار مجموعة"
+
+#: admin/views/WDPSViewSliders_wdps.php:1201
+#: admin/views/WDPSViewSliders_wdps.php:1646
+msgid "Choose color"
+msgstr "اختيار اللون"
+
+#: admin/views/WDPSViewSliders_wdps.php:1219
+#: admin/views/WDPSViewSliders_wdps.php:1408
+msgid ""
+"Choose the type and color for navigation button images. The option is "
+"designed for limited preview (colors not included) purposes and can't be "
+"saved."
+msgstr ""
+"اختيار نوع ولون للصور زر التنقل. تم تصميم الخيار لمعاينة محدودة (ألوان غير "
+"المدرجة) أغراض ولا يمكن حفظها."
+
+#: admin/views/WDPSViewSliders_wdps.php:1223
+msgid "Next / Previous buttons size:"
+msgstr "التالي / السابق أزرار حجم:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1226
+msgid "Set the size for the next / previous buttons."
+msgstr "تعيين حجم الأزرار التالية / السابقة."
+
+#: admin/views/WDPSViewSliders_wdps.php:1231
+msgid "Play / Pause button:"
+msgstr "لعب / زر وقفة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1236
+msgid "Choose whether to display Play and Pause buttons or not."
+msgstr "اختيار ما إذا كان عرض مسرحية وقفة أزرار أو لا."
+
+#: admin/views/WDPSViewSliders_wdps.php:1243
+msgid "Image for Play / Pause buttons:"
+msgstr "صورة لأزرار تشغيل / إيقاف مؤقت:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1253
+msgid ""
+"Choose whether to use default play/pause buttons or to upload custom ones."
+msgstr ""
+"اختيار ما إذا كنت تريد استخدام اللعب الافتراضي / وقفة أزرار أو لتحميل تلك "
+"المخصصة."
+
+#: admin/views/WDPSViewSliders_wdps.php:1259
+msgid "Play / Pause buttons style:"
+msgstr "لعب / وقفة أزرار نمط:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1412
+msgid "Play / Pause button size:"
+msgstr "تلعب حجم / زر وقفة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1415
+msgid "Set the size for the play / pause buttons."
+msgstr "ضبط حجم لأزرار التشغيل / الإيقاف المؤقت."
+
+#: admin/views/WDPSViewSliders_wdps.php:1419
+msgid "Buttons color:"
+msgstr "أزرار اللون:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1422
+msgid "Select a color for the navigation buttons."
+msgstr "تحديد لون أزرار التنقل."
+
+#: admin/views/WDPSViewSliders_wdps.php:1426 post-slider-wd.php:405
+msgid "Hover color:"
+msgstr "تحوم اللون:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1429
+msgid "Select a hover color for the navigation buttons."
+msgstr "اختيار اللون تحوم لأزرار التنقل."
+
+#: admin/views/WDPSViewSliders_wdps.php:1446
+msgid ""
+"Select the type, size and the color of border for the navigation buttons."
+msgstr "تحديد نوع وحجم ولون الحدود لأزرار التنقل."
+
+#: admin/views/WDPSViewSliders_wdps.php:1471
+msgid "Enable bullets:"
+msgstr "تمكين الرصاص:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1475
+msgid "Choose whether to have navigation bullets or not."
+msgstr "اختيار ما إذا كان لديها الرصاص الملاحة أم لا."
+
+#: admin/views/WDPSViewSliders_wdps.php:1479
+#: admin/views/WDPSViewSliders_wdps.php:1733
+#: admin/views/WDPSViewSliders_wdps.php:2198
+#: admin/views/WDPSViewSliders_wdps.php:2887 post-slider-wd.php:367
+msgid "Position:"
+msgstr "موضع:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1485
+msgid "Select the position for the navigation bullets."
+msgstr "حدد هذا المنصب لمدة الرصاص الملاحة."
+
+#: admin/views/WDPSViewSliders_wdps.php:1490
+msgid "Image for bullets:"
+msgstr "صورة للرصاص:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1496
+msgid "Text"
+msgstr "نص"
+
+#: admin/views/WDPSViewSliders_wdps.php:1499
+msgid "Choose whether to use default or styled bullets."
+msgstr "اختيار ما إذا كنت تريد استخدام الافتراضي أو الرصاص نصب."
+
+#: admin/views/WDPSViewSliders_wdps.php:1506
+msgid "Bullet style:"
+msgstr "نمط التعداد النقطي:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1525
+msgid "Choose the style for the bullets."
+msgstr "اختيار نمط للالرصاص."
+
+#: admin/views/WDPSViewSliders_wdps.php:1608
+msgid "Chooes buttons:"
+msgstr "Chooes أزرار:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1661
+msgid ""
+"Choose the type and color for the bullets. The option is designed for "
+"limited preview (colors not included) purposes and can't be saved."
+msgstr ""
+"اختيار نوع ولون الرصاص. تم تصميم الخيار لمعاينة محدودة (ألوان غير المدرجة) "
+"أغراض ولا يمكن حفظها."
+
+#: admin/views/WDPSViewSliders_wdps.php:1665
+#: admin/views/WDPSViewSliders_wdps.php:1819
+#: admin/views/WDPSViewSliders_wdps.php:2207
+#: admin/views/WDPSViewSliders_wdps.php:2896 post-slider-wd.php:373
+msgid "Size:"
+msgstr "الحجم:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1668
+msgid "Define the size of the navigation bullets."
+msgstr "تحديد حجم الرصاص الملاحة."
+
+#: admin/views/WDPSViewSliders_wdps.php:1672
+#: admin/views/WDPSViewSliders_wdps.php:1826
+#: admin/views/WDPSViewSliders_wdps.php:2216
+#: admin/views/WDPSViewSliders_wdps.php:2905 post-slider-wd.php:372
+msgid "Color:"
+msgstr "اللون:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1675
+msgid "Select the color for the navigation bullets."
+msgstr "اختيار لون الرصاص الملاحة."
+
+#: admin/views/WDPSViewSliders_wdps.php:1679
+msgid "Active color:"
+msgstr "لون نشاط:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1682
+msgid ""
+"Select the color for the bullet, which is currently displaying a "
+"corresponding image."
+msgstr "اختيار لون لالرصاصة، التي تعرض حاليا صورة المقابلة."
+
+#: admin/views/WDPSViewSliders_wdps.php:1686
+msgid "Active Background color:"
+msgstr "نشط لون الخلفية:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1689
+msgid ""
+"Select the background color for the bullet, which is currently displaying a "
+"corresponding image."
+msgstr "اختيار لون الخلفية للالرصاصة، التي تعرض حاليا صورة المقابلة"
+
+#: admin/views/WDPSViewSliders_wdps.php:1696
+msgid "Select the background color for the bullet."
+msgstr "اختيار لون الخلفية للرصاصة."
+
+#: admin/views/WDPSViewSliders_wdps.php:1710
+msgid "Set the margin for the navigation bullets in pixels."
+msgstr "تعيين هامش الرصاص الملاحة في بكسل."
+
+#: admin/views/WDPSViewSliders_wdps.php:1721
+msgid "Filmstrip is disabled in free version."
+msgstr "تم تعطيل شريط العرض في نسخة مجانية."
+
+#: admin/views/WDPSViewSliders_wdps.php:1725
+msgid "Enable filmstrip:"
+msgstr "تمكين شريط الصور:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1729
+msgid ""
+"Choose whether to have thumbnails of the slides displayed as a filmstrip or "
+"not."
+msgstr ""
+"اختيار ما إذا كان لديها مصغرات الشرائح يظهر على شكل مقطع سينمائي أو لا."
+
+#: admin/views/WDPSViewSliders_wdps.php:1741
+msgid "Set the position of the filmstrip."
+msgstr "تعيين موضع شريط الصور."
+
+#: admin/views/WDPSViewSliders_wdps.php:1745
+msgid "Thumbnail dimensions:"
+msgstr "أبعاد المصغرة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1749
+msgid "Define the maximum width and heigth of the filmstrip thumbnails."
+msgstr "تحديد الحد الأقصى للعرض وheigth من الصور المصغرة مقطع سينمائي."
+
+#: admin/views/WDPSViewSliders_wdps.php:1756
+msgid "Select the background color for the filmstrip."
+msgstr "اختيار لون خلفية لشريط الصور."
+
+#: admin/views/WDPSViewSliders_wdps.php:1760
+msgid "Thumbnail separator:"
+msgstr "فاصل المصغرة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1763
+msgid "Set the separator for the thumbnails."
+msgstr "تعيين الفاصل للمصغرات."
+
+#: admin/views/WDPSViewSliders_wdps.php:1767
+msgid "Active border:"
+msgstr "الحدود النشط:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1780
+msgid ""
+"The thumbnail for the currently displayed image will have a border. You can "
+"set its size, type and color."
+msgstr ""
+"والصورة المصغرة للصورة المعروضة حاليا لديها الحدود. يمكنك تعيين حجمها ونوع "
+"ولون."
+
+#: admin/views/WDPSViewSliders_wdps.php:1784
+msgid "Deactive transparency:"
+msgstr "الشفافية Deactive:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1787
+msgid ""
+"You can set a transparency level for the inactive filmstrip items which must "
+"be between 0 to 100.."
+msgstr ""
+"يمكنك تعيين مستوى الشفافية للعناصر سينمائي الخاملة التي يجب أن تكون بين "
+"0-100 .."
+
+#: admin/views/WDPSViewSliders_wdps.php:1797
+msgid "Enable timer bar:"
+msgstr "تمكين شريط الموقت:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1801
+msgid ""
+"You can add a bar displaying the timing left to switching to the next slide "
+"on autoplay."
+msgstr ""
+"يمكنك إضافة شريط عرض توقيت اليسار إلى التحول إلى الشريحة التالية على التشغيل "
+"التلقائي."
+
+#: admin/views/WDPSViewSliders_wdps.php:1805
+msgid "Type:"
+msgstr "اكتب:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1808
+msgid "Line top"
+msgstr "الخط العلوي"
+
+#: admin/views/WDPSViewSliders_wdps.php:1809
+msgid "Line Bottom"
+msgstr "خط القاع"
+
+#: admin/views/WDPSViewSliders_wdps.php:1810
+msgid "Circle top left"
+msgstr "دائرة الأيسر العلوي"
+
+#: admin/views/WDPSViewSliders_wdps.php:1811
+msgid "Circle top right"
+msgstr "دائرة الحق الأعلى"
+
+#: admin/views/WDPSViewSliders_wdps.php:1812
+msgid "Circle bottom left"
+msgstr "أسفل دائرة يقم"
+
+#: admin/views/WDPSViewSliders_wdps.php:1813
+msgid "Circle bottom right"
+msgstr "دائرة أسفل اليمين"
+
+#: admin/views/WDPSViewSliders_wdps.php:1815
+msgid "Choose the type of the timer bar to be used within the slider."
+msgstr "اختر نوع شريط مؤقت لاستخدامها في التمرير."
+
+#: admin/views/WDPSViewSliders_wdps.php:1822
+msgid "Define the height of the timer bar."
+msgstr "تحديد ارتفاع شريط الموقت."
+
+#: admin/views/WDPSViewSliders_wdps.php:1840
+msgid "Css:"
+msgstr "المغلق:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1844
+msgid "Add custom CSS to apply custom changes to the slider."
+msgstr "إضافة CSS مخصص لتطبيق التغييرات مخصص لشريط التمرير."
+
+#: admin/views/WDPSViewSliders_wdps.php:1875
+msgid "Post slider type:"
+msgstr "ما بعد المنزلق نوع:"
+
+#: admin/views/WDPSViewSliders_wdps.php:1876
+msgid "Static posts slides"
+msgstr "S هو جعل مشاركات الشرائح"
+
+#: admin/views/WDPSViewSliders_wdps.php:1877
+msgid "Dynamic posts slides"
+msgstr "الأبعاد واستغرق المشاركات هيئة التصنيع العسكري الشرائح"
+
+#: admin/views/WDPSViewSliders_wdps.php:1918
+#: admin/views/WDPSViewSliders_wdps.php:2137
+#: admin/views/WDPSViewSliders_wdps.php:2654
+#: admin/views/WDPSViewSliders_wdps.php:2826 post-slider-wd.php:352
+msgid "Drag to re-order"
+msgstr "اسحب لإعادة ترتيب"
+
+#: admin/views/WDPSViewSliders_wdps.php:1928
+msgid "Edit Slide"
+msgstr "تحرير الشرائح"
+
+#: admin/views/WDPSViewSliders_wdps.php:1928 post-slider-wd.php:361
+msgid "Edit Image"
+msgstr "تعديل الصورة"
+
+#: admin/views/WDPSViewSliders_wdps.php:1930 post-slider-wd.php:290
+msgid "Edit Post"
+msgstr "تحرير الموضوع"
+
+#: admin/views/WDPSViewSliders_wdps.php:1934 post-slider-wd.php:400
+msgid "Duplicate slide"
+msgstr "شريحة مكررة"
+
+#: admin/views/WDPSViewSliders_wdps.php:1935
+msgid "Remove Slide"
+msgstr "إزالة الشريحة"
+
+#: admin/views/WDPSViewSliders_wdps.php:1935 post-slider-wd.php:401
+msgid "Delete slide"
+msgstr "حذف الشريحة"
+
+#: admin/views/WDPSViewSliders_wdps.php:1949
+#: admin/views/WDPSViewSliders_wdps.php:1950
+msgid "Add Posts"
+msgstr "إضافة المشاركات"
+
+#: admin/views/WDPSViewSliders_wdps.php:1982
+msgid "Edit Slides"
+msgstr "تحرير الشرائح"
+
+#: admin/views/WDPSViewSliders_wdps.php:1991
+msgid "Add/Edit Post"
+msgstr "إضافة / تحرير الموضوع"
+
+#: admin/views/WDPSViewSliders_wdps.php:1993 post-slider-wd.php:289
+msgid "Add Post"
+msgstr "اضافة"
+
+#: admin/views/WDPSViewSliders_wdps.php:2080
+msgid ""
+"You can set a redirection link, so that the user will get to the mentioned "
+"location upon hitting the slide.Use http:// and https:// for external links."
+msgstr ""
+"يمكنك تعيين ارتباط التوجيه، بحيث يمكن للمستخدم سوف تحصل على الموقع المذكور "
+"على ضرب HTTP slide.Use: // و HTTPS: // عن الارتباطات الخارجية."
+
+#: admin/views/WDPSViewSliders_wdps.php:2081 post-slider-wd.php:287
+msgid "Link the slide to:"
+msgstr "ربط الشريحة إلى:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2085
+#: admin/views/WDPSViewSliders_wdps.php:2268 post-slider-wd.php:365
+msgid "Open in a new window"
+msgstr "فتح في نافذة جديدة"
+
+#: admin/views/WDPSViewSliders_wdps.php:2106
+#: admin/views/WDPSViewSliders_wdps.php:2795
+msgid "Layers"
+msgstr "طبقات"
+
+#: admin/views/WDPSViewSliders_wdps.php:2109
+#: admin/views/WDPSViewSliders_wdps.php:2798 post-slider-wd.php:285
+msgid "Add Text Layer"
+msgstr "إضافة طبقة النص"
+
+#: admin/views/WDPSViewSliders_wdps.php:2112
+#: admin/views/WDPSViewSliders_wdps.php:2801 post-slider-wd.php:399
+msgid "Add Image Layer"
+msgstr "إضافة طبقة صورة"
+
+#: admin/views/WDPSViewSliders_wdps.php:2115
+#: admin/views/WDPSViewSliders_wdps.php:2804
+msgid "Social Button Layer"
+msgstr "زر طبقة اجتماعية"
+
+#: admin/views/WDPSViewSliders_wdps.php:2118
+#: admin/views/WDPSViewSliders_wdps.php:2807 post-slider-wd.php:291
+msgid "Add Hotspot Layer"
+msgstr "إضافة طبقة نقطة ساخنة"
+
+#: admin/views/WDPSViewSliders_wdps.php:2138
+#: admin/views/WDPSViewSliders_wdps.php:2827 post-slider-wd.php:353
+msgid "Layer title"
+msgstr "عنوان طبقة"
+
+#: admin/views/WDPSViewSliders_wdps.php:2141
+#: admin/views/WDPSViewSliders_wdps.php:2830
+msgid "Delete layer"
+msgstr "حذف طبقة"
+
+#: admin/views/WDPSViewSliders_wdps.php:2142
+#: admin/views/WDPSViewSliders_wdps.php:2831 post-slider-wd.php:355
+msgid "Duplicate layer"
+msgstr "طبقة مزدوجة"
+
+#: admin/views/WDPSViewSliders_wdps.php:2160
+#: admin/views/WDPSViewSliders_wdps.php:2849 post-slider-wd.php:357
+msgid "Text:"
+msgstr "النص:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2187
+#: admin/views/WDPSViewSliders_wdps.php:2876 post-slider-wd.php:360
+msgid "Leave blank to keep the initial width and height."
+msgstr "ترك فراغ للحفاظ على العرض الأولي والارتفاع."
+
+#: admin/views/WDPSViewSliders_wdps.php:2193
+#: admin/views/WDPSViewSliders_wdps.php:2882
+msgid "Break-word"
+msgstr "كسر كلمة"
+
+#: admin/views/WDPSViewSliders_wdps.php:2197
+#: admin/views/WDPSViewSliders_wdps.php:2886 post-slider-wd.php:368
+msgid "In addition you can drag and drop the layer to a desired position."
+msgstr "وبالإضافة إلى ذلك يمكنك سحب وإسقاط طبقة إلى الموضع المطلوب."
+
+#: admin/views/WDPSViewSliders_wdps.php:2225
+#: admin/views/WDPSViewSliders_wdps.php:2914 post-slider-wd.php:374
+msgid "Font family:"
+msgstr "خط العائلة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2239
+#: admin/views/WDPSViewSliders_wdps.php:2928 post-slider-wd.php:407
+msgid "Google fonts"
+msgstr "الخطوط جوجل"
+
+#: admin/views/WDPSViewSliders_wdps.php:2247
+#: admin/views/WDPSViewSliders_wdps.php:2936 post-slider-wd.php:375
+msgid "Font weight:"
+msgstr "وزن الخط:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2263 post-slider-wd.php:366
+msgid "Use http:// and https:// for external links."
+msgstr "تستخدم http: // و HTTPS: // عن الارتباطات الخارجية."
+
+#: admin/views/WDPSViewSliders_wdps.php:2264 post-slider-wd.php:364
+msgid "Link:"
+msgstr "حلقة الوصل:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2287
+#: admin/views/WDPSViewSliders_wdps.php:2968
+msgid "Effect In:"
+msgstr "أثر في:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2292
+#: admin/views/WDPSViewSliders_wdps.php:2320
+#: admin/views/WDPSViewSliders_wdps.php:2973
+#: admin/views/WDPSViewSliders_wdps.php:3001 post-slider-wd.php:389
+msgid "Start"
+msgstr "بداية"
+
+#: admin/views/WDPSViewSliders_wdps.php:2304
+#: admin/views/WDPSViewSliders_wdps.php:2332
+#: admin/views/WDPSViewSliders_wdps.php:2985
+#: admin/views/WDPSViewSliders_wdps.php:3014 post-slider-wd.php:390
+msgid "Effect"
+msgstr "تأثير"
+
+#: admin/views/WDPSViewSliders_wdps.php:2308
+#: admin/views/WDPSViewSliders_wdps.php:2336
+#: admin/views/WDPSViewSliders_wdps.php:2989
+#: admin/views/WDPSViewSliders_wdps.php:3018 post-slider-wd.php:391
+msgid "Duration"
+msgstr "المدة الزمنية"
+
+#: admin/views/WDPSViewSliders_wdps.php:2315
+#: admin/views/WDPSViewSliders_wdps.php:2996
+msgid "Effect Out:"
+msgstr "التأثير خارج:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2343
+#: admin/views/WDPSViewSliders_wdps.php:3025 post-slider-wd.php:376
+msgid "Padding:"
+msgstr "الحشو:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2352
+#: admin/views/WDPSViewSliders_wdps.php:3034 post-slider-wd.php:379
+msgid "Background Color:"
+msgstr "لون الخلفية:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2360
+#: admin/views/WDPSViewSliders_wdps.php:2365
+#: admin/views/WDPSViewSliders_wdps.php:3042
+#: admin/views/WDPSViewSliders_wdps.php:3047 post-slider-wd.php:381
+msgid "Value must be between 0 to 100."
+msgstr "يجب أن تكون القيمة بين 0 إلى 100."
+
+#: admin/views/WDPSViewSliders_wdps.php:2361
+#: admin/views/WDPSViewSliders_wdps.php:3043 post-slider-wd.php:380
+msgid "Transparent:"
+msgstr "الشفافية:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2389
+#: admin/views/WDPSViewSliders_wdps.php:3071 post-slider-wd.php:382
+msgid "Radius:"
+msgstr "دائرة نصف قطرها:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2482
+msgid "Period of posts to display:"
+msgstr "فترة المشاركات للعرض:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2496
+msgid ""
+"Set the time for the posts, e.g. if set it to 24 hours it will display the "
+"posts added within the last 24 hours."
+msgstr ""
+"ضبط الوقت للوظائف، على سبيل المثال إذا تعيينها إلى 24 ساعة فإنه سيتم عرض "
+"المشاركات أضاف خلال ال 24 ساعة الماضية."
+
+#: admin/views/WDPSViewSliders_wdps.php:2500
+msgid "Number of posts:"
+msgstr "عدد المشاركات:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2503
+msgid ""
+"Set the number of posts which will be displayed as slides. If set to 0 or "
+"left empty it will display all posts."
+msgstr ""
+"تعيين عدد من الوظائف التي سيتم عرضها على النحو الشرائح. إذا تم تعيين إلى 0 "
+"أو ترك فارغا أنه سيتم عرض جميع المشاركات."
+
+#: admin/views/WDPSViewSliders_wdps.php:2508
+msgid "Choose post type:"
+msgstr "اختر نوع آخر:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2525
+msgid ""
+"Select the type for the dynamic posts, e.g. standard or custom post types."
+msgstr ""
+"حدد نوع للوظائف الحيوية، على سبيل المثال الأنواع القياسية أو وظيفة مخصصة."
+
+#: admin/views/WDPSViewSliders_wdps.php:2535
+msgid "Author:"
+msgstr "مؤلف:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2554
+msgid "Select the author whose posts will be displayed within the slider."
+msgstr "حدد المؤلف التي سيتم عرضها ضمن شريط التمرير المشاركات."
+
+#: admin/views/WDPSViewSliders_wdps.php:2559
+msgid "Sort posts by:"
+msgstr "المشاركات ترتيب بواسطة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2573
+msgid ""
+"Select the option which will be used as a sorting basis while displaying "
+"posts."
+msgstr "حدد الخيار الذي سيتم استخدامه كأساس الفرز أثناء عرض المشاركات."
+
+#: admin/views/WDPSViewSliders_wdps.php:2577
+msgid "Order posts by:"
+msgstr "المشاركات ترتيب بواسطة:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2579
+msgid "Ascending"
+msgstr "تصاعدي"
+
+#: admin/views/WDPSViewSliders_wdps.php:2580
+msgid "Descending"
+msgstr "تنازلي"
+
+#: admin/views/WDPSViewSliders_wdps.php:2581
+msgid "Set the ordering sequence for the posts- ascending or descending."
+msgstr "تعيين تسلسل ترتيب تصاعدي لposts- أو الهابطة."
+
+#: admin/views/WDPSViewSliders_wdps.php:2593
+msgid "Post taxonomies:"
+msgstr "التصنيفات آخر:"
+
+#: admin/views/WDPSViewSliders_wdps.php:2644
+msgid "Slide"
+msgstr "الانزلاق"
+
+#: admin/views/WDPSViewSliders_wdps.php:2719
+msgid ""
+"The post content will not be displayed on back end. You will see a sample "
+"background, where you can add standard and dynamic-post layers, which will "
+"be displayed over the posts on front end."
+msgstr ""
+"لن يتم عرض محتوى آخر في الخلفية. سترى خلفية العينة، حيث يمكنك إضافة طبقات "
+"القياسية والديناميكية آخر، والتي سوف يتم عرضها على وظيفة على الواجهة "
+"الأمامية."
+
+#: admin/views/WDPSViewSliders_wdps.php:2807
+msgid "This functionality is disabled in free version."
+msgstr "تم تعطيل هذه الوظيفة في الإصدار المجاني."
+
+#: admin/views/WDPSViewSliders_wdps.php:3196
+msgid "Enter absolute url of the image."
+msgstr "أدخل رابط المطلق للصورة."
+
+#: admin/views/WDPSViewUninstall_wdps.php:33
+#: admin/views/WDPSViewUninstall_wdps.php:108
+msgid "Uninstall Post Slider WD"
+msgstr "الامم المتحدة تثبيت وظيفة S حيث كان الناس WD"
+
+#: admin/views/WDPSViewUninstall_wdps.php:35
+msgid ""
+"Deactivating Post Slider WD plugin does not remove any data that may have "
+"been created. To completely remove this plugin, you can uninstall it here."
+msgstr ""
+"D تفعيل يا ظيفة S حيث لا الناس WD المساعد إزالة أي البيانات التي قد تم "
+"إنشاؤها. ولكوم PL"
+
+#: admin/views/WDPSViewUninstall_wdps.php:38
+msgid "WARNING:"
+msgstr "تحذير:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:39
+msgid ""
+"Once uninstalled, this can't be undone. You should use a Database Backup "
+"plugin of WordPress to back up all the data first."
+msgstr ""
+"مرة واحدة إلغاء، وهذا لا يمكن التراجع عنها. يجب عليك استخدام البرنامج "
+"المساعد قاعدة بيانات النسخ الاحتياطي وورد في نسخة احتياطية من كافة البيانات "
+"أولا."
+
+#: admin/views/WDPSViewUninstall_wdps.php:42
+msgid "The following Database Tables will be deleted:"
+msgstr "سيتم حذف جداول قاعدة البيانات التالية:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:47
+msgid "Database Tables"
+msgstr "جداول قاعدة البيانات"
+
+#: admin/views/WDPSViewUninstall_wdps.php:61
+msgid "Do you really want to uninstall Post Slider WD plugin?"
+msgstr "هل هناك حقا الانتهاء TT إلغاء يا ظيفة S حيث كان الناس WD المساعد؟"
+
+#: admin/views/WDPSViewUninstall_wdps.php:67
+msgid "UNINSTALL"
+msgstr "الغاء التثبيت"
+
+#: admin/views/WDPSViewUninstall_wdps.php:68
+msgid ""
+"You are About to Uninstall Post Slider WD plugin from WordPress.This Action "
+"Is Not Reversible."
+msgstr ""
+"Y حتى آه الساخنة على وشك أون تثبيت وظيفة S حيث كان الناس WD المساعد من W P "
+"مباراة احماء الساخنة أوه. هذا نموذج لا يتم Rever يا لك أنني هربت."
+
+#: admin/views/WDPSViewUninstall_wdps.php:93
+msgid "The following Database Tables successfully deleted:"
+msgstr "جداول قاعدة البيانات التالية حذف بنجاح:"
+
+#: admin/views/WDPSViewUninstall_wdps.php:102
+msgid "The folder was successfully deleted."
+msgstr "تم حذف المجلد بنجاح."
+
+#: admin/views/WDPSViewUninstall_wdps.php:102
+msgid "An error occurred when deleting the folder."
+msgstr "حدث خطأ عند حذف المجلد."
+
+#: admin/views/WDPSViewUninstall_wdps.php:109
+msgid "Click Here"
+msgstr "اضغط هنا"
+
+#: admin/views/WDPSViewUninstall_wdps.php:109
+msgid ""
+"To Finish the Uninstallation and Post Slider WD will be Deactivated "
+"Automatically."
+msgstr ""
+"T يا FINI هو تركيب الامم المتحدة و POST S حيث سيكون الناس WD DE تنشيط دعوة "
+"الاتحاد الافريقي توم ATI أيضا."
+
+#: admin/views/WDPSViewWDPSPosts.php:59
+msgid "Posts"
+msgstr "المشاركات"
+
+#: admin/views/WDPSViewWDPSPosts.php:81
+msgid ""
+"You can include only published posts with featured image. If you want to "
+"include posts without featured image into the list, disable Featured image "
+"option in Settings->Global Options."
+msgstr ""
+"يمكنك تضمين المشاركات المنشورة فقط مع صورة مميزة. إذا كنت تريد أن تشمل "
+"الوظائف دون صورة مميزة في القائمة، تعطيل خيار صورة مميزة في خيارات إعدادات-> "
+"العالمي."
+
+#: admin/views/WDPSViewWDPSPosts.php:120
+msgid "-all-"
+msgstr "-all-"
+
+#: admin/views/WDPSViewWDPSPosts.php:146
+msgid "Title"
+msgstr "عنوان"
+
+#: admin/views/WDPSViewWDPSShortcode.php:34
+msgid "Post Slider WD"
+msgstr "Post Slider WD"
+
+#: admin/views/WDPSViewWDPSShortcode.php:43
+msgid "Select a Slider"
+msgstr "حدد المتزلج"
+
+#: admin/views/WDPSViewWDPSShortcode.php:46
+msgid "- Select a Slider -"
+msgstr "- اختر المتزلج -"
+
+#: admin/views/WDPSViewWidgetSlideshow.php:60
+msgid "Title:"
+msgstr "عنوان:"
+
+#: admin/views/WDPSViewWidgetSlideshow.php:65
+msgid "Select Slider"
+msgstr "حدد المتزلج"
+
+#: framework/WDW_PS_Library.php:45
+msgid "Item Succesfully Saved."
+msgstr "البند بنجاح المحفوظة."
+
+#: framework/WDW_PS_Library.php:63
+msgid "You can't delete default theme"
+msgstr "لا يمكنك حذف السمة الافتراضية"
+
+#: framework/WDW_PS_Library.php:81
+msgid "The item is successfully set as default."
+msgstr "يتم تعيين البند بنجاح كما الافتراضي."
+
+#: framework/WDW_PS_Library.php:87
+msgid "Options Succesfully Saved."
+msgstr "خيارات بنجاح المحفوظة."
+
+#: framework/WDW_PS_Library.php:117
+msgid "Ordering Succesfully Saved."
+msgstr "طلب بنجاح المحفوظة."
+
+#: framework/WDW_PS_Library.php:123
+msgid "A term with the name provided already exists."
+msgstr "A الأمد مع الاسم المقدم موجود بالفعل."
+
+#: framework/WDW_PS_Library.php:129
+msgid "Name field is required."
+msgstr "مطلوب حقل الاسم."
+
+#: framework/WDW_PS_Library.php:135
+msgid "The slug must be unique."
+msgstr "يجب أن يكون سبيكة فريدة من نوعها."
+
+#: framework/WDW_PS_Library.php:147
+msgid "You must set watermark type."
+msgstr "يجب عليك تعيين نوع مائية."
+
+#: framework/WDW_PS_Library.php:154
+msgid "Settings Succesfully Reset."
+msgstr "إعدادات إعادة تعيين بنجاح."
+
+#: framework/WDW_PS_Library.php:209
+msgid "Search"
+msgstr "بحث"
+
+#: framework/WDW_PS_Library.php:210
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+#: framework/WDW_PS_Library.php:443
+msgid "item"
+msgstr "العنصر"
+
+#: framework/WDW_PS_Library.php:542
+#, php-format
+msgid "No %s found."
+msgstr "لا %s وجدت."
+
+#: frontend/views/WDPSViewSlider.php:30
+msgid "There is no slider selected or the slider was deleted."
+msgstr "لا يوجد المنزلق المحددة أو تم حذف شريط التمرير."
+
+#: frontend/views/WDPSViewSlider.php:47
+msgid "There are no posts  in this slider."
+msgstr "لا توجد وظائف في هذا المنزلق."
+
+#: frontend/views/WDPSViewSlider.php:1829
+#: frontend/views/WDPSViewSlider.php:1894
+msgid "Pause"
+msgstr "إيقاف مؤقت"
+
+#: frontend/views/WDPSViewSlider.php:1862
+msgid "Play"
+msgstr "لعب"
+
+#: post-slider-wd.php:23
+msgid "Sliders"
+msgstr "المتزلجون"
+
+#: post-slider-wd.php:27
+msgid "Get Pro"
+msgstr "كن محترفا"
+
+#: post-slider-wd.php:28
+msgid "Featured Plugins"
+msgstr "الإضافات مميزة"
+
+#: post-slider-wd.php:29
+msgid "Featured Themes"
+msgstr "ثيمات مميزة"
+
+#: post-slider-wd.php:30
+msgid "Uninstall"
+msgstr "الغاء التثبيت"
+
+#: post-slider-wd.php:280
+msgid "Items Succesfully Saved."
+msgstr "المحفوظة بنجاح."
+
+#: post-slider-wd.php:281
+msgid "Changes made in this table should be saved."
+msgstr "يجب حفظ التغييرات التي أجريت في هذا الجدول."
+
+#: post-slider-wd.php:282
+msgid "Show order column"
+msgstr "العمود الطلبية"
+
+#: post-slider-wd.php:283
+msgid "You must select an image file."
+msgstr "يجب عليك تحديد ملف صورة."
+
+#: post-slider-wd.php:284
+msgid "You must select an audio file."
+msgstr "يجب عليك تحديد ملف صوتي."
+
+#: post-slider-wd.php:286
+msgid ""
+"You can set a redirection link, so that the user will get to the mentioned "
+"location upon hitting the slide.<br />Use http:// and https:// for external "
+"links."
+msgstr ""
+"يمكنك تعيين ارتباط التوجيه، بحيث يمكن للمستخدم سوف تحصل على الموقع المذكور "
+"على ضرب الشريحة <br /> استخدام HTTP: // و HTTPS: // عن الارتباطات الخارجية."
+
+#: post-slider-wd.php:292
+msgid "Add Social Button Layer"
+msgstr "إضافة طبقة زر الاجتماعية"
+
+#: post-slider-wd.php:354
+msgid "Are you sure you want to delete this layer ?"
+msgstr "هل أنت متأكد أنك تريد حذف هذه الطبقة؟"
+
+#: post-slider-wd.php:356
+msgid "z-index"
+msgstr "ض مؤشر"
+
+#: post-slider-wd.php:358
+msgid "Sample text"
+msgstr "نص عينة"
+
+#: post-slider-wd.php:362
+msgid "Alt:"
+msgstr "بديل:"
+
+#: post-slider-wd.php:363
+msgid "Set the HTML attribute specified in the IMG tag."
+msgstr "تعيين سمة HTML المحدد في علامة IMG."
+
+#: post-slider-wd.php:385
+msgid "Scale:"
+msgstr "مقياس:"
+
+#: post-slider-wd.php:386
+msgid "Set width and height of the image."
+msgstr "عرض مجموعة وارتفاع الصورة."
+
+#: post-slider-wd.php:387
+msgid "Social button:"
+msgstr "زر الاجتماعي:"
+
+#: post-slider-wd.php:388
+msgid "Effect in:"
+msgstr "أثر في:"
+
+#: post-slider-wd.php:393
+msgid "Effect out:"
+msgstr "تأثير الخروج:"
+
+#: post-slider-wd.php:394
+msgid "Hotspot text position:"
+msgstr "موقف النص نقطة ساخنة:"
+
+#: post-slider-wd.php:395
+msgid "Hotspot Width:"
+msgstr "نقطة ساخنة العرض:"
+
+#: post-slider-wd.php:396
+msgid "Hotspot Background Color:"
+msgstr "نقطة ساخنة لون الخلفية:"
+
+#: post-slider-wd.php:397
+msgid "Hotspot Border:"
+msgstr "الحدود نقطة ساخنة:"
+
+#: post-slider-wd.php:398
+msgid "Hotspot Radius:"
+msgstr "نقطة ساخنة الشعاع:"
+
+#: post-slider-wd.php:404
+msgid "Break-word:"
+msgstr "كسر كلمة:"
+
+#: sliders-notices.php:188
+msgid "Leave A Review?"
+msgstr "ترك التعليق؟"
+
+#: sliders-notices.php:189
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"نأمل أن تكون قد استمتعت باستخدام وورد %s! قد تفكر في ترك تعليق على WordPress."
+"org؟"
+
+#: sliders-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "بالتأكيد! أحب أن!"
+
+#: sliders-notices.php:191
+msgid "I've already left a review"
+msgstr "لقد غادر بالفعل مراجعة"
+
+#: sliders-notices.php:192
+msgid "Maybe Later"
+msgstr "ربما في وقت لاحق"
+
+#: sliders-notices.php:193 sliders-notices.php:203
+msgid "Never show again"
+msgstr "لا تظهر مرة أخرى"
+
+#: sliders-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "مرحبا! كيف احوالك؟"
+
+#: sliders-notices.php:200
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"شكرا لك على استخدام وورد %s! نأمل أن كنت قد وجدت كل ما تحتاجه، ولكن إذا كان "
+"لديك أي أسئلة:"
+
+#: sliders-notices.php:201
+msgid "Check out User Guide"
+msgstr "تحقق من دليل المستخدم"
+
+#: sliders-notices.php:202
+msgid "Get Some Help"
+msgstr "الحصول على بعض المساعدة"
+
+#~ msgid "Slider successfully imported."
+#~ msgstr "التمرير المستوردة بنجاح."
+
+#~ msgid "Unexpected error occurred."
+#~ msgstr "حدث خطأ غير متوقع."
+
+#~ msgid "LightSpeedOut"
+#~ msgstr "LightSpeedOut"
+
+#~ msgid "RollOut"
+#~ msgstr "طرح"
+
+#~ msgid "BounceOut"
+#~ msgstr "BounceOut"
+
+#~ msgid "BounceOutDown"
+#~ msgstr "BounceOutDown"
+
+#~ msgid "BounceOutLeft"
+#~ msgstr "BounceOutLeft"
+
+#~ msgid "BounceOutRight"
+#~ msgstr "BounceOutRight"
+
+#~ msgid "BounceOutUp"
+#~ msgstr "BounceOutUp"
+
+#~ msgid "FadeOut"
+#~ msgstr "تتآكل"
+
+#~ msgid "FadeOutDown"
+#~ msgstr "FadeOutDown"
+
+#~ msgid "FadeOutDownBig"
+#~ msgstr "FadeOutDownBig"
+
+#~ msgid "FadeOutLeft"
+#~ msgstr "FadeOutLeft"
+
+#~ msgid "FadeOutLeftBig"
+#~ msgstr "FadeOutLeftBig"
+
+#~ msgid "FadeOutRight"
+#~ msgstr "FadeOutRight"
+
+#~ msgid "FadeOutRightBig"
+#~ msgstr "FadeOutRightBig"
+
+#~ msgid "FadeOutUp"
+#~ msgstr "FadeOutUp"
+
+#~ msgid "FadeOutUpBig"
+#~ msgstr "FadeOutUpBig"
+
+#~ msgid "FlipOutX"
+#~ msgstr "FlipOutX"
+
+#~ msgid "FlipOutY"
+#~ msgstr "FlipOutY"
+
+#~ msgid "RotateOut"
+#~ msgstr "RotateOut"
+
+#~ msgid "RotateOutDownLeft"
+#~ msgstr "RotateOutDownLeft"
+
+#~ msgid "RotateOutDownRight"
+#~ msgstr "RotateOutDownRight"
+
+#~ msgid "RotateOutUpLeft"
+#~ msgstr "RotateOutUpLeft"
+
+#~ msgid "RotateOutUpRight"
+#~ msgstr "RotateOutUpRight"
+
+#~ msgid "ZoomOut"
+#~ msgstr "ZoomOut"
+
+#~ msgid "ZoomOutDown"
+#~ msgstr "ZoomOutDown"
+
+#~ msgid "ZoomOutLeft"
+#~ msgstr "ZoomOutLeft"
+
+#~ msgid "ZoomOutRight"
+#~ msgstr "ZoomOutRight"
+
+#~ msgid "ZoomOutUp"
+#~ msgstr "ZoomOutUp"
+
+#~ msgid "This section allows you to add/edit post slider."
+#~ msgstr "هذا القسم يسمح لك بإضافة / تحرير آخر المنزلق."
+
+#~ msgid "Save as Copy"
+#~ msgstr "حفظ ك نسخة"
+
+#~ msgid ""
+#~ "Select the effect which will be applied when shifting from one slider to "
+#~ "another."
+#~ msgstr "تحديد الأثر الذي سيتم تطبيقها عند التحول من التمرير إلى آخر."
+
+#~ msgid "Previous Button"
+#~ msgstr "زر السابق"
+
+#~ msgid "Previous Button Hover"
+#~ msgstr "السابقة زر التحويم"
+
+#~ msgid "Next Button"
+#~ msgstr "زر المقبل"
+
+#~ msgid "Next Button Hover"
+#~ msgstr "زر التحويم القادمة"
+
+#~ msgid "Choose the type and color for navigation button images."
+#~ msgstr "اختيار نوع ولون للصور زر التنقل."
+
+#~ msgid "Play Button"
+#~ msgstr "زر التشغيل"
+
+#~ msgid "Play Button Hover"
+#~ msgstr "لعب زر التحويم"
+
+#~ msgid "Pause Button"
+#~ msgstr "وقفة زر"
+
+#~ msgid "Pause Button Hover"
+#~ msgstr "وقفة زر التحويم"
+
+#~ msgid "Active Button"
+#~ msgstr "زر نشط"
+
+#~ msgid "Deactive Button"
+#~ msgstr "زر Deactive"
+
+#~ msgid "Choose the type and color for the bullets."
+#~ msgstr "اختيار نوع ولون الرصاص."
+
+#~ msgid "Select the background color for the bullet..."
+#~ msgstr "اختيار لون الخلفية لرصاصة ..."
+
+#~ msgid "Thumbnail margin:"
+#~ msgstr "هامش المصغرة:"
+
+#~ msgid "Set the margin for the thumbnails."
+#~ msgstr "تعيين الهامش للمصغرات."
+
+#~ msgid "Scale"
+#~ msgstr "مقياس"
+
+#~ msgid "Hover Color:"
+#~ msgstr "تحوم اللون:"
+
+#~ msgid "Add to slider"
+#~ msgstr "إضافة إلى المنزلق"
+
+#~ msgid "Post type:"
+#~ msgstr "نوع آخر:"
+
+#~ msgid "All public posts are included in the list."
+#~ msgstr "يتم تضمين كافة الوظائف العامة في القائمة."
+
+#~ msgid "Featured image"
+#~ msgstr "صورة مميزة"
+
+#~ msgid "Type"
+#~ msgstr "اكتب"
+
+#~ msgid "Date created"
+#~ msgstr "تاريخ الانشاء"
+
+#~ msgid "Date modified"
+#~ msgstr "تاريخ التعديل"
+
+#~ msgid "There are no posts in this slider."
+#~ msgstr "لا توجد مشاركات في هذا المنزلق."
+
+#~ msgid "Share on Facebook"
+#~ msgstr "في الفيسبوك حصة"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "على تويتر حصة"
+
+#~ msgid "Share on Google+"
+#~ msgstr "الرد على هذا"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "على بينتيريست حصة"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "على Tumblr حصة"
+
+#~ msgid ""
+#~ "Post Slider WD is a responsive plugin, which allows adding sliders to "
+#~ "your posts/pages and to custom location."
+#~ msgstr ""
+#~ "آخر المتزلج WD هو البرنامج المساعد استجابة، والذي يسمح بإضافة الشرائح "
+#~ "لمشاركاتك / صفحة وموقع مخصص"
+
+#~ msgid "Updates"
+#~ msgstr "تحديثات"
+
+#~ msgid ""
+#~ "You can download the latest version of your plugins from your %s "
+#~ "account.\n"
+#~ "            After deactivate and delete the current version.\n"
+#~ "            Install the downloaded latest version of the plugin."
+#~ msgstr ""
+#~ "يمكنك تحميل أحدث إصدار من الإضافات الخاصة بك من هاتفك %s حساب.\n"
+#~ "بعد إلغاء وحذف النسخة الحالية.\n"
+#~ "تثبيت أحدث إصدار تحميل البرنامج المساعد."
+
+#~ msgid "Current version %s"
+#~ msgstr "النسخة الحالية %s"
+
+#~ msgid "There is a new %s version"
+#~ msgstr "وهناك نسخة %s  جديد"
+
+#~ msgid "%s is up to date."
+#~ msgstr "%s هو حتى الآن."
+
+#~ msgid "Dynamic post"
+#~ msgstr "آخر الديناميكية"
+
+#~ msgid "Smart Crop"
+#~ msgstr "المحاصيل الذكية"
+
+#~ msgid "Crop Image Position"
+#~ msgstr "المحاصيل صورة الوظيفة"
+
+#~ msgid "You can include only published posts with featured image."
+#~ msgstr "يمكنك تضمين المشاركات المنشورة فقط مع صورة مميزة."
+
+#~ msgid "There are no postes in this slider."
+#~ msgstr "هناك رينو ضمن مرحلة ما بعد ESI هذا المنزلق."
+
+#~ msgid "There are no slides in this slider."
+#~ msgstr "لا توجد الشرائح في هذا المنزلق."
+
+#~ msgid "Slider post type :"
+#~ msgstr "المنزلق نوع آخر:"
+
+#~ msgid "Dynamic post slides"
+#~ msgstr "الشرائح آخر الديناميكية"
+
+#~ msgid "Static post slides"
+#~ msgstr "الشرائح آخر ثابت"
+
+#~ msgid "Uninstall Post Slider WordPress"
+#~ msgstr "إلغاء مشاركة المتزلج وورد"
+
+#~ msgid ""
+#~ "Deactivating Post Slider WordPress plugin does not remove any data that "
+#~ "may have been created. To completely remove this plugin, you can "
+#~ "uninstall it here."
+#~ msgstr ""
+#~ "تعطيل مشاركة المتزلج وورد البرنامج المساعد لا يزيل أية بيانات قد تم "
+#~ "إنشاؤها. لإزالة هذا البرنامج المساعد، يمكنك إلغاء تثبيته هنا."
+
+#~ msgid "Do you really want to uninstall Post Slider WordPress plugin?"
+#~ msgstr "هل تريد حقا أن إلغاء مشاركة المتزلج وورد البرنامج المساعد؟"
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "This Action Is Not Reversible."
+#~ msgstr ""
+#~ "أنت على وشك إلغاء مشاركة المتزلج وورد البرنامج المساعد من وورد.هذه العمل "
+#~ "لا يمكن عكسها."
+
+#~ msgid ""
+#~ "To Finish the Uninstallation and Post Slider WordPress will be "
+#~ "Deactivated Automatically."
+#~ msgstr "لإنهاء إلغاء التثبيت وسيتم إلغاء مشاركة المتزلج وورد تلقائيا."
+
+#~ msgid "Post Slider WordPress"
+#~ msgstr "Post Slider WordPress"
+
+#~ msgid "Enable Dynamic Posts:"
+#~ msgstr "تمكين الديناميكي المشاركات:"
+
+#~ msgid ""
+#~ "Enable this option if you want to display standard posts as slides with "
+#~ "their featured images."
+#~ msgstr ""
+#~ "تمكين هذا الخيار إذا كنت ترغب في عرض المشاركات القياسية الشرائح مع الصور "
+#~ "الخاصة بهم واردة."
+
+#~ msgid "Added Post Autoupdate Interval:"
+#~ msgstr "واضاف المشاركة التحديث التلقائي الفاصل الزمني:"
+
+#~ msgid "Set the number of posts which will be displayed as slides."
+#~ msgstr "تعيين عدد من الوظائف التي سيتم عرضها على النحو الشرائح."
+
+#~ msgid "Layer Character Count:"
+#~ msgstr "عدد طبقة حرف:"
+
+#~ msgid "Layer Word Count:"
+#~ msgstr "طبقة عدد الكلمات:"
+
+#~ msgid ""
+#~ "This will limit the number of words for post content displayed as a layer."
+#~ msgstr "وهذا يحد من عدد من الكلمات للمحتوى آخر يظهر على شكل طبقة."
+
+#~ msgid ""
+#~ "You are About to Uninstall Post Slider WordPress plugin from WordPress."
+#~ "\\nThis Action Is Not Reversible."
+#~ msgstr ""
+#~ "أنت على وشك إلغاء مشاركة المتزلج وورد البرنامج المساعد من وورد. \\\\\\\\\\"
+#~ "\\\\\\\\\\\\\\\\\\\\\\ n هذا العمل لا يمكن عكسها."
+
+#~ msgid "You can include only posts with featured image."
+#~ msgstr "يمكنك تضمين المشاركات الوحيدة مع صورة مميزة."
+
+#~ msgid "Remove"
+#~ msgstr "إزالة"
+
+#~ msgid "Choose file (use .zip format)."
+#~ msgstr "اختيار ملف (استخدام شكل الرمز البريدي)."
+
+#~ msgid "Еffect duration:"
+#~ msgstr "مدة Еffect:"
+
+#~ msgid "Select the author who’s posts will be displayed within the slider."
+#~ msgstr "حدد المؤلف الذي سيتم عرض المشاركات ضمن شريط التمرير."
+
+#~ msgid "Slider name:"
+#~ msgstr "اسم المنزلق:"
+
+#~ msgid "Add slide"
+#~ msgstr "إضافة الشريحة"
+
+#~ msgid ""
+#~ "You can set a redirection link, so that the user will get to the "
+#~ "mentioned location upon hitting the slide."
+#~ msgstr ""
+#~ "يمكنك تعيين ارتباط التوجيه، بحيث يمكن للمستخدم سوف تحصل على الموقع "
+#~ "المذكور على ضرب الشريحة."
+
+#~ msgid "Rob"
+#~ msgstr "سلب"

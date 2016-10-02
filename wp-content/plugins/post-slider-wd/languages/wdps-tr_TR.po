@@ -1,0 +1,286 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wdps\n"
+"POT-Creation-Date: 2016-08-17 11:11+0500\n"
+"PO-Revision-Date: 2016-08-17 13:53+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: frontend\n"
+"X-Poedit-SearchPath-1: sliders-notices.php\n"
+
+#: frontend/views/WDPSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Orada Seçili galeri veya galeri silindi."
+
+#: frontend/views/WDPSViewSlider.php:47
+msgid "There are no posts  in this slider."
+msgstr "Bu kaydırıcı henüz herhangi bir konu bulunmamaktadır."
+
+#: frontend/views/WDPSViewSlider.php:1829
+#: frontend/views/WDPSViewSlider.php:1894
+msgid "Pause"
+msgstr "Pause"
+
+#: frontend/views/WDPSViewSlider.php:1862
+msgid "Play"
+msgstr "Oynayın"
+
+#: sliders-notices.php:188
+msgid "Leave A Review?"
+msgstr "Bir Yorum bırakın?"
+
+#: sliders-notices.php:189
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"Sizi WordPress kullanarak memnun ettik umuyoruz  %s! Would you consider "
+"leaving us a review on WordPress.org?"
+
+#: sliders-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "Elbette! Ben isterdim!"
+
+#: sliders-notices.php:191
+msgid "I've already left a review"
+msgstr "Zaten bir inceleme bıraktım"
+
+#: sliders-notices.php:192
+msgid "Maybe Later"
+msgstr "Belki daha sonra"
+
+#: sliders-notices.php:193 sliders-notices.php:203
+msgid "Never show again"
+msgstr "Bir daha asla göstermek"
+
+#: sliders-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "Hey! Nasıl gidiyor?"
+
+#: sliders-notices.php:200
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"WordPress kullanarak için teşekkür ederiz %s! Eğer herhangi bir sorunuz "
+"varsa biz size ihtiyacınız olan her şeyi buldum umuyoruz, ancak:"
+
+#: sliders-notices.php:201
+msgid "Check out User Guide"
+msgstr "Kullanıcı Kılavuzu'na göz atın"
+
+#: sliders-notices.php:202
+msgid "Get Some Help"
+msgstr "Bazı Yardım Alın"
+
+#~ msgid "There are no posts in this slider."
+#~ msgstr "Bu kaydırıcı olarak gönderi yok."
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Facebook'ta paylaşın."
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Twitter'da paylaşın."
+
+#~ msgid "Share on Google+"
+#~ msgstr "Google+ paylaşın."
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Pinterest Share on"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Tumblr Share on"
+
+#~ msgid ""
+#~ "Post Slider WD is a responsive plugin, which allows adding sliders to "
+#~ "your posts/pages and to custom location."
+#~ msgstr ""
+#~ "Post Slider WD yazılarınızın / sayfalara ve özel bir konuma slaytları "
+#~ "ekleyerek sağlar duyarlı eklenti vardır."
+
+#~ msgid "Updates"
+#~ msgstr "Güncellemeler"
+
+#~ msgid ""
+#~ "You can download the latest version of your plugins from your %s "
+#~ "account.\n"
+#~ "            After deactivate and delete the current version.\n"
+#~ "            Install the downloaded latest version of the plugin."
+#~ msgstr ""
+#~ "Eğer eklentileri son sürümünü indirebilirsiniz senin %s hesaptır..\n"
+#~ "Sonra devre dışı bırakmak ve geçerli sürümünü silmek.\n"
+#~ "Eklentinin indirilen son sürümünü yükleyin."
+
+#~ msgid "Current version %s"
+#~ msgstr "Güncel sürüm %s"
+
+#~ msgid "There is a new %s version"
+#~ msgstr "Yeni var %s versiyon"
+
+#~ msgid "%s is up to date."
+#~ msgstr "%s güncel."
+
+#, fuzzy
+#~ msgid "There are no slides in this slider."
+#~ msgstr "Bu galeride resim yok."
+
+#~ msgid "field is required."
+#~ msgstr "alan gereklidir."
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Bu, geçerli bir e-posta adresi değil."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Aramanızı eşleşen görüntü yok."
+
+#~ msgid " item(s)"
+#~ msgstr " madde"
+
+#~ msgid "First"
+#~ msgstr "İlk"
+
+#~ msgid "Previous"
+#~ msgstr "Önceki"
+
+#~ msgid "Next"
+#~ msgstr "Sonraki"
+
+#~ msgid "Last"
+#~ msgstr "Son"
+
+#~ msgid "Go to the first page"
+#~ msgstr "İlk sayfaya git"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Önceki sayfaya git"
+
+#~ msgid "of"
+#~ msgstr "arasında"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Bir sonraki sayfaya gitmek"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Son sayfaya gidin"
+
+#~ msgid "Reset"
+#~ msgstr "Sıfırlayın"
+
+#~ msgid "Search"
+#~ msgstr "Ara"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Orada seçilmiş hiçbir tema veya tema silindi."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Orada seçilmiş bir albüm veya albüm silindi."
+
+#~ msgid "Back"
+#~ msgstr "Geri"
+
+#~ msgid "Album is empty."
+#~ msgstr "Albüm boş"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galeri boş."
+
+#~ msgid "More"
+#~ msgstr "Daha"
+
+#~ msgid "Hide"
+#~ msgstr "Gizle"
+
+#~ msgid "Show comments"
+#~ msgstr "Yorumları göster."
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Resim silindi"
+
+#~ msgid "Maximize"
+#~ msgstr "Özdeyiş"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Show info"
+#~ msgstr "Bilgi göster"
+
+#~ msgid "Show rating"
+#~ msgstr "Derece Show"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Orijinal boyutunda açık görüntüsü. "
+
+#~ msgid "Download original image"
+#~ msgstr "Orijinal resim dosyasını indirin"
+
+#~ msgid "Hits: "
+#~ msgstr "Hits: "
+
+#~ msgid "Rated."
+#~ msgstr "Anma."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Henüz değerlendirilmedi. "
+
+#~ msgid "Votes: "
+#~ msgstr "Oy: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Puanınızı iptal. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Zaten puan var. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Hatası. Yanlış Doğrulama Kodu. "
+
+#~ msgid "Hide Comments"
+#~ msgstr "Yorumlar gizle"
+
+#~ msgid "Name"
+#~ msgstr "Ad"
+
+#~ msgid "Email"
+#~ msgstr "E-posta "
+
+#~ msgid "Comment"
+#~ msgstr "Yorum"
+
+#~ msgid "Verification Code"
+#~ msgstr "doğrulama Kodu"
+
+#~ msgid "Submit"
+#~ msgstr "Gönder"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Yorumunuz ılımlılık bekliyor "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Yorum silin"
+
+#~ msgid "Show Comments"
+#~ msgstr "Yorumları Göster"
+
+#~ msgid "Hide info"
+#~ msgstr "Bilgiyi sakla"
+
+#~ msgid "Hide rating"
+#~ msgstr "Gizle derece"
+
+#~ msgid "Restore"
+#~ msgstr "Restore"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Tam Ekran çıkın."

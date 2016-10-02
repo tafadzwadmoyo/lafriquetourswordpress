@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wdps\n"
+"POT-Creation-Date: 2016-08-17 11:09+0500\n"
+"PO-Revision-Date: 2016-08-17 13:50+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: frontend\n"
+"X-Poedit-SearchPath-1: sliders-notices.php\n"
+
+#: frontend/views/WDPSViewSlider.php:30
+#, fuzzy
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Er is geen galerij geselecteerd of de galerie is verwijderd."
+
+#: frontend/views/WDPSViewSlider.php:47
+msgid "There are no posts  in this slider."
+msgstr "Er zijn geen berichten in deze slider."
+
+#: frontend/views/WDPSViewSlider.php:1829
+#: frontend/views/WDPSViewSlider.php:1894
+msgid "Pause"
+msgstr "Pauze"
+
+#: frontend/views/WDPSViewSlider.php:1862
+msgid "Play"
+msgstr "Spelen"
+
+#: sliders-notices.php:188
+msgid "Leave A Review?"
+msgstr "Laat een review?"
+
+#: sliders-notices.php:189
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"We hopen dat je hebt genoten van het gebruik van WordPress %s! Zou u "
+"overwegen het verlaten van ons een review op WordPress.org?"
+
+#: sliders-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "Tuurlijk! Ik zou graag!"
+
+#: sliders-notices.php:191
+msgid "I've already left a review"
+msgstr "Ik heb al een recensie"
+
+#: sliders-notices.php:192
+msgid "Maybe Later"
+msgstr "Misschien later"
+
+#: sliders-notices.php:193 sliders-notices.php:203
+msgid "Never show again"
+msgstr "Meer tonen nooit"
+
+#: sliders-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "Hey! Hoe gaat het?"
+
+#: sliders-notices.php:200
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"Dank u voor het gebruiken van WordPress %s! Wij hopen dat u alles wat u "
+"nodig hebt gevonden, maar als je vragen hebt:"
+
+#: sliders-notices.php:201
+msgid "Check out User Guide"
+msgstr "Check out Gebruikershandleiding"
+
+#: sliders-notices.php:202
+msgid "Get Some Help"
+msgstr "Get Some Help"
+
+#~ msgid "There are no posts in this slider."
+#~ msgstr "Er zijn geen berichten in deze slider."
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Delen op Facebook"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Delen op Twitter"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Deel op Google+"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Share on Pinterest"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Share on Tumblr"
+
+#~ msgid ""
+#~ "Post Slider WD is a responsive plugin, which allows adding sliders to "
+#~ "your posts/pages and to custom location."
+#~ msgstr ""
+#~ "Post Slider WD is een responsieve plugin, die het toevoegen van dia's "
+#~ "mogelijk maakt om uw berichten / pagina's en aangepaste locatie."
+
+#~ msgid "Updates"
+#~ msgstr "Updates"
+
+#~ msgid ""
+#~ "You can download the latest version of your plugins from your %s "
+#~ "account.\n"
+#~ "            After deactivate and delete the current version.\n"
+#~ "            Install the downloaded latest version of the plugin."
+#~ msgstr ""
+#~ "U kunt de nieuwste versie van uw plug-ins te downloaden van uw %s "
+#~ "rekening.\n"
+#~ "Na het uitschakelen en de huidige versie te verwijderen.\n"
+#~ "Installeer de gedownloade laatste versie van de plugin."
+
+#~ msgid "Current version %s"
+#~ msgstr "Huidige versie %s"
+
+#~ msgid "There is a new %s version"
+#~ msgstr "Er is een nieuw %s versie"
+
+#~ msgid "%s is up to date."
+#~ msgstr "%s is up-to-date."
+
+#, fuzzy
+#~ msgid "There are no slides in this slider."
+#~ msgstr "Er zijn geen afbeeldingen in deze galerij"
+
+#~ msgid "field is required."
+#~ msgstr "is verplicht. "
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Dit is geen geldig e-mailadres."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "Er zijn geen beelden die voldoen aan uw zoekopdracht."
+
+#~ msgid " item(s)"
+#~ msgstr "item"
+
+#~ msgid "First"
+#~ msgstr "Eerste"
+
+#~ msgid "Previous"
+#~ msgstr "Vorige"
+
+#~ msgid "Next"
+#~ msgstr "Volgende"
+
+#~ msgid "Last"
+#~ msgstr "Duren"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Ga naar de eerste pagina"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Translation:"
+
+#~ msgid "of"
+#~ msgstr "van"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Ga naar de volgende pagina"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Ga naar de laatste pagina"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Search"
+#~ msgstr "Søg"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Er is geen thema geselecteerd of het thema is verwijderd."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Er is geen album geselecteerd of het album is verwijderd."
+
+#~ msgid "Back"
+#~ msgstr "Terug"
+
+#~ msgid "Album is empty."
+#~ msgstr "Album is leeg"
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Galerij is leeg"
+
+#~ msgid "More"
+#~ msgstr "Meer"
+
+#~ msgid "Hide"
+#~ msgstr "Verbergen"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Billedet er blevet slettet."
+
+#~ msgid "Maximize"
+#~ msgstr "Maximaliseren"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Op groot formaat"
+
+#~ msgid "Show info"
+#~ msgstr "Vis info"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Åbn billede i original størrelse. "
+
+#~ msgid "Download original image"
+#~ msgstr "Download originalbilledet"
+
+#~ msgid "Show Comments"
+#~ msgstr "Toon commentaren"
+
+#~ msgid "Hide Comments"
+#~ msgstr "Verberg commentaren"
+
+#, fuzzy
+#~ msgid "Hide info"
+#~ msgstr "Verbergen"
+
+#~ msgid "Restore"
+#~ msgstr "Herstellen"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Exit Fullscreen"
+
+#~ msgid "Show comments"
+#~ msgstr "Toon reacties"
+
+#~ msgid "Show rating"
+#~ msgstr "Vis rating"
+
+#~ msgid "Hits: "
+#~ msgstr "Hits: "
+
+#~ msgid "Rated."
+#~ msgstr "Gewaardeerd."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Ikke bedømt endnu. "
+
+#~ msgid "Votes: "
+#~ msgstr "Stemmer: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Annullere din bedømmelse. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Du har allerede bedømt. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Fout. Onjuist Verificatie Code. "
+
+#~ msgid "Name"
+#~ msgstr "Noemen"
+
+#~ msgid "Email"
+#~ msgstr "e-mail "
+
+#~ msgid "Comment"
+#~ msgstr "Comment"
+
+#~ msgid "Verification Code"
+#~ msgstr "verificatie Code"
+
+#~ msgid "Submit"
+#~ msgstr "Indienen"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Din kommentar afventer moderation "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Opmerking verwijderen"
+
+#~ msgid "Hide rating"
+#~ msgstr "Skjul rating"

@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wdps\n"
+"POT-Creation-Date: 2016-08-17 10:57+0500\n"
+"PO-Revision-Date: 2016-08-17 10:57+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: frontend\n"
+"X-Poedit-SearchPath-1: sliders-notices.php\n"
+
+#: frontend/views/WDPSViewSlider.php:30
+msgid "There is no slider selected or the slider was deleted."
+msgstr "Слайдер не выбрана или была удалена."
+
+#: frontend/views/WDPSViewSlider.php:47
+msgid "There are no posts  in this slider."
+msgstr "Там нет сообщений в этом слайдера."
+
+#: frontend/views/WDPSViewSlider.php:1829
+#: frontend/views/WDPSViewSlider.php:1894
+msgid "Pause"
+msgstr "Пауза"
+
+#: frontend/views/WDPSViewSlider.php:1862
+msgid "Play"
+msgstr "Начать"
+
+#: sliders-notices.php:188
+msgid "Leave A Review?"
+msgstr "Оставить отзыв?"
+
+#: sliders-notices.php:189
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+"Мы надеемся, что вам понравилось, используя WordPress %s! Считаете ли вы, "
+"оставив нам свой отзыв о WordPress.org?"
+
+#: sliders-notices.php:190
+msgid "Sure! I'd love to!"
+msgstr "Конечно! Я бы хотел!"
+
+#: sliders-notices.php:191
+msgid "I've already left a review"
+msgstr "Я уже оставил отзыв"
+
+#: sliders-notices.php:192
+msgid "Maybe Later"
+msgstr "Может быть позже"
+
+#: sliders-notices.php:193 sliders-notices.php:203
+msgid "Never show again"
+msgstr "Никогда снова показать"
+
+#: sliders-notices.php:199
+msgid "Hey! How's It Going?"
+msgstr "Привет! Как дела?"
+
+#: sliders-notices.php:200
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+"Благодарим Вас за использование WordPress %s! Мы надеемся, что Вы нашли все, "
+"что нужно, но если у вас есть какие-либо вопросы:"
+
+#: sliders-notices.php:201
+msgid "Check out User Guide"
+msgstr "Проверьте Руководство пользователя"
+
+#: sliders-notices.php:202
+msgid "Get Some Help"
+msgstr "Получить помощь"
+
+#~ msgid "There are no posts in this slider."
+#~ msgstr "Там нет запици в этом слайдера."
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Поделиться на Facebook"
+
+#~ msgid "Share on Twitter"
+#~ msgstr "Поделиться на Twitter"
+
+#~ msgid "Share on Google+"
+#~ msgstr "Поделиться на Google+"
+
+#~ msgid "Share on Pinterest"
+#~ msgstr "Поделиться на Pinterest"
+
+#~ msgid "Share on Tumblr"
+#~ msgstr "Поделиться на Tumblr"
+
+#~ msgid ""
+#~ "Post Slider WD is a responsive plugin, which allows adding sliders to "
+#~ "your posts/pages and to custom location."
+#~ msgstr ""
+#~ "Post Slider WD это реагировать плагин, который позволяет добавлять слайды "
+#~ "ваших сообщений / страниц и заказ места."
+
+#~ msgid "Updates"
+#~ msgstr "Обновления"
+
+#~ msgid ""
+#~ "You can download the latest version of your plugins from your %s "
+#~ "account.\n"
+#~ "            After deactivate and delete the current version.\n"
+#~ "            Install the downloaded latest version of the plugin."
+#~ msgstr ""
+#~ "Вы можете скачать последнюю версию ваших плагинов от вашего %s Счет. \n"
+#~ " После отключения и удаления текущей версии.\n"
+#~ "Установите загруженный последнюю версию плагина."
+
+#~ msgid "Current version %s"
+#~ msgstr "Текущая версия %s"
+
+#~ msgid "There is a new %s version"
+#~ msgstr "Существует новый %s версия"
+
+#~ msgid "%s is up to date."
+#~ msgstr "%s до даты."
+
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgid "Search"
+#~ msgstr "Поиск"
+
+#~ msgid "Reset"
+#~ msgstr "Сброс"
+
+#~ msgid "There are no slides in this slider."
+#~ msgstr "В этом слайдере нет изображений."
+
+#~ msgid "field is required."
+#~ msgstr "поле обязательно для заполнения."
+
+#~ msgid "This is not a valid email address."
+#~ msgstr "Это не правильный адрес электронной почты."
+
+#~ msgid "There are no images matching your search."
+#~ msgstr "По вашему поиску не найдено изображении"
+
+#~ msgid " item(s)"
+#~ msgstr "элемент(ы)"
+
+#~ msgid "First"
+#~ msgstr "Первый"
+
+#~ msgid "Previous"
+#~ msgstr "Предыдущий"
+
+#~ msgid "Next"
+#~ msgstr "Следующий"
+
+#~ msgid "Last"
+#~ msgstr "Последний"
+
+#~ msgid "Go to the first page"
+#~ msgstr "Перейти к первой странице"
+
+#~ msgid "Go to the previous page"
+#~ msgstr "Перейти на предыдущую страницу"
+
+#~ msgid "of"
+#~ msgstr "из"
+
+#~ msgid "Go to the next page"
+#~ msgstr "Перейти на следующую страницу"
+
+#~ msgid "Go to the last page"
+#~ msgstr "Перейти к последней странице"
+
+#~ msgid "There is no theme selected or the theme was deleted."
+#~ msgstr "Тема не выбрана или была удалена."
+
+#~ msgid "There is no album selected or the album was deleted."
+#~ msgstr "Альбом не выбран или был удален."
+
+#~ msgid "Back"
+#~ msgstr "Назад"
+
+#~ msgid "Album is empty."
+#~ msgstr "Альбом пуст."
+
+#~ msgid "Gallery is empty."
+#~ msgstr "Галерея пуста."
+
+#~ msgid "More"
+#~ msgstr "Более"
+
+#~ msgid "Hide"
+#~ msgstr "Скрыть"
+
+#~ msgid "Show comments"
+#~ msgstr "Показать комментарии"
+
+#~ msgid "The image has been deleted."
+#~ msgstr "Изображение была удалена."
+
+#~ msgid "Maximize"
+#~ msgstr "Увеличить "
+
+#~ msgid "Fullscreen"
+#~ msgstr "Полноэкранный режим"
+
+#~ msgid "Show info"
+#~ msgstr "Показать информацию"
+
+#~ msgid "Show rating"
+#~ msgstr "Показать рейтинг"
+
+#~ msgid "Open image in original size."
+#~ msgstr "Открыть изображение в оригинальном размере"
+
+#~ msgid "Download original image"
+#~ msgstr "Скачать оригинальное изображение"
+
+#~ msgid "Hits: "
+#~ msgstr "Просмотров: "
+
+#~ msgid "Rated."
+#~ msgstr "Оценено."
+
+#~ msgid "Not rated yet."
+#~ msgstr "Пока не оценено."
+
+#~ msgid "Votes: "
+#~ msgstr "Голосов: "
+
+#~ msgid "Cancel your rating."
+#~ msgstr "Отменить свой рейтинг. "
+
+#~ msgid "You have already rated."
+#~ msgstr "Вы уже оценили. "
+
+#~ msgid "Error. Incorrect Verification Code."
+#~ msgstr "Ошибка. Неправильный код."
+
+#~ msgid "Hide Comments"
+#~ msgstr "Скрыть комментарии"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Comment"
+#~ msgstr "Комментарий"
+
+#~ msgid "Verification Code"
+#~ msgstr "Код подтверждения"
+
+#~ msgid "Submit"
+#~ msgstr "Отправить"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Ваш комментарий ожидает модерации "
+
+#~ msgid "Delete Comment"
+#~ msgstr "Удалить комментарий"
+
+#~ msgid "Show Comments"
+#~ msgstr "Показать комментарии"
+
+#~ msgid "Hide info"
+#~ msgstr "Скрыть информацию"
+
+#~ msgid "Hide rating"
+#~ msgstr "Скрыть рейтинг"
+
+#~ msgid "Restore"
+#~ msgstr "Восстановить"
+
+#~ msgid "Exit Fullscreen"
+#~ msgstr "Отключить полноэкранный режим"

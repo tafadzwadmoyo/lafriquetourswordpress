@@ -1,0 +1,208 @@
+/*
+Theme Name: L'Afrique Tours 1.0
+Author: Tafadzwa Moyo
+Description: L'Afrique Tours Theme 1.0
+License: 
+Tags:
+
+L'Afrique Tours Wordpress Theme © 2016 Tafadzwa Moyo
+*/
+body
+{	
+}
+#header_image
+{ 
+  max-width:400px;
+  padding-top:15px;
+  padding-right:100px;
+}
+#branding
+{
+	float:left;
+}
+.container
+{
+	margin: auto;
+	width: 90%;
+}
+.center {
+	display: block;
+	
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+	width: 100%;
+}
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+.carousel-caption {
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+
+
+ul {
+    list-style-type: none;
+	text-align:center;
+	display: block;
+    margin: auto;
+}
+li, #menu {
+    display: inline;
+	padding: 15px;
+	font-size: 112%;
+	font-family: "Times New Roman", Times, serif;
+	
+}
+#menu_ul
+{
+	position: fixed;
+}
+a
+{
+	color: #0a7c5f;
+}
+a:hover { 
+    color: #fbad31;
+	text-decoration:none;
+}
+.current-menu-item a
+{
+	color: #fbad31;
+}
+
+#freewall{
+    max-width: 960px;
+    margin: auto;
+	text-align:center;
+	margin:auto;
+	padding-top: 10px;
+    }
+.freewallfp {
+
+  	text-align:center;
+	margin:auto;
+	background-color:black;
+	border-width: 10px;
+	border-color: white;
+	border-style: solid;
+	float: left;
+
+}
+.freewallitem
+{
+	width: 300px;
+	height: 300px;
+	z-index: -1;
+	
+}
+#forecast{
+	padding-top:15px;
+	border-top: solid;
+	border-color: #ababab;
+    border-width: 3px;
+}
+.fp_content
+{
+	z-index: 100;
+	position: absolute;
+	margin:0 auto;
+	width: 300px;
+}
+.fp_header
+{
+	/*font-weight: bold;*/
+	font-size: 200%;
+}
+.fp_hidden
+{
+	text-align:center;
+	color: white;
+	margin:auto;
+	display: none;
+}
+.fp_img
+{
+	z-index: 10;
+}
+.fp_border
+{
+	border-top: solid;
+	border-color: #ababab;
+    border-width: 3px;
+}
+.fp_visible
+{
+	text-align:center;
+	margin:auto;
+	color: white;
+}
+#footer
+{
+	width:100%;
+	left:0;
+	display: block;
+	text-align: center;
+	margin:auto;
+	border-top: solid;
+	border-color: #ababab;
+    border-width: 3px;
+}
+.person_img
+{
+	width:250px;
+	height: 250px;
+	padding: 15px;
+	border: solid;
+	border-color: #ababab;
+}
+.space
+{
+	padding: 15px;
+}
+.details
+{
+	padding: 15px;
+	
+}
+.post-byline { display: none; }
+
+.top-border
+{
+	border-top: solid;
+	border-color: #ababab;
+    border-width: 3px;
+}
+
+.view
+{
+	border: solid;
+	border-color: white;
+	border-width: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 8px;
+	padding-right: 8px;
+	color: white;
+}
+.weather, .aw-widget-legal
+{
+	max-width:400px;
+}
+table
+{
+	text-align:center;
+	margin:auto
+}
+.header_table
+{
+	padding-top: 15px;
+}
+.smbt-social-icons
+{
+	margin-right: 0;
+	color: #0a7c5f;
+	padding-left: 0px;
+}
